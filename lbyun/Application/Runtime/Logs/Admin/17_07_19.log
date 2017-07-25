@@ -1,0 +1,853 @@
+[ 2017-07-19T09:22:44+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/index1.html
+ERR: 非法操作:index1
+
+[ 2017-07-19T09:22:46+08:00 ] ::1 /yjc/lby/index.php/Login/undefined?1500427366850
+ERR: 非法操作:undefined
+
+[ 2017-07-19T09:22:55+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/index1.html
+ERR: 非法操作:index1
+
+[ 2017-07-19T10:55:20+08:00 ] ::1 /yjc/lby/index.php/Blot/index_add.html
+ERR: 1054:Unknown column 'good' in 'group statement'
+ [ SQL语句 ] : select count(fonst)as count from  register where act_enable =1   group by good
+
+[ 2017-07-19T11:02:26+08:00 ] ::1 /yjc/lby/index.php/Blot/index_add.html
+ERR: 1054:Unknown column 'good' in 'group statement'
+ [ SQL语句 ] : select count(fonst) as count from  register where act_enable =1   group by good
+
+[ 2017-07-19T11:02:27+08:00 ] ::1 /yjc/lby/index.php/Blot/index_add.html
+ERR: 1054:Unknown column 'good' in 'group statement'
+ [ SQL语句 ] : select count(fonst) as count from  register where act_enable =1   group by good
+
+[ 2017-07-19T11:02:27+08:00 ] ::1 /yjc/lby/index.php/Blot/index_add.html
+ERR: 1054:Unknown column 'good' in 'group statement'
+ [ SQL语句 ] : select count(fonst) as count from  register where act_enable =1   group by good
+
+[ 2017-07-19T11:02:27+08:00 ] ::1 /yjc/lby/index.php/Blot/index_add.html
+ERR: 1054:Unknown column 'good' in 'group statement'
+ [ SQL语句 ] : select count(fonst) as count from  register where act_enable =1   group by good
+
+[ 2017-07-19T11:02:28+08:00 ] ::1 /yjc/lby/index.php/Blot/index_add.html
+ERR: 1054:Unknown column 'good' in 'group statement'
+ [ SQL语句 ] : select count(fonst) as count from  register where act_enable =1   group by good
+
+[ 2017-07-19T11:02:28+08:00 ] ::1 /yjc/lby/index.php/Blot/index_add.html
+ERR: 1054:Unknown column 'good' in 'group statement'
+ [ SQL语句 ] : select count(fonst) as count from  register where act_enable =1   group by good
+
+[ 2017-07-19T11:02:28+08:00 ] ::1 /yjc/lby/index.php/Blot/index_add.html
+ERR: 1054:Unknown column 'good' in 'group statement'
+ [ SQL语句 ] : select count(fonst) as count from  register where act_enable =1   group by good
+
+[ 2017-07-19T11:14:06+08:00 ] ::1 /yjc/lby/index.php/Blot/index_add.html
+ERR: 1054:Unknown column 'act_fonst' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `register` WHERE ( act_enable=1 and act_fonst=1 ) LIMIT 1  
+
+[ 2017-07-19T11:14:07+08:00 ] ::1 /yjc/lby/index.php/Blot/index_add.html
+ERR: 1054:Unknown column 'act_fonst' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `register` WHERE ( act_enable=1 and act_fonst=1 ) LIMIT 1  
+
+[ 2017-07-19T11:14:08+08:00 ] ::1 /yjc/lby/index.php/Blot/index_add.html
+ERR: 1054:Unknown column 'act_fonst' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `register` WHERE ( act_enable=1 and act_fonst=1 ) LIMIT 1  
+
+[ 2017-07-19T11:48:43+08:00 ] ::1 /yjc/lby/index.php/Blot/index_add.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'fonst=1 ) LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `register` WHERE ( act_enable=1  fonst=1 ) LIMIT 1  
+
+[ 2017-07-19T11:49:02+08:00 ] ::1 /yjc/lby/index.php/Blot/index_add.html
+ERR: 1054:Unknown column 'font' in 'group statement'
+ [ SQL语句 ] : SELECT count(fonst),count(act_enable),`act_zid`,`t_id`,`name`,`act_time`,`id`,`busname`,`act_username`,`act_danhao`,`act_good`,`fonst` FROM `register` INNER JOIN sys_route on act_tong = t_id INNER JOIN sys_business on act_good = id  WHERE ( act_enable=1 || fonst=1 ) GROUP BY act_good,font LIMIT 0,6  
+
+[ 2017-07-19T11:49:03+08:00 ] ::1 /yjc/lby/index.php/Blot/index_add.html
+ERR: 1054:Unknown column 'font' in 'group statement'
+ [ SQL语句 ] : SELECT count(fonst),count(act_enable),`act_zid`,`t_id`,`name`,`act_time`,`id`,`busname`,`act_username`,`act_danhao`,`act_good`,`fonst` FROM `register` INNER JOIN sys_route on act_tong = t_id INNER JOIN sys_business on act_good = id  WHERE ( act_enable=1 || fonst=1 ) GROUP BY act_good,font LIMIT 0,6  
+
+[ 2017-07-19T11:49:03+08:00 ] ::1 /yjc/lby/index.php/Blot/index_add.html
+ERR: 1054:Unknown column 'font' in 'group statement'
+ [ SQL语句 ] : SELECT count(fonst),count(act_enable),`act_zid`,`t_id`,`name`,`act_time`,`id`,`busname`,`act_username`,`act_danhao`,`act_good`,`fonst` FROM `register` INNER JOIN sys_route on act_tong = t_id INNER JOIN sys_business on act_good = id  WHERE ( act_enable=1 || fonst=1 ) GROUP BY act_good,font LIMIT 0,6  
+
+[ 2017-07-19T11:50:02+08:00 ] ::1 /yjc/lby/index.php/Blot/index_add.html
+ERR: 1054:Unknown column 'font' in 'group statement'
+ [ SQL语句 ] : SELECT count(fonst),count(act_enable),`act_zid`,`t_id`,`name`,`act_time`,`id`,`busname`,`act_username`,`act_danhao`,`act_good`,`fonst` FROM `register` INNER JOIN sys_route on act_tong = t_id INNER JOIN sys_business on act_good = id  WHERE ( act_enable=1 or fonst=1 ) GROUP BY act_good,font LIMIT 0,6  
+
+[ 2017-07-19T11:50:02+08:00 ] ::1 /yjc/lby/index.php/Blot/index_add.html
+ERR: 1054:Unknown column 'font' in 'group statement'
+ [ SQL语句 ] : SELECT count(fonst),count(act_enable),`act_zid`,`t_id`,`name`,`act_time`,`id`,`busname`,`act_username`,`act_danhao`,`act_good`,`fonst` FROM `register` INNER JOIN sys_route on act_tong = t_id INNER JOIN sys_business on act_good = id  WHERE ( act_enable=1 or fonst=1 ) GROUP BY act_good,font LIMIT 0,6  
+
+[ 2017-07-19T11:50:03+08:00 ] ::1 /yjc/lby/index.php/Blot/index_add.html
+ERR: 1054:Unknown column 'font' in 'group statement'
+ [ SQL语句 ] : SELECT count(fonst),count(act_enable),`act_zid`,`t_id`,`name`,`act_time`,`id`,`busname`,`act_username`,`act_danhao`,`act_good`,`fonst` FROM `register` INNER JOIN sys_route on act_tong = t_id INNER JOIN sys_business on act_good = id  WHERE ( act_enable=1 or fonst=1 ) GROUP BY act_good,font LIMIT 0,6  
+
+[ 2017-07-19T11:50:03+08:00 ] ::1 /yjc/lby/index.php/Blot/index_add.html
+ERR: 1054:Unknown column 'font' in 'group statement'
+ [ SQL语句 ] : SELECT count(fonst),count(act_enable),`act_zid`,`t_id`,`name`,`act_time`,`id`,`busname`,`act_username`,`act_danhao`,`act_good`,`fonst` FROM `register` INNER JOIN sys_route on act_tong = t_id INNER JOIN sys_business on act_good = id  WHERE ( act_enable=1 or fonst=1 ) GROUP BY act_good,font LIMIT 0,6  
+
+[ 2017-07-19T11:50:03+08:00 ] ::1 /yjc/lby/index.php/Blot/index_add.html
+ERR: 1054:Unknown column 'font' in 'group statement'
+ [ SQL语句 ] : SELECT count(fonst),count(act_enable),`act_zid`,`t_id`,`name`,`act_time`,`id`,`busname`,`act_username`,`act_danhao`,`act_good`,`fonst` FROM `register` INNER JOIN sys_route on act_tong = t_id INNER JOIN sys_business on act_good = id  WHERE ( act_enable=1 or fonst=1 ) GROUP BY act_good,font LIMIT 0,6  
+
+[ 2017-07-19T13:16:37+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/index1.html
+ERR: 非法操作:index1
+
+[ 2017-07-19T13:42:18+08:00 ] ::1 /yjc/lby/instructions/list
+ERR: 无法加载控制器:Instructions
+
+[ 2017-07-19T13:42:19+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T13:42:19+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T13:42:19+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T13:42:19+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T13:42:19+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T13:42:21+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T13:42:21+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T13:42:21+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T13:42:21+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T13:42:21+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T13:42:23+08:00 ] ::1 /yjc/lby/instructions/list
+ERR: 无法加载控制器:Instructions
+
+[ 2017-07-19T13:42:24+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T13:42:24+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T13:42:24+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T13:42:24+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T13:42:24+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T14:32:43+08:00 ] ::1 /yjc/lby/index.php/Login/undefined?1500445963040
+ERR: 非法操作:undefined
+
+[ 2017-07-19T14:32:53+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/index1.html
+ERR: 非法操作:index1
+
+[ 2017-07-19T14:36:11+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T14:36:11+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T14:36:11+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T14:36:11+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T14:36:11+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T14:36:13+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T14:36:13+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T14:36:13+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T14:36:13+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T14:36:13+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T14:36:17+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T14:36:17+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T14:36:18+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T14:36:18+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T14:36:18+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T15:19:38+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T15:19:38+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T15:19:38+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T15:19:38+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T15:19:38+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T15:19:42+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T15:19:42+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T15:19:42+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T15:19:42+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T15:19:42+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T15:19:43+08:00 ] ::1 /yjc/lby/index.php/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-07-19T15:23:37+08:00 ] ::1 /yjc/lby/index.php/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-07-19T15:23:39+08:00 ] ::1 /yjc/lby/index.php/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-07-19T15:33:48+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T15:33:48+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T15:33:48+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T15:33:48+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T15:33:48+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T15:33:50+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T15:33:50+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T15:33:50+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T15:33:50+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T15:33:50+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T15:42:57+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T15:42:57+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T15:42:57+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T15:42:57+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T15:42:57+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T15:42:59+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T15:42:59+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T15:42:59+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T15:42:59+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T15:42:59+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T15:43:51+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T15:43:51+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T15:43:51+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T15:43:51+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T15:43:51+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:22:38+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T16:22:39+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:22:39+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:22:39+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T16:22:39+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:22:40+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T16:22:40+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:22:40+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:22:40+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T16:22:40+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:37:35+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:37:35+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T16:37:35+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:37:35+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T16:37:35+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:38:53+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:38:53+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T16:38:53+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:38:53+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:38:53+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T16:39:34+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T16:39:34+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:39:34+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:39:34+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T16:39:34+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:39:44+08:00 ] ::1 /yjc/lby/index.php/Batch/impUser.html
+ERR: 1048:Column 'active_bid' cannot be null
+ [ SQL语句 ] : INSERT INTO `market_action` (`active_bid`,`action_count`,`bulk_time`,`action_file`,`bulk_phone`,`bulk_lmei`,`bulk_card`) VALUES (NULL,NULL,NULL,NULL,NULL,NULL,NULL)
+
+[ 2017-07-19T16:39:55+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:39:55+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T16:39:55+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:39:55+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T16:39:55+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:40:03+08:00 ] ::1 /yjc/lby/index.php/Batch/impUser.html
+ERR: 1048:Column 'active_bid' cannot be null
+ [ SQL语句 ] : INSERT INTO `market_action` (`active_bid`,`action_count`,`bulk_time`,`action_file`,`bulk_phone`,`bulk_lmei`,`bulk_card`) VALUES (NULL,NULL,NULL,NULL,NULL,NULL,NULL)
+
+[ 2017-07-19T16:41:15+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:41:15+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T16:41:15+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:41:15+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T16:41:15+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:41:57+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T16:41:57+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:41:57+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:41:57+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T16:41:57+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:42:32+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:42:32+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T16:42:32+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:42:33+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:42:33+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T16:44:05+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T16:44:05+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:44:06+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:44:06+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T16:44:06+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:44:06+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:44:06+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T16:44:06+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:44:06+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T16:44:06+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T17:13:38+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T17:13:38+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T17:13:38+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T17:13:38+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T17:13:38+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:00:10+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:00:10+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:00:11+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:00:11+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:00:11+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:00:17+08:00 ] ::1 /yjc/lby/index.php/Batch/impUser.html
+ERR: 1048:Column 'active_bid' cannot be null
+ [ SQL语句 ] : INSERT INTO `market_action` (`active_bid`,`action_count`,`action_file`,`bulk_phone`,`bulk_lmei`,`bulk_card`,`bulk_time`) VALUES (NULL,NULL,NULL,NULL,NULL,NULL,NULL)
+
+[ 2017-07-19T18:00:29+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:00:29+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:00:29+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:00:29+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:00:29+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:00:37+08:00 ] ::1 /yjc/lby/index.php/Batch/impUser.html
+ERR: 1048:Column 'active_bid' cannot be null
+ [ SQL语句 ] : INSERT INTO `market_action` (`active_bid`,`action_count`,`action_file`,`bulk_phone`,`bulk_lmei`,`bulk_card`,`bulk_time`) VALUES (NULL,NULL,NULL,NULL,NULL,NULL,NULL)
+
+[ 2017-07-19T18:01:31+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:01:31+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:01:32+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:01:32+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:01:32+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:01:44+08:00 ] ::1 /yjc/lby/index.php/Batch/impUser.html
+ERR: 1048:Column 'active_bid' cannot be null
+ [ SQL语句 ] : INSERT INTO `market_action` (`active_bid`,`action_count`,`action_file`,`bulk_phone`,`bulk_lmei`,`bulk_card`,`bulk_time`) VALUES (NULL,NULL,NULL,NULL,NULL,NULL,NULL)
+
+[ 2017-07-19T18:02:30+08:00 ] ::1 /yjc/lby/index.php/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-07-19T18:02:32+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:02:32+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:02:32+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:02:32+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:02:32+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:02:43+08:00 ] ::1 /yjc/lby/index.php/Batch/impUser.html
+ERR: 1048:Column 'bulk_card' cannot be null
+ [ SQL语句 ] : INSERT INTO `market_action` (`active_bid`,`action_count`,`action_file`,`bulk_phone`,`bulk_lmei`,`bulk_card`,`bulk_time`) VALUES ('18303226686','0','40955','678901234','1.3014319950121E+17',NULL,NULL)
+
+[ 2017-07-19T18:07:22+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:07:22+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:07:22+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:07:22+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:07:22+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:07:31+08:00 ] ::1 /yjc/lby/index.php/Batch/impUser.html
+ERR: 1048:Column 'bulk_card' cannot be null
+ [ SQL语句 ] : INSERT INTO `market_action` (`active_bid`,`action_file`,`bulk_phone`,`bulk_lmei`,`bulk_card`,`bulk_time`) VALUES ('18303226686','40955','678901234','1.3014319950121E+17',NULL,NULL)
+
+[ 2017-07-19T18:08:33+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:08:33+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:08:33+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:08:33+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:08:33+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:08:41+08:00 ] ::1 /yjc/lby/index.php/Batch/impUser.html
+ERR: 1048:Column 'bulk_card' cannot be null
+ [ SQL语句 ] : INSERT INTO `market_action` (`active_bid`,`action_file`,`bulk_phone`,`bulk_lmei`,`bulk_card`,`bulk_time`) VALUES ('18303226686','40955','678901234','1.3014319950121E+17',NULL,NULL)
+
+[ 2017-07-19T18:09:02+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:09:02+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:09:02+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:09:02+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:09:02+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:09:10+08:00 ] ::1 /yjc/lby/index.php/Batch/impUser.html
+ERR: 1048:Column 'bulk_card' cannot be null
+ [ SQL语句 ] : INSERT INTO `market_action` (`active_bid`,`action_file`,`bulk_phone`,`bulk_lmei`,`bulk_card`,`bulk_time`) VALUES ('18303226686','40955','678901234','1.3014319950121E+17',NULL,NULL)
+
+[ 2017-07-19T18:09:32+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:09:32+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:09:32+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:09:32+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:09:32+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:09:41+08:00 ] ::1 /yjc/lby/index.php/Batch/impUser.html
+ERR: 1048:Column 'bulk_card' cannot be null
+ [ SQL语句 ] : INSERT INTO `market_action` (`active_bid`,`action_file`,`bulk_phone`,`bulk_lmei`,`bulk_card`,`bulk_time`) VALUES ('18303226686','40955','678901234','1.3014319950121E+17',NULL,NULL)
+
+[ 2017-07-19T18:19:30+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:19:30+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:19:30+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:19:30+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:19:30+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:19:40+08:00 ] ::1 /yjc/lby/index.php/Batch/impUser.html
+ERR: 1048:Column 'bulk_card' cannot be null
+ [ SQL语句 ] : INSERT INTO `market_action` (`active_bid`,`action_file`,`bulk_phone`,`bulk_lmei`,`bulk_card`,`bulk_time`) VALUES ('18303226686','40955','678901234','1.3014319950121E+17',NULL,'_20170719181940')
+
+[ 2017-07-19T18:20:26+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:20:26+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:20:26+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:20:26+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:20:26+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:20:28+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:20:28+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:20:28+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:20:28+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:20:28+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:20:42+08:00 ] ::1 /yjc/lby/index.php/Batch/impUser.html
+ERR: 1048:Column 'bulk_card' cannot be null
+ [ SQL语句 ] : INSERT INTO `market_action` (`active_bid`,`action_file`,`bulk_phone`,`bulk_lmei`,`bulk_card`,`bulk_time`) VALUES ('18303226686','40955','678901234','1.3014319950121E+17',NULL,'_20170719182042')
+
+[ 2017-07-19T18:23:10+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:23:10+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:23:10+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:23:10+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:23:10+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:23:20+08:00 ] ::1 /yjc/lby/index.php/Batch/impUser.html
+ERR: 1048:Column 'action_file' cannot be null
+ [ SQL语句 ] : INSERT INTO `market_action` (`active_bid`,`action_file`,`bulk_phone`,`bulk_lmei`,`bulk_card`,`bulk_time`) VALUES ('18303226686',NULL,'678901234','1301431995',NULL,'_20170719182320')
+
+[ 2017-07-19T18:23:47+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:23:47+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:23:47+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:23:47+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:23:47+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:23:57+08:00 ] ::1 /yjc/lby/index.php/Batch/impUser.html
+ERR: 1048:Column 'action_file' cannot be null
+ [ SQL语句 ] : INSERT INTO `market_action` (`active_bid`,`action_file`,`bulk_phone`,`bulk_lmei`,`bulk_card`,`bulk_time`) VALUES ('18303226686',NULL,'678901234','1301431995',NULL,'_20170719182356')
+
+[ 2017-07-19T18:30:36+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:30:36+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:30:36+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:30:36+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:30:36+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:30:48+08:00 ] ::1 /yjc/lby/index.php/Batch/impUser.html
+ERR: 1048:Column 'active_bid' cannot be null
+ [ SQL语句 ] : INSERT INTO `market_action` (`active_bid`,`action_count`,`action_file`,`bulk_phone`,`bulk_lmei`,`bulk_card`,`bulk_time`) VALUES (NULL,NULL,NULL,NULL,NULL,NULL,'_20170719183048')
+
+[ 2017-07-19T18:31:28+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:31:28+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:31:28+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:31:28+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:31:28+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:31:29+08:00 ] ::1 /yjc/lby/index.php/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-07-19T18:31:30+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:31:30+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:31:30+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:31:30+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:31:30+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:31:37+08:00 ] ::1 /yjc/lby/index.php/Batch/impUser.html
+ERR: 1048:Column 'action_file' cannot be null
+ [ SQL语句 ] : INSERT INTO `market_action` (`active_bid`,`action_file`,`bulk_phone`,`bulk_lmei`,`bulk_card`,`bulk_time`) VALUES ('18303226686',NULL,'678901234','1301431995',NULL,'_20170719183137')
+
+[ 2017-07-19T18:32:22+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:32:22+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:32:22+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:32:22+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:32:22+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:32:30+08:00 ] ::1 /yjc/lby/index.php/Batch/impUser.html
+ERR: 1048:Column 'action_file' cannot be null
+ [ SQL语句 ] : INSERT INTO `market_action` (`active_bid`,`action_file`,`bulk_phone`,`bulk_lmei`,`bulk_card`,`bulk_time`) VALUES ('18303226686',NULL,'678901234','1301431995',NULL,'_20170719183230')
+
+[ 2017-07-19T18:40:45+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:40:45+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:40:45+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:40:45+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:40:45+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:42:25+08:00 ] ::1 /yjc/lby/index.php/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-07-19T18:42:26+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:42:26+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:42:26+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:42:26+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-19T18:42:26+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-19T18:42:32+08:00 ] ::1 /yjc/lby/index.php/Login/undefined?1500460951927
+ERR: 非法操作:undefined
+

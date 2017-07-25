@@ -1,0 +1,295 @@
+/*custom font*/
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
+
+/*basic reset*/
+* {margin: 0; 
+   padding: 0;
+   font-family:"寰蒋闆呴粦"
+}
+
+html {
+	height: 100%;
+	/*Image only BG fallback*/
+	/*background: url('http://thecodeplayer.com/uploads/media/gs.png');*/
+	/*background = gradient + image pattern combo*/
+	/*background: 
+		linear-gradient(rgba(196, 102, 0, 0.2), rgba(155, 89, 182, 0.2)), 
+		url('http://thecodeplayer.com/uploads/media/gs.png');*/
+}
+
+body {
+	font-family: montserrat, arial, verdana;
+}
+/*form styles*/
+#msform {
+	width: 1180px;
+	margin: 50px auto;
+	/*text-align: center;*/
+	position: relative;
+}
+.clearfix{
+	clear:both;
+}
+#msform .step_01 {
+	background: white;
+	border: 0 none;
+	border-radius: 3px;
+	box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
+	padding: 20px 30px;
+	
+	box-sizing: border-box;
+	width:80%;
+	margin: 0 10%;
+	
+	/*stacking fieldsets above each other*/
+	position: absolute;
+}
+/*Hide all except first fieldset*/
+#msform fieldset:nth-of-type(1){
+	border: 0 none;
+	width:100%;
+	margin:0 auto;
+}
+#msform fieldset:not(:first-of-type) {
+	display: none;
+	border: 0 none;
+}
+/*#msform fieldset h2{
+	margin-bottom:50px;
+	text-align: center;
+}*/
+#msform label{
+	font-size:16px;
+	font-weight:600;
+	display: inline-block;
+	width:166px;
+	text-align:left;
+	margin-bottom:20px;
+	color:#808080;
+	margin-left:24px;
+	margin-right:24px;
+	vertical-align:middle;
+}
+#msform label:active{
+	color:#488ecd;
+}
+#msform label img{
+	padding-top:10px;
+	width:80px;
+	height:80px;
+}
+#msform label input{
+	border:none;
+	width:16px;
+	height:16px;
+	background:#488ecd;
+	vertical-align:middle;
+}
+/*inputs*/
+/*#msform input, #msform textarea {
+	padding: 15px;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	margin-bottom: 10px;
+	width: 100%;
+	box-sizing: border-box;
+	font-family: montserrat;
+	color: #2C3E50;
+	font-size: 13px;
+}*/
+/*buttons*/
+#msform .action-button {
+	width: 100px;
+	background: #488ECD;
+	font-weight: bold;
+	color: white;
+	border: 0 none;
+	border-radius: 1px;
+	cursor: pointer;
+	padding: 10px 5px;
+	margin: 10px 5px;
+}
+#msform .action-button:hover, #msform .action-button:focus {
+	box-shadow: 0 0 0 2px white, 0 0 0 3px #488ecd;
+}
+/*headings*/
+.fs-title {
+	font-size: 20px;
+	text-transform: uppercase;
+	color: #2C3E50;
+	margin-bottom: 50px;
+	text-align: center;
+	/*border:1px solid green;*/
+	vertical-align:middle;
+}
+.fs-title img{
+	width:auto;
+	height:50px;
+	padding:0px 20px 0 0;
+	/*border:1px solid red;*/
+	vertical-align: middle;
+}
+.fs-subtitle {
+	font-weight: normal;
+	font-size: 16px;
+	color: #666;
+	margin-bottom: 20px;
+}
+/*progressbar*/
+#progressbar {
+	margin-bottom: 50px;
+	overflow: hidden;
+	/*CSS counters to number the steps*/
+	counter-reset: step;
+}
+#progressbar li {
+	cursor:pointer;
+	list-style-type: none;
+	/*color:#333;*/
+	text-transform: uppercase;
+	/*text-transform灞炴�ф帶鍒舵枃鏈殑澶у皬鍐欙細
+	none	榛樿銆傚畾涔夊甫鏈夊皬鍐欏瓧姣嶅拰澶у啓瀛楁瘝鐨勬爣鍑嗙殑鏂囨湰銆�
+	capitalize	鏂囨湰涓殑姣忎釜鍗曡瘝浠ュぇ鍐欏瓧姣嶅紑澶淬��
+	uppercase	瀹氫箟浠呮湁澶у啓瀛楁瘝銆�
+	lowercase	瀹氫箟鏃犲ぇ鍐欏瓧姣嶏紝浠呮湁灏忓啓瀛楁瘝銆�
+	inherit	瑙勫畾搴旇浠庣埗鍏冪礌缁ф壙 text-transform 灞炴�х殑鍊笺��*/
+	font-size: 16px;
+	width: 20%;
+	float: left;
+	position: relative;
+	text-align:center;
+}
+#progressbar li:before {
+	content: counter(step);
+	counter-increment: step;
+	width: 26px;
+	line-height: 26px;
+	display: block;
+	font-size: 14px;
+	color: white;
+	background: #878a8c;
+	border-radius: 13px;
+	margin: 0 auto 5px auto;
+	/*border:1px solid red;*/
+}
+/*progressbar connectors*/
+#progressbar li:after {
+	content: '';
+	width: 100%;
+	height: 2px;
+	background: #878a8c;
+	position: absolute;
+	left: -50%;
+	top: 9px;
+	z-index: -1; /*put it behind the numbers*/
+	/*border:1px solid red;*/
+}
+#progressbar li:first-child:after {
+	/*connector not needed before the first step*/
+	content: none; 
+}
+/*marking active/completed steps green*/
+/*The number of the step and the connector before it = green*/
+#progressbar li.active:before,  #progressbar li.active:after{
+	background: #488ecd;
+	color: white;
+}
+/*绗簩姝�*/
+#msform fieldset h3{
+	color:#ba6e1c;
+	font-size:18px;
+	margin-bottom:5px;
+	float:left;
+}
+#msform fieldset  h4{
+	color:#ba6e1c;
+	font-size:20px;
+	margin-bottom:5px;
+}
+#msform fieldset textarea{
+	width:100%;
+	font-size:16px;
+	font-weight:600;
+	border-color:#d9d9d9;	
+}
+#msform fieldset .step_02{
+	margin-bottom:20px;
+}
+#msform fieldset .step_02 button{
+	background:#488ecd;
+	color:#fff;
+	border:none;
+	padding:5px 10px;
+	font-size:14px;
+	float:right;
+}
+#msform fieldset .step_02 .button-right{
+	clear:both;
+}
+#msform fieldset .step_02 table{
+	clear:both;
+	width:100%;
+}
+#msform fieldset .step_02 table td{
+	height:40px;
+}
+#msform fieldset .step_02 table td input{
+	width:160px;
+	text-align: center;
+	line-height:24px;
+}
+#msform fieldset .step_02 .button-right{
+	width:100%;
+	font-size:16px;
+	font-weight:600;
+	border-color:#d9d9d9;	
+}
+#msform .step_05 label{
+	margin:0;
+	padding:0;
+	margin-bottom:10px;
+}
+#msform fieldset:last-child .step_02 table td input{
+	border:0;
+	outline: none;
+}
+#msform fieldset:last-child .step_02 table td:first-child{
+	border-left:1px solid #d9d9d9;
+}
+#msform fieldset:last-child .step_02 table td:last-child{
+	border-right:1px solid #d9d9d9;
+	border-left:1px solid #d9d9d9;
+	color:#488ecd;
+}
+#msform fieldset:last-child .step_02 table tr:last-child td{
+	border-bottom:1px solid #d9d9d9;
+}
+#msform fieldset:last-child .step_02 table tr:first-child td{
+	border-top:1px solid #d9d9d9;
+}
+/*鏂板缓*/
+.new-built{
+	margin:20px 0;
+	font-size:14px;
+	text-align: center;
+}
+.new-built span{
+	display:inline-block;
+	width:200px;
+	text-align: right;
+}
+.new-built select{
+	width:200px;
+	height:30px;
+}
+.new-built button{
+	padding:10px 10px;
+	font-size:16px;
+	border:none;
+	background:#488ecd;
+	color:#fff;
+	margin:30px 10px 0 10px;
+}
+.new-built button:hover{
+	background:#3070a9;
+}

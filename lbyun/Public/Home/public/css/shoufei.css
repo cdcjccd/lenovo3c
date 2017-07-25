@@ -1,0 +1,429 @@
+.shoufei_banner{
+	width:100%;
+	height:500px;
+	background: url(../images/bg-11_02.jpg) 50% 0% / auto 100% no-repeat;;
+}
+.about_banner{
+	width:100%;
+	height:500px;
+	background: url(../images/about_banner.jpg) 50% 0% / auto 100% no-repeat;;
+}
+.conact_banner{
+	width:100%;
+	height:500px;
+	background: url(../images/lianxi.jpg) 50% 0% / auto 100% no-repeat;;
+}
+.shoufei_banner ul{
+	width:1180px;
+	margin:0 auto;
+}
+.shoufei_banner ul li{
+	background:#fff;
+	width:300px;
+	height:260px;
+	margin-right:45px;
+	margin-left:45px;
+	float:left;
+	margin-top:160px;
+}
+.shoufei_banner ul li div{
+	height:160px;
+}
+.shoufei_banner ul li div p{
+	display: block;
+	text-align: center;
+	line-height:36px;
+	font-size:26px;
+	font-weight:500;
+	margin:auto 0;
+	margin-bottom:50px;
+	padding-top:30px;
+}
+.shoufei_banner .div1 div{
+	background:#4f81bd;
+	color:#fff;
+}
+.shoufei_banner .div2 div{
+	background:#9bbb59;
+	color:#fff;
+}
+.shoufei_banner .div3 div{
+	background:#f79646;
+	color:#fff;
+}
+.shoufei_banner ul li span{
+	display: block;
+	text-align: center;
+	font-size:18px;
+	color:#fff;
+	padding:8px 0;
+	width:100px;
+	margin-top:30px;
+	margin-left:auto;
+	margin-right:auto;
+
+	
+}
+.shoufei_banner ul li span:hover{
+	color:#2a7bbf;
+}
+.shoufei_banner .div1 span{
+	background:#4f81bd;
+}
+.shoufei_banner .div2 span{
+	background:#9bbb59;
+}
+.shoufei_banner .div3 span{
+	background:#f79646;
+}
+.shoufei_mingxi{
+	width:1180px;
+	margin:0 auto;
+}
+.shoufei_mingxi table{
+	width:100%;
+	border-color:#d9d9d9;
+	margin-top:50px;
+	
+}
+.shoufei_mingxi table caption{
+	font-size:26px;
+	padding-bottom:20px;
+	color:#2A7BBF;
+}
+.shoufei_mingxi table td{
+	padding-left:5px;
+	padding-right:5px;
+	font-size:16px;
+	/*color:#4d4d4d;*/
+	line-height:40px;
+	border-left:1px solid #d9d9d9;
+	border-bottom:1px solid #d9d9d9;
+
+}
+.shoufei_mingxi table tr:hover td{
+	background:#488ecd;
+	color:#fff !important;
+}
+/*.shoufei_mingxi table td:last-child{
+	border-right:none;
+}
+*/
+.shoufei_mingxi table .fa-check{
+	color:#48d5b2;
+}
+
+.shoufei_mingxi table .fa-close{
+	color:#ff0000;
+}
+.shoufei_mingxi table .th_abbf th{
+	border-left:1px solid #d9d9d9;
+	border-top:4px solid #2a7bbf;
+	line-height:40px;
+	padding-left:5px;
+	padding-right:5px;
+
+}
+.shoufei_mingxi table th:nth-of-type(5){
+	border-right:1px solid #d9d9d9;
+}
+.shoufei_mingxi .shoufei_blue th{
+	
+	border-top:2px solid #2a7bbf;
+}
+.shoufei_mingxi .shoufei_blue td{
+	
+	border-top:2px solid #2a7bbf;
+}
+.shoufei_mingxi .shoufei_blue th:nth-of-type(1){
+	border-left:2px solid #2A7BBF;
+	color:#2f7bbf;
+}
+.shoufei_mingxi .shoufei_blue td:nth-of-type(4){
+	border-right:2px solid #2A7BBF;
+}
+.shoufei_mingxi .shoufei_blue_rigth td:nth-of-type(4){
+	border-right:2px solid #2A7BBF;
+}
+
+
+.shoufei_mingxi .shoufei_chengse th:nth-of-type(1){
+	border-left:2px solid #f79646;
+	color:#f79646;
+}
+.shoufei_mingxi .shoufei_chengse td:nth-of-type(4){
+	border-right:2px solid #f79646;
+}
+.shoufei_mingxi .shoufei_chengse_right td:nth-of-type(4){
+	border-right:2px solid #f79646;
+}
+.shoufei_mingxi .shoufei_chengse_right th:nth-of-type(2){
+	border-right:2px solid #f79646;
+}
+.shoufei_mingxi .shoufei_chengse_right th{
+	border-left:1px solid #d9d9d9;
+}
+
+.shoufei_mingxi .shoufei_qingse th:nth-of-type(1){
+	border-left:2px solid #9bbb59;
+	color:#9bbb59;
+}
+.shoufei_mingxi .shoufei_qingse td:nth-of-type(4){
+	border-right:2px solid #9bbb59;
+}
+.shoufei_mingxi .shoufei_qingse_rigth td:nth-of-type(4){
+	border-right:2px solid #9bbb59;
+}
+
+
+.shoufei_mingxi .shoufei_ffcc th:nth-of-type(1){
+	border-left:2px solid #ffcc00;
+	color:#ffcc00;
+}
+.shoufei_mingxi .shoufei_ffcc td:nth-of-type(4){
+	border-right:2px solid #ffcc00;
+}
+.shoufei_mingxi .shoufei_ffcc_right td:nth-of-type(4){
+	border-right:2px solid #ffcc00;
+}
+
+
+.shoufei_mingxi .shoufei_ff99 th:nth-of-type(1){
+	border-left:2px solid #66cccc;
+	color:#66cccc;
+}
+.shoufei_mingxi .shoufei_ff99 td:nth-of-type(4){
+	border-right:2px solid #66cccc;
+}
+.shoufei_mingxi .shoufei_ff99_rigth td:nth-of-type(4){
+	border-right:2px solid #66cccc;
+}
+
+
+
+
+.shoufei_mingxi .shoufei_ff00 th:nth-of-type(1){
+	border-left:2px solid #ff0033;
+	color:#ff0033;
+}
+.shoufei_mingxi .shoufei_ff00 th:nth-of-type(2){
+	border-right:2px solid #ff0033;
+	border-left:1px solid #d9d9d9;
+}
+
+
+.shoufei_mingxi .shoufei_ff66 th:nth-of-type(1){
+	border-left:2px solid #ff9999;
+	color:#ff9999;
+}
+.shoufei_mingxi .shoufei_ff66 td:nth-of-type(4){
+	border-right:2px solid #ff9999;
+}
+.shoufei_mingxi .shoufei_ff66_right td:nth-of-type(4){
+	border-right:2px solid #ff9999;
+}
+.table_shuomign td{
+	border-right:1px solid #d9d9d9;
+}
+.shoufei_mingxi .table_shuomign{
+	margin-top:0;
+	padding-top:0;
+	margin-bottom:30px;
+}
+
+
+
+
+
+
+/*关于我们*/
+.about_us{
+	width:1180px;
+	margin:50px auto;
+	
+}
+.about_us li:nth-of-type(1){
+	float:left;
+	margin-left:50px;
+}
+.about_us li:nth-of-type(2){
+	float:right;
+	margin-right:50px;
+}
+.about_us li img{
+	display: block;
+}
+.about_us li:nth-of-type(2){
+	width:700px;
+	margin-left:30px;
+	line-height:38px;
+	font-size:14px;
+}
+.about_us li p{
+	text-align: center;
+	font-size:18px;
+/*	color:#488ecd;*/
+	padding-bottom:10px;
+	font-weight:bold;
+}
+.about_us li span{
+	font-size:20px;
+	font-weight:bold;
+	color:#488ecd;
+}
+.about_us li a{
+	text-decoration:underline;
+	font-weight:bold; 
+	color:#488ecd;
+}
+.about_us li a:hover{
+	color:#000;
+}
+
+
+
+
+
+/*联系方式*/
+.content_lianxi{
+	width:1180px;
+	margin:0 auto;
+}
+.content_left{
+	float:right;
+	margin-top:50px;
+	margin-bottom:50px;
+	margin-right:80px;
+}
+.content_left h3{
+	padding-top:20px;
+	padding-bottom:30px;
+}
+.content_right h3{
+	padding-top:20px;
+}
+.content_right{
+	float:left;
+	margin-top:50px;
+	margin-bottom:50px;
+	margin-left:80px;
+}
+.content_right h2{
+	margin-top:20px;
+	margin-bottom:5px;
+}
+.content_right h4{
+	margin-top:10px;
+	margin-bottom:5px;
+}
+/*案例展示*/
+.title_anli{
+	width:1180px;
+	margin:50px auto;
+}
+.title_anli h3{
+	text-align: center;
+	font-size:36px;
+	color:#808080;
+}
+.title_anli p{
+	width:50px;
+	height:6px;
+	border-radius: 4px;;
+	background:#488ecd;
+	margin:10px auto;
+}
+.yx-wx .sec4 {
+  background:url(../images/10153718cj36.jpg) no-repeat;
+  background-position: 50% 50%;
+  height: 500px;
+  margin-bottom:50px;
+}
+.yx-wx .sec4 .function-pic{
+	float:left;
+}
+.yx-wx .sec4 .function-pic div {
+  background: url(../images/08194858acw7.png) no-repeat;
+  height: 464px;
+  width:405px;
+  margin-top:36px;
+  margin-right:20px;
+}
+.yx-wx .sec4 .dd {
+  width: 100px;
+  font-size:16px;
+  font-weight:bold;
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 5px;
+  padding-top: 20px; 
+  padding-bottom:20px;
+  text-align: center;
+  margin-right:20px;
+  color:#fff;
+}
+.yx-wx .sec4 .text-right p:nth-of-type(1){
+	color:#fff;
+	font-size:28px;
+	text-align: right;
+	margin-bottom:10px;
+}
+.yx-wx .sec4 .text-right p:nth-of-type(2){
+	color:#fff;
+	font-size:22px;
+	text-align: right;
+}
+.yx-wx .sec4 .text-right{
+    float:right;
+	margin-top:160px;
+	margin-right:20px;
+}
+.yx-wx .sec4 .dd:hover {
+  background: rgba(248, 166, 0, 0.9);
+  cursor: pointer; }
+.yx-wx .sec4 .p {
+  clear: both;
+  padding-top: 30px; }
+.yx-wx .sec4 .top div{
+	float: right;
+	margin-top:20px;
+
+}
+.yx-wx .sec4 .bottom div{
+	float: right;
+	margin-top:20px;
+}
+
+
+
+
+
+.lanrenzhijia{width:1180px;margin:10px auto 50px auto;overflow:hidden;}
+.lanrenzhijia ul{}
+/*.lanrenzhijia ul li{float:left;margin-right:6px;margin-bottom:30px;margin-left:15%;display:inline;width:300px;overflow:hidden;position:relative;}*/
+.lanrenzhijia ul li{margin-bottom:30px;width:300px;overflow:hidden; margin:0 auto;position:relative;}
+.lanrenzhijia ul li .photo{overflow:hidden;}
+.lanrenzhijia .rsp{width:300px;height:100%;overflow:hidden;position: absolute;background:#000;top:0px;left:0px;}
+.lanrenzhijia .text{position:absolute;width:300px;height:100%;left:-300px;top:0px;overflow:hidden;}
+.lanrenzhijia .text h3{width:300px;margin-top:100px;height:50px;line-height:50px;text-align:center;color:#FFFFFF;font-size:20px;}
+.lanrenzhijia .text a{text-decoration:none}
+.lanrenzhijia .text div{text-align:center;color:#FFFFFF;font-size:18px;}
+.lanrenzhijia ul li .photo p{
+/*	color:#fff;
+	background:#488ecd;*/
+	margin-bottom:10px;
+	padding:10px 0;
+	text-align: center;
+	font-size:24px;
+}
+
+@media screen and (max-width: 1180px) { /*当屏幕尺寸小于1180px时，应用下面的CSS样式*/
+	.shoufei_banner{
+	width:1180px;
+	height:500px;}
+	.about_banner{
+	width:1180px;
+	height:500px;}
+	.conact_banner{
+	width:1180px;
+	height:500px;}
+}

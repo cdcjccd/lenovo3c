@@ -1,0 +1,138 @@
+[ 2017-05-19T09:53:29+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-19T09:58:06+08:00 ] 127.0.0.1 /
+ERR: 无法加载控制器:Index
+
+[ 2017-05-19T10:05:57+08:00 ] 127.0.0.1 /
+ERR: 无法加载控制器:Index
+
+[ 2017-05-19T10:06:45+08:00 ] 127.0.0.1 /
+ERR: 无法加载控制器:Index
+
+[ 2017-05-19T10:06:45+08:00 ] 127.0.0.1 HTTP://www.lby.com/
+ERR: 无法加载控制器:Index
+
+[ 2017-05-19T10:06:46+08:00 ] 127.0.0.1 /index.php
+ERR: 无法加载控制器:Index
+
+[ 2017-05-19T10:14:02+08:00 ] 127.0.0.1 /lby/index
+ERR: 非法操作:lby
+
+[ 2017-05-19T10:14:23+08:00 ] 127.0.0.1 /lby/index
+ERR: 非法操作:lby
+
+[ 2017-05-19T10:15:08+08:00 ] 127.0.0.1 /lby/index
+ERR: 非法操作:lby
+
+[ 2017-05-19T10:16:00+08:00 ] 127.0.0.1 /index.php/lby/index
+ERR: 非法操作:lby
+
+[ 2017-05-19T10:16:06+08:00 ] 127.0.0.1 /index.phpLby/index
+ERR: 非法操作:index.phpLby
+
+[ 2017-05-19T10:16:11+08:00 ] 127.0.0.1 /index.php/Lby/index
+ERR: 非法操作:Lby
+
+[ 2017-05-19T10:16:45+08:00 ] 127.0.0.1 /index.php/Lby/index
+ERR: 非法操作:Lby
+
+[ 2017-05-19T10:16:46+08:00 ] 127.0.0.1 /index.php/Lby/index
+ERR: 非法操作:Lby
+
+[ 2017-05-19T10:16:51+08:00 ] 127.0.0.1 /Lby/index
+ERR: 非法操作:lby
+
+[ 2017-05-19T10:16:53+08:00 ] 127.0.0.1 /Lby/index
+ERR: 非法操作:lby
+
+[ 2017-05-19T10:18:35+08:00 ] 127.0.0.1 /Lby/index
+ERR: 非法操作:Lby
+
+[ 2017-05-19T10:18:36+08:00 ] 127.0.0.1 /Lby/index
+ERR: 非法操作:Lby
+
+[ 2017-05-19T10:19:08+08:00 ] 127.0.0.1 /
+ERR: 无法加载控制器:Index
+
+[ 2017-05-19T10:22:14+08:00 ] 127.0.0.1 /
+ERR: 非法操作:index
+
+[ 2017-05-19T10:22:19+08:00 ] 127.0.0.1 /
+ERR: 非法操作:index
+
+[ 2017-05-19T10:27:47+08:00 ] 127.0.0.1 /
+ERR: 模板不存在:./lbyun/Home/View/Lby/index.html
+
+[ 2017-05-19T11:03:19+08:00 ] 127.0.0.1 /
+ERR: 非法操作:index
+
+[ 2017-05-19T11:06:50+08:00 ] 127.0.0.1 /
+ERR: 1146:Table 'lby.company' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `company`
+
+[ 2017-05-19T11:09:47+08:00 ] 127.0.0.1 /
+ERR: Think\Model:getAll方法不存在！
+
+[ 2017-05-19T11:19:56+08:00 ] 127.0.0.1 /
+ERR: 1054:Unknown column 'c4b19072a79e4a6e81f06761f1e6bd2b' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `a_sys_user_attr_company_info` WHERE ( USER_ID = c4b19072a79e4a6e81f06761f1e6bd2b ) 
+
+[ 2017-05-19T11:20:22+08:00 ] 127.0.0.1 /
+ERR: 1054:Unknown column 'c4b19072a79e4a6e81f06761f1e6bd2b' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `a_sys_user_attr_company_info` WHERE ( USER_ID = c4b19072a79e4a6e81f06761f1e6bd2b ) 
+
+[ 2017-05-19T11:31:30+08:00 ] 127.0.0.1 /
+ERR: 1054:Unknown column 'COMPANY_ID' in 'field list'
+ [ SQL语句 ] : SELECT `COMPANY_ID`,`COMPANY_NUM` FROM `a_sys_user_attr_company_info` WHERE ( USER_ID = 'c4b19072a79e4a6e81f06761f1e6bd2b'  ) 
+
+[ 2017-05-19T11:31:34+08:00 ] 127.0.0.1 /index.php
+ERR: 1054:Unknown column 'COMPANY_ID' in 'field list'
+ [ SQL语句 ] : SELECT `COMPANY_ID`,`COMPANY_NUM` FROM `a_sys_user_attr_company_info` WHERE ( USER_ID = 'c4b19072a79e4a6e81f06761f1e6bd2b'  ) 
+
+[ 2017-05-19T11:32:10+08:00 ] 127.0.0.1 /
+ERR: 1054:Unknown column 'COMPANY_NUM' in 'field list'
+ [ SQL语句 ] : SELECT `COMPANYINFO_ID`,`COMPANY_NUM` FROM `a_sys_user_attr_company_info` WHERE ( USER_ID = 'c4b19072a79e4a6e81f06761f1e6bd2b'  ) 
+
+[ 2017-05-19T11:45:25+08:00 ] 127.0.0.1 /
+ERR: 1054:Unknown column 'SEVICE_LEVEL' in 'field list'
+ [ SQL语句 ] : SELECT `COMPANYINFO_ID`,`CERT`,`STATUS`,`SEVICE_LEVEL`,`COMPANY_NUM` FROM a_sys_user_attr_company_info as info INNER JOIN a_service_level as level on info.SERVICE_ID = level.SERVICE_ID  WHERE ( USER_ID = 'c4b19072a79e4a6e81f06761f1e6bd2b'  ) 
+
+[ 2017-05-19T11:54:52+08:00 ] 127.0.0.1 /
+ERR: 模板不存在:./lbyun/Home/View/a/4/{i/0;a/5/{s/14/"companyinfo_id";s/32/"36dc82c17b964c0593dbfa6a942c29a5";s/4/"cert";s/3/"123";s/6/"status";s/9/"待审核";s/13/"service_level";s/12/"标准会员";s/11/"company_num";s/4/"1020";}i/1;a/5/{s/14/"companyinfo_id";s/32/"6fe3224d72424c8888c5b825681049dc";s/4/"cert";s/3/"123";s/6/"status";s/9/"待审核";s/13/"service_level";s/12/"标准会员";s/11/"company_num";s/4/"1018";}i/2;a/5/{s/14/"companyinfo_id";s/32/"ab341ec09f1445a0911d273bbc86a7de";s/4/"cert";s/3/"123";s/6/"status";s/9/"待审核";s/13/"service_level";s/12/"标准会员";s/11/"company_num";s/4/"1019";}i/3;a/5/{s/14/"companyinfo_id";s/32/"cdf2dd68bf334c7581f48a4b893426be";s/4/"cert";s/17/"11111111111111111";s/6/"status";s/9/"待审核";s/13/"service_level";s/12/"标准会员";s/11/"company_num";s/4/"1017";}}.html
+
+[ 2017-05-19T12:02:26+08:00 ] 127.0.0.1 /index.php/lby/Home/Company/Company_Info_Add
+ERR: 无法加载控制器:Lby
+
+[ 2017-05-19T12:02:53+08:00 ] 127.0.0.1 /index.php/Home/Company/Company_Info_Add
+ERR: 非法操作:Home
+
+[ 2017-05-19T12:06:13+08:00 ] 127.0.0.1 /index.php/
+ERR: 无法加载控制器:Index
+
+[ 2017-05-19T12:10:51+08:00 ] 127.0.0.1 /Company/Company_Info_add
+ERR: 非法操作:Company
+
+[ 2017-05-19T12:11:11+08:00 ] 127.0.0.1 /lbyun/Company_Info_add
+ERR: 非法操作:lbyun
+
+[ 2017-05-19T12:11:30+08:00 ] 127.0.0.1 /Home/Company_Info_add
+ERR: 非法操作:Home
+
+[ 2017-05-19T12:11:58+08:00 ] 127.0.0.1 /Lby/Company_Info_add
+ERR: 非法操作:Lby
+
+[ 2017-05-19T12:13:17+08:00 ] 127.0.0.1 /
+ERR: 非法操作:index
+
+[ 2017-05-19T13:28:30+08:00 ] 127.0.0.1 /
+ERR: 非法操作:index
+

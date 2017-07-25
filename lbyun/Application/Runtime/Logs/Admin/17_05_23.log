@@ -1,0 +1,84 @@
+[ 2017-05-23T09:08:33+08:00 ] 127.0.0.1 /index.php/Admin/Company/edit
+ERR: 参数错误或者未定义:companyinfo_id
+
+[ 2017-05-23T09:35:16+08:00 ] 127.0.0.1 /index.php/Admin/Company/list_c.html
+ERR: 模板不存在:./lbyun/Admin/View/Company/list_c.html
+
+[ 2017-05-23T09:40:47+08:00 ] 127.0.0.1 /index.php/Admin/Company/edit.html?COMPANYINFO_ID=36dc82c17b964c0593dbfa6a942c29a5
+ERR: 参数错误或者未定义:companyinfo_id
+
+[ 2017-05-23T09:41:27+08:00 ] 127.0.0.1 /index.php/Admin/Company/edit.html?COMPANYINFO_ID=36dc82c17b964c0593dbfa6a942c29a5
+ERR: 参数错误或者未定义:companyinfo_id
+
+[ 2017-05-23T09:43:03+08:00 ] 127.0.0.1 /index.php/Admin/Company/edit.html?COMPANYINFO_ID=36dc82c17b964c0593dbfa6a942c29a5
+ERR: 参数错误或者未定义:companyinfo_id
+
+[ 2017-05-23T09:47:02+08:00 ] 127.0.0.1 /index.php/Admin/Company/edit.html?COMPANYINFO_ID=36dc82c17b964c0593dbfa6a942c29a5
+ERR: 参数错误或者未定义:companyinfo_id
+
+[ 2017-05-23T09:47:55+08:00 ] 127.0.0.1 /index.php/Admin/Company/edit.html?COMPANYINFO_ID=36dc82c17b964c0593dbfa6a942c29a5
+ERR: 参数错误或者未定义:companyinfo_id
+
+[ 2017-05-23T09:49:25+08:00 ] 127.0.0.1 /index.php/Admin/Company/edit.html?COMPANYINFO_ID=36dc82c17b964c0593dbfa6a942c29a5
+ERR: 参数错误或者未定义:companyinfo_id
+
+[ 2017-05-23T09:51:32+08:00 ] 127.0.0.1 /index.php/Admin/Company/edit.html?COMPANYINFO_ID=36dc82c17b964c0593dbfa6a942c29a5
+ERR: 参数错误或者未定义:companyinfo_id
+
+[ 2017-05-23T09:52:27+08:00 ] 127.0.0.1 /index.php/Admin/Company/edit.html?COMPANYINFO_ID=36dc82c17b964c0593dbfa6a942c29a5
+ERR: 参数错误或者未定义:companyinfo_id
+
+[ 2017-05-23T09:52:41+08:00 ] 127.0.0.1 /index.php/Admin/Company/edit.html?COMPANYINFO_ID=36dc82c17b964c0593dbfa6a942c29a5
+ERR: 参数错误或者未定义:companyinfo_id
+
+[ 2017-05-23T10:08:07+08:00 ] 127.0.0.1 /index.php/Admin/Index/userinfo/goEdit.do
+ERR: 非法操作:userinfo
+
+[ 2017-05-23T10:10:49+08:00 ] 127.0.0.1 /index.php/Admin/Company/Company_Info_List.html
+ERR: 1146:Table 'lby.company_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `company_model`
+
+[ 2017-05-23T10:16:36+08:00 ] 127.0.0.1 /index.php/Admin/Company/edit
+ERR: 参数错误或者未定义:companyinfo_id
+
+[ 2017-05-23T10:38:53+08:00 ] 127.0.0.1 /index.php/Admin/Company/Upload.html
+ERR: 非法操作:Upload
+
+[ 2017-05-23T11:47:32+08:00 ] 127.0.0.1 /index.php/Admin/Company/mul_upload.php
+ERR: 非法操作:mul_upload.php
+
+[ 2017-05-23T16:26:43+08:00 ] 127.0.0.1 /index.php/Admin/Company/edit.html?companyinfo_id=36dc82c17b964c0593dbfa6a942c29a5
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `a_sys_user_attr_company_info` SET `COMPANY_NAME`='关怀',`CERT`='个',`COMPANY_TYPE`='汽车厂商',`STREET_ADDRESS`='电饭锅',`AREA`='梵蒂冈',`COMPANY_TEL`='地方',`COMPANY_URL`='电饭锅',`CERT_URL`='a:3:{i:0;s:36:\"Uploads/2017-05-23/5923f2430d14a.png\";i:1;s:36:\"Uploads/2017-05-23/5923f2430e8ba.jpg\";i:2;s:36:\"Uploads/2017-05-23/5923f2430f472.jpg\";}' WHERE ( COMPANYINFO_ID =  )
+
+[ 2017-05-23T16:27:55+08:00 ] 127.0.0.1 /index.php/Admin/Company/edit.html?companyinfo_id=36dc82c17b964c0593dbfa6a942c29a5
+ERR: 1054:Unknown column '36dc82c17b964c0593dbfa6a942c29a5' in 'where clause'
+ [ SQL语句 ] : UPDATE `a_sys_user_attr_company_info` SET `COMPANY_NAME`='双方各',`CERT`='梵蒂冈',`COMPANY_TYPE`='经销商、代理商',`STREET_ADDRESS`='地方',`AREA`='我去玩',`COMPANY_TEL`='我确认额',`COMPANY_URL`='额反倒是',`CERT_URL`='a:3:{i:0;s:36:\"Uploads/2017-05-23/5923f28b9b351.png\";i:1;s:36:\"Uploads/2017-05-23/5923f28b9c2f2.png\";i:2;s:36:\"Uploads/2017-05-23/5923f28b9de4a.jpg\";}' WHERE ( COMPANYINFO_ID = 36dc82c17b964c0593dbfa6a942c29a5 )
+
+[ 2017-05-23T16:53:15+08:00 ] 127.0.0.1 /index.php/Admin/Company/
+ERR: 非法操作:index
+
+[ 2017-05-23T17:07:45+08:00 ] 127.0.0.1 /index.php/Admin/Company/Company/Company_Info_List
+ERR: 非法操作:Company
+
+[ 2017-05-23T17:08:36+08:00 ] 127.0.0.1 /index.php/Admin/Company/Admin/Company/Company_Info_List
+ERR: 非法操作:Admin
+
+[ 2017-05-23T17:17:54+08:00 ] 127.0.0.1 /index.php/Admin/Index/userinfo/goEdit.do
+ERR: 非法操作:userinfo
+
+[ 2017-05-23T17:18:17+08:00 ] 127.0.0.1 /index.php/Admin/Index/userinfo/goEdit.do
+ERR: 非法操作:userinfo
+
+[ 2017-05-23T17:34:17+08:00 ] 127.0.0.1 /index.php/Admin/Index/userinfo/goEdit.do
+ERR: 非法操作:userinfo
+
+[ 2017-05-23T18:22:58+08:00 ] 127.0.0.1 /index.php/Admin/Index/extendedwarranty/list.do
+ERR: 非法操作:extendedwarranty
+
+[ 2017-05-23T18:22:58+08:00 ] 127.0.0.1 /index.php/Admin/Index/extendedwarranty/list.do
+ERR: 非法操作:extendedwarranty
+
+[ 2017-05-23T18:28:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/userinfo/goEdit.do
+ERR: 非法操作:userinfo
+

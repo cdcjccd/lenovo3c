@@ -1,0 +1,21 @@
+/* Individual tab styles */
+
+/*****************************/
+/* Bar */
+/*****************************/
+
+.tabs-style-bar nav ul li {
+	border: 2px solid #999; box-sizing:border-box; margin:0 0;
+}
+
+.tabs-style-bar nav ul li a {
+	font-size:16px;
+	margin: 0 0;
+	color: #000;
+}
+.tabs-style-bar nav ul li.tab-current a {
+	background:#3d8acb;
+	color: #fff;
+}
+
+

@@ -1,0 +1,841 @@
+[ 2017-05-24T08:56:41+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495587400948
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-24T09:01:58+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495587718334
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-24T09:03:25+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495587805403
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-24T09:47:05+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jquery-1.7.2.js
+ERR: 非法操作:js
+
+[ 2017-05-24T09:47:05+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jQuery.md5.js
+ERR: 非法操作:js
+
+[ 2017-05-24T09:47:05+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jquery.tips.js
+ERR: 非法操作:js
+
+[ 2017-05-24T09:47:05+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-05-24T09:47:06+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jquery-1.7.2.js
+ERR: 非法操作:js
+
+[ 2017-05-24T09:47:06+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jQuery.md5.js
+ERR: 非法操作:js
+
+[ 2017-05-24T09:47:06+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jquery.tips.js
+ERR: 非法操作:js
+
+[ 2017-05-24T09:47:06+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-05-24T09:47:06+08:00 ] 127.0.0.1 /index.php/Home/Index/code.do?t=1495590426707
+ERR: 非法操作:code.do
+
+[ 2017-05-24T09:48:02+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jquery-1.7.2.js
+ERR: 非法操作:js
+
+[ 2017-05-24T09:48:02+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jQuery.md5.js
+ERR: 非法操作:js
+
+[ 2017-05-24T09:48:02+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jquery.tips.js
+ERR: 非法操作:js
+
+[ 2017-05-24T09:48:02+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-05-24T09:48:03+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jquery-1.7.2.js
+ERR: 非法操作:js
+
+[ 2017-05-24T09:48:03+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jQuery.md5.js
+ERR: 非法操作:js
+
+[ 2017-05-24T09:48:03+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jquery.tips.js
+ERR: 非法操作:js
+
+[ 2017-05-24T09:48:03+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-05-24T09:48:03+08:00 ] 127.0.0.1 /index.php/Home/Index/code.do?t=1495590483250
+ERR: 非法操作:code.do
+
+[ 2017-05-24T09:55:41+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jquery-1.7.2.js
+ERR: 非法操作:js
+
+[ 2017-05-24T09:55:41+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jQuery.md5.js
+ERR: 非法操作:js
+
+[ 2017-05-24T09:55:41+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jquery.tips.js
+ERR: 非法操作:js
+
+[ 2017-05-24T09:55:41+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-05-24T09:55:42+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jquery-1.7.2.js
+ERR: 非法操作:js
+
+[ 2017-05-24T09:55:42+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jQuery.md5.js
+ERR: 非法操作:js
+
+[ 2017-05-24T09:55:42+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jquery.tips.js
+ERR: 非法操作:js
+
+[ 2017-05-24T09:55:42+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-05-24T09:55:42+08:00 ] 127.0.0.1 /index.php/Home/Index/code.do?t=1495590942595
+ERR: 非法操作:code.do
+
+[ 2017-05-24T09:57:24+08:00 ] 127.0.0.1 /index.php/Home/Index/code.do?t=1495591044164
+ERR: 非法操作:code.do
+
+[ 2017-05-24T10:03:06+08:00 ] 127.0.0.1 /index.php/Home/Index/code.do?t=1495591386496
+ERR: 非法操作:code.do
+
+[ 2017-05-24T10:03:08+08:00 ] 127.0.0.1 /index.php/Home/Index/code.do?t=1495591388422
+ERR: 非法操作:code.do
+
+[ 2017-05-24T10:03:08+08:00 ] 127.0.0.1 /index.php/Home/Index/code.do?t=1495591388614
+ERR: 非法操作:code.do
+
+[ 2017-05-24T10:03:08+08:00 ] 127.0.0.1 /index.php/Home/Index/code.do?t=1495591388806
+ERR: 非法操作:code.do
+
+[ 2017-05-24T10:40:11+08:00 ] 127.0.0.1 /index.php/Home/Index/login.html
+ERR: 模板不存在:./lbyun/Home/View/Index/login.html
+
+[ 2017-05-24T10:51:20+08:00 ] 127.0.0.1 /index.php/Home/Login/login.html
+ERR: 无法加载控制器:Login
+
+[ 2017-05-24T10:51:34+08:00 ] 127.0.0.1 /index.php/Home/Login/login.html
+ERR: Think\Controller:isPost方法不存在！
+
+[ 2017-05-24T10:52:34+08:00 ] 127.0.0.1 /index.php/Home/Login/index
+ERR: 模板不存在:./lbyun/Home/View/Login/index.html
+
+[ 2017-05-24T10:52:48+08:00 ] 127.0.0.1 /index.php/Home/Login/login/js/bootstrap.min.js
+ERR: Think\Controller:isPost方法不存在！
+
+[ 2017-05-24T10:52:48+08:00 ] 127.0.0.1 /index.php/Home/Login/login/js/jquery.mobile.customized.min.js
+ERR: Think\Controller:isPost方法不存在！
+
+[ 2017-05-24T10:52:48+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jquery-1.7.2.js
+ERR: 非法操作:js
+
+[ 2017-05-24T10:52:48+08:00 ] 127.0.0.1 /index.php/Home/Login/login/js/jquery.easing.1.3.js
+ERR: Think\Controller:isPost方法不存在！
+
+[ 2017-05-24T10:52:48+08:00 ] 127.0.0.1 /index.php/Home/Login/login/js/templatemo_script.js
+ERR: Think\Controller:isPost方法不存在！
+
+[ 2017-05-24T10:52:48+08:00 ] 127.0.0.1 /index.php/Home/Login/login/js/ban.js
+ERR: Think\Controller:isPost方法不存在！
+
+[ 2017-05-24T10:52:48+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jQuery.md5.js
+ERR: 非法操作:js
+
+[ 2017-05-24T10:52:48+08:00 ] 127.0.0.1 /index.php/Home/Login/login/js/camera.min.js
+ERR: Think\Controller:isPost方法不存在！
+
+[ 2017-05-24T10:52:48+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jquery.tips.js
+ERR: 非法操作:js
+
+[ 2017-05-24T10:52:48+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-05-24T10:52:48+08:00 ] 127.0.0.1 /index.php/Home/Login/login/keypad/js/form/keypad.js
+ERR: Think\Controller:isPost方法不存在！
+
+[ 2017-05-24T10:52:48+08:00 ] 127.0.0.1 /index.php/Home/Login/login/keypad/js/framework.js
+ERR: Think\Controller:isPost方法不存在！
+
+[ 2017-05-24T10:52:48+08:00 ] 127.0.0.1 /index.php/Home/Login/login/js/bootstrap.min.js
+ERR: Think\Controller:isPost方法不存在！
+
+[ 2017-05-24T10:52:48+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jquery-1.7.2.js
+ERR: 非法操作:js
+
+[ 2017-05-24T10:52:49+08:00 ] 127.0.0.1 /index.php/Home/Login/login/js/jquery.easing.1.3.js
+ERR: Think\Controller:isPost方法不存在！
+
+[ 2017-05-24T10:52:49+08:00 ] 127.0.0.1 /index.php/Home/Login/login/js/jquery.mobile.customized.min.js
+ERR: Think\Controller:isPost方法不存在！
+
+[ 2017-05-24T10:52:49+08:00 ] 127.0.0.1 /index.php/Home/Login/login/js/camera.min.js
+ERR: Think\Controller:isPost方法不存在！
+
+[ 2017-05-24T10:52:49+08:00 ] 127.0.0.1 /index.php/Home/Login/login/js/templatemo_script.js
+ERR: Think\Controller:isPost方法不存在！
+
+[ 2017-05-24T10:52:49+08:00 ] 127.0.0.1 /index.php/Home/Login/login/js/ban.js
+ERR: Think\Controller:isPost方法不存在！
+
+[ 2017-05-24T10:52:49+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jQuery.md5.js
+ERR: 非法操作:js
+
+[ 2017-05-24T10:52:49+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jquery.tips.js
+ERR: 非法操作:js
+
+[ 2017-05-24T10:52:49+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-05-24T10:52:49+08:00 ] 127.0.0.1 /index.php/Home/Login/login/keypad/js/form/keypad.js
+ERR: Think\Controller:isPost方法不存在！
+
+[ 2017-05-24T10:52:49+08:00 ] 127.0.0.1 /index.php/Home/Login/login/keypad/js/framework.js
+ERR: Think\Controller:isPost方法不存在！
+
+[ 2017-05-24T10:52:49+08:00 ] 127.0.0.1 /index.php/Home/Login/code.do?t=1495594369356
+ERR: 非法操作:code.do
+
+[ 2017-05-24T10:54:09+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jquery-1.7.2.js
+ERR: 非法操作:js
+
+[ 2017-05-24T10:54:10+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jQuery.md5.js
+ERR: 非法操作:js
+
+[ 2017-05-24T10:54:10+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jquery.tips.js
+ERR: 非法操作:js
+
+[ 2017-05-24T10:54:10+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-05-24T10:54:10+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jquery-1.7.2.js
+ERR: 非法操作:js
+
+[ 2017-05-24T10:54:10+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jQuery.md5.js
+ERR: 非法操作:js
+
+[ 2017-05-24T10:54:10+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jquery.tips.js
+ERR: 非法操作:js
+
+[ 2017-05-24T10:54:10+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-05-24T10:54:10+08:00 ] 127.0.0.1 /index.php/Home/Login/code.do?t=1495594450739
+ERR: 非法操作:code.do
+
+[ 2017-05-24T10:54:14+08:00 ] 127.0.0.1 /index.php/Home/Login/code.do?t=1495594454793
+ERR: 非法操作:code.do
+
+[ 2017-05-24T10:54:26+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jquery-1.7.2.js
+ERR: 非法操作:js
+
+[ 2017-05-24T10:54:26+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jQuery.md5.js
+ERR: 非法操作:js
+
+[ 2017-05-24T10:54:26+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-05-24T10:54:26+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jquery.tips.js
+ERR: 非法操作:js
+
+[ 2017-05-24T10:54:27+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jquery-1.7.2.js
+ERR: 非法操作:js
+
+[ 2017-05-24T10:54:27+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jQuery.md5.js
+ERR: 非法操作:js
+
+[ 2017-05-24T10:54:27+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jquery.tips.js
+ERR: 非法操作:js
+
+[ 2017-05-24T10:54:27+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-05-24T10:54:27+08:00 ] 127.0.0.1 /index.php/Home/Login/code.do?t=1495594467253
+ERR: 非法操作:code.do
+
+[ 2017-05-24T11:00:54+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jquery-1.7.2.js
+ERR: 非法操作:js
+
+[ 2017-05-24T11:00:54+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jQuery.md5.js
+ERR: 非法操作:js
+
+[ 2017-05-24T11:00:54+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-05-24T11:00:54+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jquery.tips.js
+ERR: 非法操作:js
+
+[ 2017-05-24T11:00:54+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jquery-1.7.2.js
+ERR: 非法操作:js
+
+[ 2017-05-24T11:00:54+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jQuery.md5.js
+ERR: 非法操作:js
+
+[ 2017-05-24T11:00:54+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jquery.tips.js
+ERR: 非法操作:js
+
+[ 2017-05-24T11:00:54+08:00 ] 127.0.0.1 /index.php/Home/Login/js/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-05-24T11:00:54+08:00 ] 127.0.0.1 /index.php/Home/Login/code.do?t=1495594854655
+ERR: 非法操作:code.do
+
+[ 2017-05-24T11:02:28+08:00 ] 127.0.0.1 /index.php/Home/Login/code.do?t=1495594948584
+ERR: 非法操作:code.do
+
+[ 2017-05-24T11:06:12+08:00 ] 127.0.0.1 /index.php/Login/login.html1495595172505
+ERR: 非法操作:login.html1495595172505
+
+[ 2017-05-24T11:06:13+08:00 ] 127.0.0.1 /index.php/Login/addUserHandel.html1495595173647
+ERR: 非法操作:addUserHandel.html1495595173647
+
+[ 2017-05-24T11:06:49+08:00 ] 127.0.0.1 /index.php/Login/login.html1495595209211
+ERR: 非法操作:login.html1495595209211
+
+[ 2017-05-24T11:09:34+08:00 ] 127.0.0.1 /Public/Home/js/jquery.tips.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-24T11:09:34+08:00 ] 127.0.0.1 /Public/Home/js/jquery.cookie.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-24T11:09:34+08:00 ] 127.0.0.1 /Public/Home/js/jQuery.md5.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-24T11:09:34+08:00 ] 127.0.0.1 /Public/Home/js/jquery-1.7.2.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-24T11:09:34+08:00 ] 127.0.0.1 /Public/Home/js/jquery-1.7.2.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-24T11:09:34+08:00 ] 127.0.0.1 /Public/Home/js/jQuery.md5.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-24T11:09:34+08:00 ] 127.0.0.1 /Public/Home/js/jquery.tips.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-24T11:09:34+08:00 ] 127.0.0.1 /Public/Home/js/jquery.cookie.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-24T11:09:34+08:00 ] 127.0.0.1 /index.php/Login/login.html1495595374780
+ERR: 非法操作:login.html1495595374780
+
+[ 2017-05-24T11:10:06+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495595406363
+ERR: 非法操作:undefined
+
+[ 2017-05-24T11:10:06+08:00 ] 127.0.0.1 /index.php/Login/login.html1495595406346
+ERR: 非法操作:login.html1495595406346
+
+[ 2017-05-24T11:10:25+08:00 ] 127.0.0.1 /index.php/Login/addUserHandel.html1495595425347
+ERR: 非法操作:addUserHandel.html1495595425347
+
+[ 2017-05-24T11:11:20+08:00 ] 127.0.0.1 /index.php/Login/addUserHandel.html1495595480538
+ERR: 非法操作:addUserHandel.html1495595480538
+
+[ 2017-05-24T11:11:20+08:00 ] 127.0.0.1 /index.php/Login/addUserHandel.html1495595425347
+ERR: 非法操作:addUserHandel.html1495595425347
+
+[ 2017-05-24T11:13:14+08:00 ] 127.0.0.1 /index.php/Login/login.html1495595594562
+ERR: 非法操作:login.html1495595594562
+
+[ 2017-05-24T11:13:14+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495595594577
+ERR: 非法操作:undefined
+
+[ 2017-05-24T11:13:16+08:00 ] 127.0.0.1 /index.php/Login/addUserHandel.html1495595596212
+ERR: 非法操作:addUserHandel.html1495595596212
+
+[ 2017-05-24T11:14:03+08:00 ] 127.0.0.1 /index.php/Login/login.html1495595643074
+ERR: 非法操作:login.html1495595643074
+
+[ 2017-05-24T11:14:03+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495595643097
+ERR: 非法操作:undefined
+
+[ 2017-05-24T11:14:04+08:00 ] 127.0.0.1 /index.php/Login/addUserHandel.html1495595644602
+ERR: 非法操作:addUserHandel.html1495595644602
+
+[ 2017-05-24T11:14:32+08:00 ] 127.0.0.1 /index.php/Home/Login/appSysUser/registerSysUser.do
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:appSysUser
+
+[ 2017-05-24T11:14:33+08:00 ] 127.0.0.1 /index.php/Home/Login/appSysUser/registerSysUser.do
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 非法操作:appSysUser
+
+[ 2017-05-24T11:14:34+08:00 ] 127.0.0.1 /index.php/Home/Login/appSysUser/registerSysUser.do
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:appSysUser
+
+[ 2017-05-24T11:14:34+08:00 ] 127.0.0.1 /index.php/Home/Login/appSysUser/registerSysUser.do
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 非法操作:appSysUser
+
+[ 2017-05-24T11:14:34+08:00 ] 127.0.0.1 /index.php/Home/Login/appSysUser/registerSysUser.do
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 非法操作:appSysUser
+
+[ 2017-05-24T11:14:41+08:00 ] 127.0.0.1 /index.php/Home/Login/appSysUser/registerSysUser.do
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:appSysUser
+
+[ 2017-05-24T11:26:39+08:00 ] 127.0.0.1 /index.php/Login/login.html1495596399203
+ERR: 非法操作:login.html1495596399203
+
+[ 2017-05-24T11:26:39+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495596399219
+ERR: 非法操作:undefined
+
+[ 2017-05-24T11:26:41+08:00 ] 127.0.0.1 /index.php/Login/addUserHandel.html1495596401111
+ERR: 非法操作:addUserHandel.html1495596401111
+
+[ 2017-05-24T11:27:18+08:00 ] 127.0.0.1 /index.php/Login/addUserHandel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Think\Controller:isPost方法不存在！
+
+[ 2017-05-24T11:27:32+08:00 ] 127.0.0.1 /index.php/Login/addUserHandel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+ERR: Think\Controller:isPost方法不存在！
+
+[ 2017-05-24T11:29:26+08:00 ] 127.0.0.1 /index.php/Login/login.html1495596566101
+ERR: 非法操作:login.html1495596566101
+
+[ 2017-05-24T11:29:26+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495596566119
+ERR: 非法操作:undefined
+
+[ 2017-05-24T11:29:27+08:00 ] 127.0.0.1 /index.php/Login/addUserHandel.html1495596567403
+ERR: 非法操作:addUserHandel.html1495596567403
+
+[ 2017-05-24T11:30:00+08:00 ] 127.0.0.1 /index.php/Home/Login/addUserHandel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Think\Controller:isPost方法不存在！
+
+[ 2017-05-24T11:30:02+08:00 ] 127.0.0.1 /index.php/Home/Login/addUserHandel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Think\Controller:isPost方法不存在！
+
+[ 2017-05-24T11:30:47+08:00 ] 127.0.0.1 /index.php/Home/Login/addUserHandel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Think\Controller:isPost方法不存在！
+
+[ 2017-05-24T11:45:33+08:00 ] 127.0.0.1 /index.php/Home/Login/addUserHandel.html
+ERR: Think\Controller:isPost方法不存在！
+
+[ 2017-05-24T11:48:08+08:00 ] 127.0.0.1 /index.php/Home/Login/addUserHandel.htm
+ERR: 非法操作:addUserHandel.htm
+
+[ 2017-05-24T11:48:21+08:00 ] 127.0.0.1 /index.php/Home/Login/addUserHandel.html
+ERR: Think\Controller:isPost方法不存在！
+
+[ 2017-05-24T11:49:46+08:00 ] 127.0.0.1 /index.php/Home/Login/addUserHandel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+ERR: Think\Controller:isPost方法不存在！
+
+[ 2017-05-24T11:50:37+08:00 ] 127.0.0.1 /index.php/Home/Login/addUserHandel.html
+ERR: Think\Controller:date方法不存在！
+
+[ 2017-05-24T11:52:01+08:00 ] 127.0.0.1 /index.php/Login/login.html1495597920950
+ERR: 非法操作:login.html1495597920950
+
+[ 2017-05-24T11:52:01+08:00 ] 127.0.0.1 /index.php/Login/undefined?1495597920965
+ERR: 非法操作:undefined
+
+[ 2017-05-24T12:45:13+08:00 ] 127.0.0.1 /index.php/Login/addUserHandel.html1495601112940
+ERR: 非法操作:addUserHandel.html1495601112940
+
+[ 2017-05-24T12:46:06+08:00 ] 127.0.0.1 /index.php/Home/Login/addUserHandel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: password D:\phpStudy\WWW\lby\lbyun\Home\Controller\LoginController.class.php 第 99 行.
+NOTIC: [8] Undefined index: chkpwd D:\phpStudy\WWW\lby\lbyun\Home\Controller\LoginController.class.php 第 99 行.
+NOTIC: [2] rand() expects exactly 2 parameters, 1 given D:\phpStudy\WWW\lby\lbyun\Home\Controller\LoginController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `a_sys_user` [ RunTime:0.0100s ]
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `a_sys_user` () VALUES ()
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `a_sys_user` () VALUES ()
+
+[ 2017-05-24T12:46:15+08:00 ] 127.0.0.1 /index.php/Home/Login/addUserHandel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: password D:\phpStudy\WWW\lby\lbyun\Home\Controller\LoginController.class.php 第 99 行.
+NOTIC: [8] Undefined index: chkpwd D:\phpStudy\WWW\lby\lbyun\Home\Controller\LoginController.class.php 第 99 行.
+NOTIC: [2] rand() expects exactly 2 parameters, 1 given D:\phpStudy\WWW\lby\lbyun\Home\Controller\LoginController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `a_sys_user` [ RunTime:0.0070s ]
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `a_sys_user` () VALUES ()
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `a_sys_user` () VALUES ()
+
+[ 2017-05-24T12:46:59+08:00 ] 127.0.0.1 /index.php/Login/login.html1495601219361
+ERR: 非法操作:login.html1495601219361
+
+[ 2017-05-24T12:46:59+08:00 ] 127.0.0.1 /index.php/Login/undefined?1495601219376
+ERR: 非法操作:undefined
+
+[ 2017-05-24T12:47:01+08:00 ] 127.0.0.1 /index.php/Login/addUserHandel.html1495601221058
+ERR: 非法操作:addUserHandel.html1495601221058
+
+[ 2017-05-24T12:47:26+08:00 ] 127.0.0.1 /index.php/Home/Login/addUserHandel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-24T12:48:35+08:00 ] 127.0.0.1 /index.php/Login/login.html1495601315087
+ERR: 非法操作:login.html1495601315087
+
+[ 2017-05-24T12:48:35+08:00 ] 127.0.0.1 /index.php/Login/undefined?1495601315106
+ERR: 非法操作:undefined
+
+[ 2017-05-24T12:48:41+08:00 ] 127.0.0.1 /index.php/Login/login_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:login_login
+
+[ 2017-05-24T12:48:42+08:00 ] 127.0.0.1 /index.php/Login/addUserHandel.html1495601321954
+ERR: 非法操作:addUserHandel.html1495601321954
+
+[ 2017-05-24T12:49:06+08:00 ] 127.0.0.1 /index.php/Home/Login/addUserHandel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-24T13:04:29+08:00 ] 127.0.0.1 /index.php/Login/login.html1495602269039
+ERR: 非法操作:login.html1495602269039
+
+[ 2017-05-24T13:04:29+08:00 ] 127.0.0.1 /index.php/Login/undefined?1495602269056
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:04:31+08:00 ] 127.0.0.1 /index.php/Login/addUserHandel.html1495602271084
+ERR: 非法操作:addUserHandel.html1495602271084
+
+[ 2017-05-24T13:05:04+08:00 ] 127.0.0.1 /index.php/Home/Login/addUserHandel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-24T13:06:18+08:00 ] 127.0.0.1 /index.php/Login/login.html1495602378016
+ERR: 非法操作:login.html1495602378016
+
+[ 2017-05-24T13:06:18+08:00 ] 127.0.0.1 /index.php/Login/undefined?1495602378035
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:06:19+08:00 ] 127.0.0.1 /index.php/Login/addUserHandel.html1495602379568
+ERR: 非法操作:addUserHandel.html1495602379568
+
+[ 2017-05-24T13:06:46+08:00 ] 127.0.0.1 /index.php/Home/Login/addUserHandel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: password D:\phpStudy\WWW\lby\lbyun\Home\Controller\LoginController.class.php 第 105 行.
+
+[ 2017-05-24T13:09:42+08:00 ] 127.0.0.1 /index.php/Login/undefined?1495602582236
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:09:42+08:00 ] 127.0.0.1 /index.php/Login/login.html1495602582220
+ERR: 非法操作:login.html1495602582220
+
+[ 2017-05-24T13:09:43+08:00 ] 127.0.0.1 /index.php/Login/addUserHandel.html1495602583628
+ERR: 非法操作:addUserHandel.html1495602583628
+
+[ 2017-05-24T13:10:10+08:00 ] 127.0.0.1 /index.php/Home/Login/addUserHandel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [8] Undefined index: password D:\phpStudy\WWW\lby\lbyun\Home\Controller\LoginController.class.php 第 105 行.
+SQL: SHOW COLUMNS FROM `a_sys_user` [ RunTime:0.0090s ]
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `a_sys_user` (`USERNAME`,`USER_PROFESSION`,`MOBILE`,`USER_FROM`,`PASSWORD`,`USER_NAME`,`EMAIL`) VALUES ('123123213','市场销售管理人员','12123123123','智能硬件厂商','123123123','qweqwe','123123@qq.com')
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `a_sys_user` (`USERNAME`,`USER_PROFESSION`,`MOBILE`,`USER_FROM`,`PASSWORD`,`USER_NAME`,`EMAIL`) VALUES ('123123213','市场销售管理人员','12123123123','智能硬件厂商','123123123','qweqwe','123123@qq.com')
+
+[ 2017-05-24T13:18:40+08:00 ] 127.0.0.1 /index.php/Login/login.html1495603119886
+ERR: 非法操作:login.html1495603119886
+
+[ 2017-05-24T13:18:40+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495603119907
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:18:41+08:00 ] 127.0.0.1 /index.php/Login/addUserHandel.html1495603121828
+ERR: 非法操作:addUserHandel.html1495603121828
+
+[ 2017-05-24T13:19:04+08:00 ] 127.0.0.1 /index.php/Home/Login/addUserHandel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] rand() expects exactly 2 parameters, 1 given D:\phpStudy\WWW\lby\lbyun\Home\Controller\LoginController.class.php 第 105 行.
+NOTIC: [8] Undefined index: username D:\phpStudy\WWW\lby\lbyun\Home\Controller\LoginController.class.php 第 105 行.
+SQL: SHOW COLUMNS FROM `a_sys_user` [ RunTime:0.0070s ]
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `a_sys_user` (`USERNAME`,`USER_PROFESSION`,`MOBILE`,`USER_FROM`,`PASSWORD`,`USER_NAME`,`EMAIL`) VALUES ('的双方各梵蒂冈','售后服务管理人员','12312312312','经销商、代理商','123123123','问问','123123@qq.com')
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `a_sys_user` (`USERNAME`,`USER_PROFESSION`,`MOBILE`,`USER_FROM`,`PASSWORD`,`USER_NAME`,`EMAIL`) VALUES ('的双方各梵蒂冈','售后服务管理人员','12312312312','经销商、代理商','123123123','问问','123123@qq.com')
+
+[ 2017-05-24T13:19:39+08:00 ] 127.0.0.1 /index.php/Login/login.html1495603179780
+ERR: 非法操作:login.html1495603179780
+
+[ 2017-05-24T13:19:39+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495603179796
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:19:44+08:00 ] 127.0.0.1 /index.php/Login/login.html1495603183863
+ERR: 非法操作:login.html1495603183863
+
+[ 2017-05-24T13:19:44+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495603183883
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:20:04+08:00 ] 127.0.0.1 /index.php/Login/addUserHandel.html1495603204574
+ERR: 非法操作:addUserHandel.html1495603204574
+
+[ 2017-05-24T13:20:28+08:00 ] 127.0.0.1 /index.php/Home/Login/addUserHandel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2] rand() expects exactly 2 parameters, 1 given D:\phpStudy\WWW\lby\lbyun\Home\Controller\LoginController.class.php 第 105 行.
+NOTIC: [8] Undefined index: username D:\phpStudy\WWW\lby\lbyun\Home\Controller\LoginController.class.php 第 105 行.
+SQL: SHOW COLUMNS FROM `a_sys_user` [ RunTime:0.0080s ]
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `a_sys_user` (`USERNAME`,`USER_PROFESSION`,`MOBILE`,`USER_FROM`,`PASSWORD`,`USER_NAME`,`EMAIL`) VALUES ('12312312','售后服务职员','12123123123','智能硬件厂商','123123123','沈人文','12313212@qq.com')
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `a_sys_user` (`USERNAME`,`USER_PROFESSION`,`MOBILE`,`USER_FROM`,`PASSWORD`,`USER_NAME`,`EMAIL`) VALUES ('12312312','售后服务职员','12123123123','智能硬件厂商','123123123','沈人文','12313212@qq.com')
+
+[ 2017-05-24T13:21:42+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495603302399
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:21:42+08:00 ] 127.0.0.1 /index.php/Login/login.html1495603302382
+ERR: 非法操作:login.html1495603302382
+
+[ 2017-05-24T13:21:44+08:00 ] 127.0.0.1 /index.php/Login/addUserHandel.html1495603304044
+ERR: 非法操作:addUserHandel.html1495603304044
+
+[ 2017-05-24T13:22:19+08:00 ] 127.0.0.1 /index.php/Home/Login/addUserHandel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2] rand() expects exactly 2 parameters, 1 given D:\phpStudy\WWW\lby\lbyun\Home\Controller\LoginController.class.php 第 105 行.
+NOTIC: [8] Undefined index: username D:\phpStudy\WWW\lby\lbyun\Home\Controller\LoginController.class.php 第 105 行.
+SQL: SHOW COLUMNS FROM `a_sys_user` [ RunTime:0.0060s ]
+SQL: INSERT INTO `a_sys_user` (`USERNAME`,`USER_PROFESSION`,`MOBILE`,`USER_FROM`,`PASSWORD`,`USER_NAME`,`EMAIL`,`USER_ID`,`CREATE_TIME`,`ROLE_ID`) VALUES ('DFGDG','财务负责人','123123123','线下连锁卖场、店铺','d41d8cd98f00b204e9800998ecf8427e','asdasdasd','123123@qq.com','611da0f0bf002b5b1664db2dabfa9c20','2017-05-24 13:22:19','3') [ RunTime:0.0090s ]
+
+[ 2017-05-24T13:24:32+08:00 ] 127.0.0.1 /index.php/Home/Login/verify.html1495603472624
+ERR: 非法操作:verify.html1495603472624
+
+[ 2017-05-24T13:24:32+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495603472642
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:24:34+08:00 ] 127.0.0.1 /index.php/Home/Login/verify.html1495603474198
+ERR: 非法操作:verify.html1495603474198
+
+[ 2017-05-24T13:24:37+08:00 ] 127.0.0.1 /index.php/Home/Login/verify.html1495603477925
+ERR: 非法操作:verify.html1495603477925
+
+[ 2017-05-24T13:24:38+08:00 ] 127.0.0.1 /index.php/Home/Login/verify.html1495603478200
+ERR: 非法操作:verify.html1495603478200
+
+[ 2017-05-24T13:24:38+08:00 ] 127.0.0.1 /index.php/Home/Login/verify.html1495603478428
+ERR: 非法操作:verify.html1495603478428
+
+[ 2017-05-24T13:24:46+08:00 ] 127.0.0.1 /index.php/Home/Login/verify.html1495603486814
+ERR: 非法操作:verify.html1495603486814
+
+[ 2017-05-24T13:24:47+08:00 ] 127.0.0.1 /index.php/Home/Login/verify.html1495603487078
+ERR: 非法操作:verify.html1495603487078
+
+[ 2017-05-24T13:24:47+08:00 ] 127.0.0.1 /index.php/Home/Login/verify.html1495603487277
+ERR: 非法操作:verify.html1495603487277
+
+[ 2017-05-24T13:31:05+08:00 ] 127.0.0.1 /index.php/Home/Login/verify.html1495603865347
+ERR: 非法操作:verify.html1495603865347
+
+[ 2017-05-24T13:31:05+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495603865365
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:31:06+08:00 ] 127.0.0.1 /index.php/Home/Login/verify.html1495603866843
+ERR: 非法操作:verify.html1495603866843
+
+[ 2017-05-24T13:31:08+08:00 ] 127.0.0.1 /index.php/Home/Login/verify.html1495603868888
+ERR: 非法操作:verify.html1495603868888
+
+[ 2017-05-24T13:31:13+08:00 ] 127.0.0.1 /index.php/Home/Login/verify.html1495603873689
+ERR: 非法操作:verify.html1495603873689
+
+[ 2017-05-24T13:32:38+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495603958870
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:32:55+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495603974994
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:34:12+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495604051944
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:34:40+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495604080472
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:35:08+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495604107932
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:35:26+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495604126308
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:35:55+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495604155310
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:37:00+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495604220709
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:38:10+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495604290338
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:39:41+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495604381536
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:41:31+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495604491070
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:43:46+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495604625905
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:44:18+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495604658533
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:45:13+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495604713457
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:45:38+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495604737981
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:45:39+08:00 ] 127.0.0.1 /index.php/Home/Login/verify.html0.6012002552479987
+ERR: 非法操作:verify.html0.6012002552479987
+
+[ 2017-05-24T13:45:45+08:00 ] 127.0.0.1 /index.php/Home/Login/verify.html0.7657755459860895
+ERR: 非法操作:verify.html0.7657755459860895
+
+[ 2017-05-24T13:46:11+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495604771621
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:46:13+08:00 ] 127.0.0.1 /index.php/Home/Login/verify.html/0.5666116663970334
+ERR: 非法操作:verify.html
+
+[ 2017-05-24T13:46:15+08:00 ] 127.0.0.1 /index.php/Home/Login/verify.html/0.08616782240665699
+ERR: 非法操作:verify.html
+
+[ 2017-05-24T13:46:46+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495604806728
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:46:48+08:00 ] 127.0.0.1 /index.php/Home/Login/verify.html/0.03661889289604403
+ERR: 非法操作:verify.html
+
+[ 2017-05-24T13:46:55+08:00 ] 127.0.0.1 /index.php/Home/Login/verify.html/0.7047590735954634
+ERR: 非法操作:verify.html
+
+[ 2017-05-24T13:47:18+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495604838759
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:47:20+08:00 ] 127.0.0.1 /index.php/Home/Login/verify.html/16.462994852009494
+ERR: 非法操作:verify.html
+
+[ 2017-05-24T13:47:26+08:00 ] 127.0.0.1 /index.php/Home/Login/verify.html/72.70361875708412
+ERR: 非法操作:verify.html
+
+[ 2017-05-24T13:47:41+08:00 ] 127.0.0.1 /index.php/Home/Login/verify.html/72.70361875708412
+ERR: 非法操作:verify.html
+
+[ 2017-05-24T13:48:53+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495604933617
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:50:02+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495605002781
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:50:04+08:00 ] 127.0.0.1 /index.php/Home/Login/verify.html/91.52427465607558
+ERR: 非法操作:verify.html
+
+[ 2017-05-24T13:50:12+08:00 ] 127.0.0.1 /index.php/Home/Login/verify.html/91.52427465607558
+ERR: 非法操作:verify.html
+
+[ 2017-05-24T13:50:17+08:00 ] 127.0.0.1 /index.php/Home/Login/verify.html/91.93032757739654
+ERR: 非法操作:verify.html
+
+[ 2017-05-24T13:50:39+08:00 ] 127.0.0.1 /index.php/Home/Login/verify.html/91.93032757739654
+ERR: 非法操作:verify.html
+
+[ 2017-05-24T13:51:16+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495605076084
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:51:17+08:00 ] 127.0.0.1 /index.php/Home/Login/verify.html54.33127758846608
+ERR: 非法操作:verify.html54.33127758846608
+
+[ 2017-05-24T13:51:26+08:00 ] 127.0.0.1 /index.php/Home/Login/verify.html62.916061785622425
+ERR: 非法操作:verify.html62.916061785622425
+
+[ 2017-05-24T13:53:24+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495605203930
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:53:25+08:00 ] 127.0.0.1 /index.php?m=Home&c=Login&a=verify97.3943388978
+ERR: 非法操作:verify97.3943388978
+
+[ 2017-05-24T13:53:26+08:00 ] 127.0.0.1 /index.php?m=Home&c=Login&a=verify94.61147718818049
+ERR: 非法操作:verify94.61147718818049
+
+[ 2017-05-24T13:54:03+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495605242838
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:54:04+08:00 ] 127.0.0.1 /Home/Login/verify.html22.335783186839276
+ERR: 非法操作:verify.html22.335783186839276
+
+[ 2017-05-24T13:54:08+08:00 ] 127.0.0.1 /Home/Login/verify.html48.702755486225925
+ERR: 非法操作:verify.html48.702755486225925
+
+[ 2017-05-24T13:54:20+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495605259965
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:54:21+08:00 ] 127.0.0.1 /index.php?s=/Home/Login/verify.html47.72776061929274
+ERR: 非法操作:verify.html47.72776061929274
+
+[ 2017-05-24T13:54:25+08:00 ] 127.0.0.1 /index.php?s=/Home/Login/verify.html60.774126751498
+ERR: 非法操作:verify.html60.774126751498
+
+[ 2017-05-24T13:55:13+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495605313471
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:55:15+08:00 ] 127.0.0.1 /index.php?s=/Home/Login/verify.html?rand=69.44647953545392
+ERR: 非法操作:verify.html?rand=69.44647953545392
+
+[ 2017-05-24T13:55:22+08:00 ] 127.0.0.1 /index.php?s=/Home/Login/verify.html?rand=19.296812853799228
+ERR: 非法操作:verify.html?rand=19.296812853799228
+
+[ 2017-05-24T13:55:38+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495605338005
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:58:58+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495605538363
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:59:27+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495605567687
+ERR: 非法操作:undefined
+
+[ 2017-05-24T13:59:36+08:00 ] 127.0.0.1 /index.php/Home/Login/undefined?1495605576636
+ERR: 非法操作:undefined
+

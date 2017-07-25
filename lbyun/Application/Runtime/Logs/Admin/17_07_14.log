@@ -1,0 +1,2117 @@
+[ 2017-07-14T09:13:36+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/index1.html
+ERR: 非法操作:index1
+
+[ 2017-07-14T09:22:30+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/index1.html
+ERR: 非法操作:index1
+
+[ 2017-07-14T09:22:37+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:22:48+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:22:54+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:25:02+08:00 ] ::1 /yjc/lby/instructions/list
+ERR: 无法加载控制器:Instructions
+
+[ 2017-07-14T09:26:37+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:26:37+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T09:26:37+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:26:38+08:00 ] ::1 /yjc/lby/instructions/list
+ERR: 无法加载控制器:Instructions
+
+[ 2017-07-14T09:27:00+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:42:34+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:42:34+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:42:34+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:42:34+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:42:34+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:42:40+08:00 ] ::1 /yjc/lby/index.php/Activated/activa_modified.html
+ERR: 1136:Column count doesn't match value count at row 1
+ [ SQL语句 ] : insert into checking_audit values(apply_type,apply_test)
+
+[ 2017-07-14T09:43:43+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T09:43:43+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:43:43+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:43:43+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:43:43+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T09:43:47+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:43:47+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:43:47+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:43:47+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:43:47+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:43:52+08:00 ] ::1 /yjc/lby/index.php/Activated/activa_modified.html
+ERR: 1136:Column count doesn't match value count at row 1
+ [ SQL语句 ] : insert into checking_audit values('apply_type','apply_test')
+
+[ 2017-07-14T09:49:42+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:49:42+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:49:42+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:49:42+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:49:42+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:58:23+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:58:23+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:58:23+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:58:23+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:58:23+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:58:46+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:58:46+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:58:46+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:58:46+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:58:46+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:59:00+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:59:00+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:59:00+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:59:00+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:59:00+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:59:04+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:59:04+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:59:04+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:59:04+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:59:04+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:59:08+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:59:08+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:59:08+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:59:08+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T09:59:08+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:07:04+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:07:04+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:07:05+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:07:05+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:07:05+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:07:11+08:00 ] ::1 /yjc/lby/index.php/Activated/activa_modified.html
+ERR: 1146:Table 'good.chencking_audit' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `chencking_audit`
+
+[ 2017-07-14T10:07:50+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:07:50+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:07:50+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:07:50+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:07:50+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:07:55+08:00 ] ::1 /yjc/lby/index.php/Activated/activa_modified.html
+ERR: 1062:Duplicate entry '00000000013' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `checking_audit` (`apply_type`,`apply_test`,`audit_id`) VALUES ('2','阿擦擦生产线','13')
+
+[ 2017-07-14T10:15:39+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:15:39+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:15:39+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:15:39+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:15:39+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:15:48+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:15:48+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:15:48+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:15:48+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:15:48+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:16:19+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:16:20+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:16:20+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:16:20+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:16:20+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:16:50+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:16:50+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:16:50+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:16:50+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:16:50+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:33:58+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:33:58+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:33:58+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:33:58+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:33:58+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:34:19+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:34:19+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:34:19+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:34:19+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:34:19+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:34:41+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:34:41+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:34:41+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:34:41+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:34:41+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:36:11+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:36:11+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:36:11+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:36:11+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:36:11+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:37:04+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:37:04+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T10:37:04+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:37:04+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:37:04+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T10:37:05+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:37:05+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T10:37:05+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:37:05+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:37:05+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T10:37:06+08:00 ] ::1 /yjc/lby/instructions/list
+ERR: 无法加载控制器:Instructions
+
+[ 2017-07-14T10:37:14+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:37:14+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:37:42+08:00 ] ::1 /yjc/lby/index.php/Login/undefined?1499999862559
+ERR: 非法操作:undefined
+
+[ 2017-07-14T10:37:50+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/index1.html
+ERR: 非法操作:index1
+
+[ 2017-07-14T10:37:58+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:37:58+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:53:26+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T10:53:27+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:09:46+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T11:09:46+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:09:46+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:09:46+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T11:09:46+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:09:54+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:09:54+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T11:09:54+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:09:54+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:09:54+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T11:16:34+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:16:34+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:17:05+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:17:05+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:19:51+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:19:51+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:21:20+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:21:20+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:24:03+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/index1.html
+ERR: 非法操作:index1
+
+[ 2017-07-14T11:24:32+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/index1.html
+ERR: 非法操作:index1
+
+[ 2017-07-14T11:28:59+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:28:59+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:29:38+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:29:38+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:40:53+08:00 ] ::1 /yjc/lby/index.php/Index/question/list.do
+ERR: 非法操作:question
+
+[ 2017-07-14T11:40:54+08:00 ] ::1 /yjc/lby/index.php/Info/style.css
+ERR: 非法操作:style.css
+
+[ 2017-07-14T11:40:54+08:00 ] ::1 /yjc/lby/index.php/Info/style.css
+ERR: 非法操作:style.css
+
+[ 2017-07-14T11:40:55+08:00 ] ::1 /yjc/lby/index.php/Index/probleminformation/list.do
+ERR: 非法操作:probleminformation
+
+[ 2017-07-14T11:40:55+08:00 ] ::1 /yjc/lby/index.php/Index/probleminformation/list.do
+ERR: 非法操作:probleminformation
+
+[ 2017-07-14T11:53:19+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:53:19+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:53:35+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:53:35+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:53:52+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:53:53+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:54:35+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:54:35+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:56:12+08:00 ] ::1 /yjc/lby/index.php/Login/undefined?1500004572683
+ERR: 非法操作:undefined
+
+[ 2017-07-14T11:56:22+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/index1.html
+ERR: 非法操作:index1
+
+[ 2017-07-14T11:56:38+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:56:38+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:56:43+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T11:56:44+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T12:03:27+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T12:03:27+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T12:03:27+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T12:03:27+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T12:03:27+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T12:03:28+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T12:03:28+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T12:03:28+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T12:03:29+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T12:03:29+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T12:09:35+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T12:09:35+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T12:09:35+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T12:09:35+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T12:09:35+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T12:09:37+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T12:09:37+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T12:09:37+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T12:09:37+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T12:09:37+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T12:09:40+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T12:09:40+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T12:09:41+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T12:09:41+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T12:09:41+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T12:09:43+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T12:09:43+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T12:09:43+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T12:09:43+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T12:09:43+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T12:13:51+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T12:13:51+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T12:13:51+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T12:13:51+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T12:13:51+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T12:14:03+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T12:14:03+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T12:14:03+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T12:14:03+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T12:14:03+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T12:17:41+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:12:31+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:12:31+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:12:31+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:12:31+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:12:31+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:17:56+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:17:56+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:17:56+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:17:56+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:17:56+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:17:57+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:17:57+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:17:57+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:17:57+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:17:58+08:00 ] ::1 /yjc/lby/instructions/list
+ERR: 无法加载控制器:Instructions
+
+[ 2017-07-14T13:46:30+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:46:30+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:46:30+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:46:30+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:46:30+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:46:31+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:46:31+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:46:31+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:46:31+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:46:31+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:46:32+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:46:32+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:46:32+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:46:32+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:46:32+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:46:35+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:46:35+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:46:35+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:46:35+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:46:35+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:46:43+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:46:43+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:46:43+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:46:43+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:46:43+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:46:50+08:00 ] ::1 /yjc/lby/index.php/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-07-14T13:46:55+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:46:55+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:46:55+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:46:55+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:46:55+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:46:59+08:00 ] ::1 /yjc/lby/index.php/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-07-14T13:47:01+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:47:01+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:47:01+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:47:01+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:47:01+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:51:16+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:51:16+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:51:16+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:51:16+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:51:16+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:52:38+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:52:38+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:52:38+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:52:38+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:52:38+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:53:52+08:00 ] ::1 /yjc/lby/index.php/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-07-14T13:53:53+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:53:53+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:53:53+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:53:53+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:53:53+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:55:17+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:55:17+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:55:18+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:55:18+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:55:18+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:55:22+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:55:22+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:55:22+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:55:22+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:55:22+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:55:23+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T13:55:23+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:55:23+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:55:23+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T13:55:23+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T14:34:02+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T14:34:02+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T14:34:02+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T14:34:02+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T14:34:02+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T14:36:18+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T14:36:18+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T14:36:18+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T14:36:18+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T14:36:18+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T14:47:32+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T14:47:32+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T14:47:32+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T14:47:32+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T14:47:32+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T14:47:45+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T14:47:45+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T14:47:45+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T14:47:46+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T14:47:46+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T15:19:58+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T15:19:58+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T15:19:58+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T15:19:58+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T15:19:58+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T15:20:00+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T15:20:00+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T15:20:00+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T15:20:00+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T15:20:00+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T15:20:01+08:00 ] ::1 /yjc/lby/index.php/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-07-14T15:36:31+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery-1.js
+ERR: 非法操作:jquery-1.js
+
+[ 2017-07-14T15:36:31+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery.js
+ERR: 非法操作:jquery.js
+
+[ 2017-07-14T15:36:31+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery.css
+ERR: 非法操作:jquery.css
+
+[ 2017-07-14T15:36:31+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery-migrate-1.js
+ERR: 非法操作:jquery-migrate-1.js
+
+[ 2017-07-14T15:36:31+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery_002.js
+ERR: 非法操作:jquery_002.js
+
+[ 2017-07-14T15:36:31+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery-ui-1.js
+ERR: 非法操作:jquery-ui-1.js
+
+[ 2017-07-14T15:36:31+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery_006.js
+ERR: 非法操作:jquery_006.js
+
+[ 2017-07-14T15:36:31+08:00 ] ::1 /yjc/lby/index.php/Blot/bootstrap.css
+ERR: 非法操作:bootstrap.css
+
+[ 2017-07-14T15:36:31+08:00 ] ::1 /yjc/lby/index.php/Blot/bootstrap.js
+ERR: 非法操作:bootstrap.js
+
+[ 2017-07-14T15:36:31+08:00 ] ::1 /yjc/lby/index.php/Blot/WdatePicker.js
+ERR: 非法操作:WdatePicker.js
+
+[ 2017-07-14T15:36:31+08:00 ] ::1 /yjc/lby/index.php/Blot/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T15:36:31+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery_003.js
+ERR: 非法操作:jquery_003.js
+
+[ 2017-07-14T15:36:31+08:00 ] ::1 /yjc/lby/index.php/Blot/lenjoy.css
+ERR: 非法操作:lenjoy.css
+
+[ 2017-07-14T15:36:31+08:00 ] ::1 /yjc/lby/index.php/Blot/mustache.js
+ERR: 非法操作:mustache.js
+
+[ 2017-07-14T15:36:31+08:00 ] ::1 /yjc/lby/index.php/Blot/lenjoy.js
+ERR: 非法操作:lenjoy.js
+
+[ 2017-07-14T15:36:31+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/treeTable.css
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:36:31+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/jquery.js
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:36:31+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery-migrate-1.js
+ERR: 非法操作:jquery-migrate-1.js
+
+[ 2017-07-14T15:36:31+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery.css
+ERR: 非法操作:jquery.css
+
+[ 2017-07-14T15:36:31+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery_002.js
+ERR: 非法操作:jquery_002.js
+
+[ 2017-07-14T15:36:31+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery_006.js
+ERR: 非法操作:jquery_006.js
+
+[ 2017-07-14T15:36:31+08:00 ] ::1 /yjc/lby/index.php/Blot/bootstrap.css
+ERR: 非法操作:bootstrap.css
+
+[ 2017-07-14T15:36:31+08:00 ] ::1 /yjc/lby/index.php/Blot/bootstrap.js
+ERR: 非法操作:bootstrap.js
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/WdatePicker.js
+ERR: 非法操作:WdatePicker.js
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery_003.js
+ERR: 非法操作:jquery_003.js
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/mustache.js
+ERR: 非法操作:mustache.js
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/lenjoy.js
+ERR: 非法操作:lenjoy.js
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/lenjoy.css
+ERR: 非法操作:lenjoy.css
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/jquery.js
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/treeTable.css
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery-1.js
+ERR: 非法操作:jquery-1.js
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery_002.js
+ERR: 非法操作:jquery_002.js
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery-ui-1.js
+ERR: 非法操作:jquery-ui-1.js
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery-migrate-1.js
+ERR: 非法操作:jquery-migrate-1.js
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery.css
+ERR: 非法操作:jquery.css
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery.js
+ERR: 非法操作:jquery.js
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery_006.js
+ERR: 非法操作:jquery_006.js
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/bootstrap.css
+ERR: 非法操作:bootstrap.css
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/bootstrap.js
+ERR: 非法操作:bootstrap.js
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/WdatePicker.js
+ERR: 非法操作:WdatePicker.js
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/treeTable.css
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/mustache.js
+ERR: 非法操作:mustache.js
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/lenjoy.css
+ERR: 非法操作:lenjoy.css
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery_003.js
+ERR: 非法操作:jquery_003.js
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery.js
+ERR: 非法操作:jquery.js
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery-1.js
+ERR: 非法操作:jquery-1.js
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery-ui-1.js
+ERR: 非法操作:jquery-ui-1.js
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery.css
+ERR: 非法操作:jquery.css
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery-migrate-1.js
+ERR: 非法操作:jquery-migrate-1.js
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery_002.js
+ERR: 非法操作:jquery_002.js
+
+[ 2017-07-14T15:36:32+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery_006.js
+ERR: 非法操作:jquery_006.js
+
+[ 2017-07-14T15:36:33+08:00 ] ::1 /yjc/lby/index.php/Blot/bootstrap.css
+ERR: 非法操作:bootstrap.css
+
+[ 2017-07-14T15:36:33+08:00 ] ::1 /yjc/lby/index.php/Blot/bootstrap.js
+ERR: 非法操作:bootstrap.js
+
+[ 2017-07-14T15:36:33+08:00 ] ::1 /yjc/lby/index.php/Blot/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T15:36:33+08:00 ] ::1 /yjc/lby/index.php/Blot/WdatePicker.js
+ERR: 非法操作:WdatePicker.js
+
+[ 2017-07-14T15:36:33+08:00 ] ::1 /yjc/lby/index.php/Blot/mustache.js
+ERR: 非法操作:mustache.js
+
+[ 2017-07-14T15:36:33+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery_003.js
+ERR: 非法操作:jquery_003.js
+
+[ 2017-07-14T15:36:33+08:00 ] ::1 /yjc/lby/index.php/Blot/lenjoy.css
+ERR: 非法操作:lenjoy.css
+
+[ 2017-07-14T15:36:33+08:00 ] ::1 /yjc/lby/index.php/Blot/lenjoy.js
+ERR: 非法操作:lenjoy.js
+
+[ 2017-07-14T15:36:33+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/treeTable.css
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:36:33+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/jquery.js
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:36:33+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery.js
+ERR: 非法操作:jquery.js
+
+[ 2017-07-14T15:36:33+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery-ui-1.js
+ERR: 非法操作:jquery-ui-1.js
+
+[ 2017-07-14T15:36:33+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery-migrate-1.js
+ERR: 非法操作:jquery-migrate-1.js
+
+[ 2017-07-14T15:36:33+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery_002.js
+ERR: 非法操作:jquery_002.js
+
+[ 2017-07-14T15:36:33+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery.css
+ERR: 非法操作:jquery.css
+
+[ 2017-07-14T15:36:33+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery_006.js
+ERR: 非法操作:jquery_006.js
+
+[ 2017-07-14T15:36:33+08:00 ] ::1 /yjc/lby/index.php/Blot/bootstrap.css
+ERR: 非法操作:bootstrap.css
+
+[ 2017-07-14T15:36:33+08:00 ] ::1 /yjc/lby/index.php/Blot/bootstrap.js
+ERR: 非法操作:bootstrap.js
+
+[ 2017-07-14T15:36:33+08:00 ] ::1 /yjc/lby/index.php/Blot/WdatePicker.js
+ERR: 非法操作:WdatePicker.js
+
+[ 2017-07-14T15:36:33+08:00 ] ::1 /yjc/lby/index.php/Blot/jquery_003.js
+ERR: 非法操作:jquery_003.js
+
+[ 2017-07-14T15:36:33+08:00 ] ::1 /yjc/lby/index.php/Blot/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T15:36:33+08:00 ] ::1 /yjc/lby/index.php/Blot/mustache.js
+ERR: 非法操作:mustache.js
+
+[ 2017-07-14T15:36:33+08:00 ] ::1 /yjc/lby/index.php/Blot/lenjoy.js
+ERR: 非法操作:lenjoy.js
+
+[ 2017-07-14T15:36:33+08:00 ] ::1 /yjc/lby/index.php/Blot/lenjoy.css
+ERR: 非法操作:lenjoy.css
+
+[ 2017-07-14T15:36:33+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/jquery.js
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:36:33+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/treeTable.css
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:37:58+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/treeTable.css
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:37:58+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/jquery.js
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:37:58+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T15:37:58+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/treeTable.css
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:37:58+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/jquery.js
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:37:59+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/jquery.js
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:37:59+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/treeTable.css
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:37:59+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T15:37:59+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/treeTable.css
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:37:59+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/jquery.js
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:38:02+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/treeTable.css
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:38:02+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/jquery.js
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:38:03+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T15:38:03+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/jquery.js
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:38:03+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/treeTable.css
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:38:25+08:00 ] ::1 /yjc/lby/index.php/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-07-14T15:38:26+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T15:38:26+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T15:38:26+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T15:38:26+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T15:38:26+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T15:38:27+08:00 ] ::1 /yjc/lby/index.php/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-07-14T15:38:28+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T15:38:28+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T15:38:28+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T15:38:28+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T15:38:28+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T15:38:29+08:00 ] ::1 /yjc/lby/index.php/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-07-14T15:38:41+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/treeTable.css
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:38:41+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/jquery.js
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:38:41+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T15:38:41+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/treeTable.css
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:38:41+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/jquery.js
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:40:14+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T15:41:29+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/jquery.js
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:41:29+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/treeTable.css
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:41:29+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T15:41:29+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/treeTable.css
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:41:29+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/jquery.js
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:41:31+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/treeTable.css
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:41:31+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/jquery.js
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:41:31+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T15:41:31+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/jquery.js
+ERR: 非法操作:list_data
+
+[ 2017-07-14T15:41:31+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/treeTable.css
+ERR: 非法操作:list_data
+
+[ 2017-07-14T16:07:59+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:07:59+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:07:59+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:07:59+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:07:59+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:08:35+08:00 ] ::1 /yjc/lby/index.php/Tian/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:08:35+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:08:35+08:00 ] ::1 /yjc/lby/index.php/Tian/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:16:09+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:16:09+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:16:09+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:16:09+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:16:09+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:16:18+08:00 ] ::1 /yjc/lby/index.php/Login/undefined?1500020177971
+ERR: 非法操作:undefined
+
+[ 2017-07-14T16:16:30+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/index1.html
+ERR: 非法操作:index1
+
+[ 2017-07-14T16:16:33+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:16:33+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:16:33+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:16:33+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:16:33+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:20:13+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/treeTable.css
+ERR: 非法操作:list_data
+
+[ 2017-07-14T16:20:13+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/jquery.js
+ERR: 非法操作:list_data
+
+[ 2017-07-14T16:20:13+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:20:13+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/treeTable.css
+ERR: 非法操作:list_data
+
+[ 2017-07-14T16:20:13+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/jquery.js
+ERR: 非法操作:list_data
+
+[ 2017-07-14T16:20:38+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:20:38+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:20:39+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:20:39+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:20:39+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:20:45+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/treeTable.css
+ERR: 非法操作:list_data
+
+[ 2017-07-14T16:20:45+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/jquery.js
+ERR: 非法操作:list_data
+
+[ 2017-07-14T16:20:45+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:20:45+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/treeTable.css
+ERR: 非法操作:list_data
+
+[ 2017-07-14T16:20:45+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/jquery.js
+ERR: 非法操作:list_data
+
+[ 2017-07-14T16:20:57+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/treeTable.css
+ERR: 非法操作:list_data
+
+[ 2017-07-14T16:20:57+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/jquery.js
+ERR: 非法操作:list_data
+
+[ 2017-07-14T16:20:57+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:20:58+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/jquery.js
+ERR: 非法操作:list_data
+
+[ 2017-07-14T16:20:58+08:00 ] ::1 /yjc/lby/index.php/Blot/list_data/treeTable.css
+ERR: 非法操作:list_data
+
+[ 2017-07-14T16:25:46+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:25:46+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:25:46+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:25:46+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:25:46+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:29:06+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:29:06+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:29:06+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:29:06+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:29:06+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:29:06+08:00 ] ::1 /yjc/lby/index.php/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-07-14T16:36:11+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:36:11+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:36:11+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:36:11+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:36:11+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:36:57+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:36:57+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:36:57+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:36:57+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:36:57+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:36:59+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:36:59+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:36:59+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:36:59+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:36:59+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:37:01+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:37:01+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:37:01+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:37:01+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:37:01+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:37:04+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:37:04+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:37:04+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:37:05+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:37:05+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:37:06+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:37:06+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:37:07+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:37:07+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:37:07+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:45:26+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:45:26+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:45:35+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:45:35+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:45:35+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:45:35+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:45:35+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:45:35+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:45:35+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:45:35+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:45:35+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:45:35+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:53:26+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:53:26+08:00 ] ::1 /yjc/lby/index.php/Market/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:53:26+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:53:26+08:00 ] ::1 /yjc/lby/index.php/Market/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:53:26+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:54:08+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:54:08+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:54:08+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:54:08+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:54:08+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:54:17+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:54:17+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:54:17+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:54:18+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:54:18+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:58:00+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:58:00+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:59:42+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:59:42+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T16:59:43+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:59:43+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T16:59:43+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T17:42:05+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T17:42:06+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T17:42:22+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T17:42:22+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T17:42:23+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T17:42:23+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T17:42:23+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T17:42:27+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T17:42:27+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T17:42:45+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T17:42:45+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T17:42:46+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T17:42:46+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T17:42:46+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T17:42:49+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T17:42:50+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T17:47:17+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T17:47:17+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T17:47:17+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T17:47:18+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T17:47:18+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T17:47:22+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T17:47:22+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:08:54+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:08:54+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:08:54+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:08:54+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:08:54+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:08:58+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:08:58+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:09:24+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:09:24+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:09:24+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:09:24+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:09:24+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:09:27+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:09:27+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:12:11+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:12:12+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:12:12+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:12:12+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:12:12+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:12:13+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:12:14+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:28:27+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:28:27+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:28:27+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:28:27+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:28:27+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:28:29+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:28:29+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:29:01+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:29:01+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:29:01+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:29:01+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:29:01+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:29:04+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:29:05+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:29:44+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:29:44+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:29:45+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:29:45+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:29:45+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:30:03+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:30:03+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:31:00+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:31:00+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:31:00+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:31:00+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:31:00+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:31:02+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:31:02+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:32:02+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:32:02+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:32:03+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:32:03+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:32:03+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:32:04+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:32:05+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:38:54+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:38:54+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:38:55+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:38:55+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:38:55+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:38:57+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:38:57+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:40:23+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:40:23+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:40:24+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:40:24+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:40:24+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:40:42+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:40:42+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:40:42+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:40:42+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:40:42+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:40:44+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:40:44+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:47:58+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:47:58+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:47:58+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:47:58+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:47:58+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:48:00+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:48:00+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:48:56+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:48:56+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:48:56+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:48:56+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:48:56+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:48:58+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:48:58+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:53:02+08:00 ] ::1 /yjc/lby/index.php/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-07-14T18:53:03+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:53:03+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:53:03+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:53:03+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:53:03+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:53:05+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:53:05+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:53:52+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:53:52+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:53:52+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:53:52+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:53:53+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:53:54+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:53:54+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:56:00+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:56:01+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:56:01+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:56:01+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:56:01+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-14T18:56:03+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:56:03+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:57:37+08:00 ] ::1 /yjc/lby/index.php/Audit/order_inser.html
+ERR: 1048:Column 'audit_name' cannot be null
+ [ SQL语句 ] : INSERT INTO `checking_audit` (`audit_tong`,`audit_product`,`audit_file`,`audit_time`,`audit_name`,`audit_phone`,`audit_order`,`audit_serial_number`) VALUES ('1','1','./Public/Shens/2017-07-14/','2017-07-14,18-57-37',NULL,NULL,'71429857361199387','31107869524')
+
+[ 2017-07-14T18:57:41+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:57:41+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-14T18:57:45+08:00 ] ::1 /yjc/lby/index.php/Login/undefined?1500029865678
+ERR: 非法操作:undefined
+
+[ 2017-07-14T18:57:54+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/index1.html
+ERR: 非法操作:index1
+

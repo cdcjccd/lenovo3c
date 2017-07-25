@@ -1,0 +1,32 @@
+.main_input_box .valid_message {
+    color: #fff;
+    position: absolute;
+    left:81%;
+    top: 5px;
+    text-align:left;
+    background:#448ecd;
+	border-radius:4px;
+	padding:5px 8px;
+	z-index:999;
+  }
+ 
+ .main_input_box.success .valid_message {
+
+    background: url(static/login/images/sucess.png) no-repeat;
+
+    left: auto;
+
+    right: 5px;
+
+    top: 4px;
+
+    width: 16px;
+
+    height: 16px;
+
+  }
+  .none {
+
+    display: none;
+
+  }

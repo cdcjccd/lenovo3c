@@ -1,0 +1,1215 @@
+[ 2017-06-20T09:15:08+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/index1.html
+ERR: 非法操作:index1
+
+[ 2017-06-20T09:15:15+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/index1.html
+ERR: 非法操作:index1
+
+[ 2017-06-20T09:15:20+08:00 ] ::1 /yjc/lby/index.php/Tian/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T09:15:20+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T09:15:20+08:00 ] ::1 /yjc/lby/index.php/Tian/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T12:02:26+08:00 ] ::1 /yjc/lby/index.php/Tian/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T12:02:26+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T12:02:26+08:00 ] ::1 /yjc/lby/index.php/Tian/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T14:07:11+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T14:07:11+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T14:07:11+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T14:07:11+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T14:07:11+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T14:07:13+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T14:07:13+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T14:07:13+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T14:07:13+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T14:07:13+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T14:07:14+08:00 ] ::1 /yjc/lby/instructions/list
+ERR: 无法加载控制器:Instructions
+
+[ 2017-06-20T14:07:15+08:00 ] ::1 /yjc/lby/instructions/list
+ERR: 无法加载控制器:Instructions
+
+[ 2017-06-20T14:07:31+08:00 ] ::1 /yjc/lby/instructions/list
+ERR: 无法加载控制器:Instructions
+
+[ 2017-06-20T14:37:42+08:00 ] ::1 /yjc/lby/question/list.do
+ERR: 无法加载控制器:Question
+
+[ 2017-06-20T14:37:44+08:00 ] ::1 /yjc/lby/question/list.do
+ERR: 无法加载控制器:Question
+
+[ 2017-06-20T14:37:44+08:00 ] ::1 /yjc/lby/question/list.do
+ERR: 无法加载控制器:Question
+
+[ 2017-06-20T14:37:45+08:00 ] ::1 /yjc/lby/question/list.do
+ERR: 无法加载控制器:Question
+
+[ 2017-06-20T14:37:45+08:00 ] ::1 /yjc/lby/question/list.do
+ERR: 无法加载控制器:Question
+
+[ 2017-06-20T14:37:45+08:00 ] ::1 /yjc/lby/question/list.do
+ERR: 无法加载控制器:Question
+
+[ 2017-06-20T14:37:46+08:00 ] ::1 /yjc/lby/probleminformation/list.do
+ERR: 无法加载控制器:Probleminformation
+
+[ 2017-06-20T14:37:47+08:00 ] ::1 /yjc/lby/probleminformation/list.do
+ERR: 无法加载控制器:Probleminformation
+
+[ 2017-06-20T14:37:47+08:00 ] ::1 /yjc/lby/probleminformation/list.do
+ERR: 无法加载控制器:Probleminformation
+
+[ 2017-06-20T14:37:47+08:00 ] ::1 /yjc/lby/probleminformation/list.do
+ERR: 无法加载控制器:Probleminformation
+
+[ 2017-06-20T14:37:47+08:00 ] ::1 /yjc/lby/probleminformation/list.do
+ERR: 无法加载控制器:Probleminformation
+
+[ 2017-06-20T14:37:50+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/index1.html
+ERR: 非法操作:index1
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/jquery-1.js
+ERR: 非法操作:jquery-1.js
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/jquery.js
+ERR: 非法操作:jquery.js
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/jquery-migrate-1.js
+ERR: 非法操作:jquery-migrate-1.js
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/jquery.css
+ERR: 非法操作:jquery.css
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/jquery_005.js
+ERR: 非法操作:jquery_005.js
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/jquery-ui-1.js
+ERR: 非法操作:jquery-ui-1.js
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/jquery_006.js
+ERR: 非法操作:jquery_006.js
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/bootstrap.css
+ERR: 非法操作:bootstrap.css
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/bootstrap.js
+ERR: 非法操作:bootstrap.js
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.js
+ERR: 非法操作:WdatePicker.js
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/jquery_002.js
+ERR: 非法操作:jquery_002.js
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/mustache.js
+ERR: 非法操作:mustache.js
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/lenjoy.css
+ERR: 非法操作:lenjoy.css
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/lenjoy.js
+ERR: 非法操作:lenjoy.js
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/jquery-migrate-1.js
+ERR: 非法操作:jquery-migrate-1.js
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/jquery.css
+ERR: 非法操作:jquery.css
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/jquery.js
+ERR: 非法操作:jquery.js
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/jquery_006.js
+ERR: 非法操作:jquery_006.js
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/bootstrap.css
+ERR: 非法操作:bootstrap.css
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/bootstrap.js
+ERR: 非法操作:bootstrap.js
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.js
+ERR: 非法操作:WdatePicker.js
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/jquery_002.js
+ERR: 非法操作:jquery_002.js
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/mustache.js
+ERR: 非法操作:mustache.js
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/lenjoy.js
+ERR: 非法操作:lenjoy.js
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/lenjoy.css
+ERR: 非法操作:lenjoy.css
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/jquery-1.js
+ERR: 非法操作:jquery-1.js
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/jquery_005.js
+ERR: 非法操作:jquery_005.js
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/jquery-ui-1.js
+ERR: 非法操作:jquery-ui-1.js
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/jquery-migrate-1.js
+ERR: 非法操作:jquery-migrate-1.js
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/jquery.css
+ERR: 非法操作:jquery.css
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/jquery.js
+ERR: 非法操作:jquery.js
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/jquery_006.js
+ERR: 非法操作:jquery_006.js
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/bootstrap.js
+ERR: 非法操作:bootstrap.js
+
+[ 2017-06-20T14:43:31+08:00 ] ::1 /yjc/lby/index.php/Info/bootstrap.css
+ERR: 非法操作:bootstrap.css
+
+[ 2017-06-20T14:43:32+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.js
+ERR: 非法操作:WdatePicker.js
+
+[ 2017-06-20T14:43:32+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T14:43:32+08:00 ] ::1 /yjc/lby/index.php/Info/jquery_002.js
+ERR: 非法操作:jquery_002.js
+
+[ 2017-06-20T14:43:32+08:00 ] ::1 /yjc/lby/index.php/Info/mustache.js
+ERR: 非法操作:mustache.js
+
+[ 2017-06-20T14:43:32+08:00 ] ::1 /yjc/lby/index.php/Info/lenjoy.css
+ERR: 非法操作:lenjoy.css
+
+[ 2017-06-20T14:43:32+08:00 ] ::1 /yjc/lby/index.php/Info/lenjoy.js
+ERR: 非法操作:lenjoy.js
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/jquery_005.js
+ERR: 非法操作:jquery_005.js
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/jquery-1.js
+ERR: 非法操作:jquery-1.js
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/jquery-ui-1.js
+ERR: 非法操作:jquery-ui-1.js
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/jquery.css
+ERR: 非法操作:jquery.css
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/jquery.js
+ERR: 非法操作:jquery.js
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/jquery-migrate-1.js
+ERR: 非法操作:jquery-migrate-1.js
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/jquery_006.js
+ERR: 非法操作:jquery_006.js
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/bootstrap.css
+ERR: 非法操作:bootstrap.css
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.js
+ERR: 非法操作:WdatePicker.js
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/bootstrap.js
+ERR: 非法操作:bootstrap.js
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/jquery_002.js
+ERR: 非法操作:jquery_002.js
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/mustache.js
+ERR: 非法操作:mustache.js
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/lenjoy.css
+ERR: 非法操作:lenjoy.css
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/lenjoy.js
+ERR: 非法操作:lenjoy.js
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/pie.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/funnel.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/line.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/bar.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/jquery_005.js
+ERR: 非法操作:jquery_005.js
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/jquery-ui-1.js
+ERR: 非法操作:jquery-ui-1.js
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/jquery-migrate-1.js
+ERR: 非法操作:jquery-migrate-1.js
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/jquery.js
+ERR: 非法操作:jquery.js
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/jquery.css
+ERR: 非法操作:jquery.css
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/jquery_006.js
+ERR: 非法操作:jquery_006.js
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/bootstrap.css
+ERR: 非法操作:bootstrap.css
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/bootstrap.js
+ERR: 非法操作:bootstrap.js
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.js
+ERR: 非法操作:WdatePicker.js
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/jquery_002.js
+ERR: 非法操作:jquery_002.js
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/mustache.js
+ERR: 非法操作:mustache.js
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/lenjoy.css
+ERR: 非法操作:lenjoy.css
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/lenjoy.js
+ERR: 非法操作:lenjoy.js
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/funnel.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/line.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/pie.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:45:25+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/bar.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:45:45+08:00 ] ::1 /yjc/lby/question/list.do
+ERR: 无法加载控制器:Question
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/jquery-1.js
+ERR: 非法操作:jquery-1.js
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/jquery-migrate-1.js
+ERR: 非法操作:jquery-migrate-1.js
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/jquery.js
+ERR: 非法操作:jquery.js
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/jquery-ui-1.js
+ERR: 非法操作:jquery-ui-1.js
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/jquery_005.js
+ERR: 非法操作:jquery_005.js
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/jquery.css
+ERR: 非法操作:jquery.css
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/jquery_006.js
+ERR: 非法操作:jquery_006.js
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/bootstrap.css
+ERR: 非法操作:bootstrap.css
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/bootstrap.js
+ERR: 非法操作:bootstrap.js
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.js
+ERR: 非法操作:WdatePicker.js
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/jquery_002.js
+ERR: 非法操作:jquery_002.js
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/mustache.js
+ERR: 非法操作:mustache.js
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/lenjoy.css
+ERR: 非法操作:lenjoy.css
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/lenjoy.js
+ERR: 非法操作:lenjoy.js
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/pie.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/bar.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/funnel.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/line.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/jquery-ui-1.js
+ERR: 非法操作:jquery-ui-1.js
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/jquery-migrate-1.js
+ERR: 非法操作:jquery-migrate-1.js
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/jquery.css
+ERR: 非法操作:jquery.css
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/jquery.js
+ERR: 非法操作:jquery.js
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/jquery_006.js
+ERR: 非法操作:jquery_006.js
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/bootstrap.js
+ERR: 非法操作:bootstrap.js
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/bootstrap.css
+ERR: 非法操作:bootstrap.css
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.js
+ERR: 非法操作:WdatePicker.js
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/jquery_002.js
+ERR: 非法操作:jquery_002.js
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/mustache.js
+ERR: 非法操作:mustache.js
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/lenjoy.css
+ERR: 非法操作:lenjoy.css
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/lenjoy.js
+ERR: 非法操作:lenjoy.js
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/bar.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/pie.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/line.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:45:47+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/funnel.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:45:49+08:00 ] ::1 /yjc/lby/probleminformation/list.do
+ERR: 无法加载控制器:Probleminformation
+
+[ 2017-06-20T14:45:59+08:00 ] ::1 /yjc/lby/index.php/Lead/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T14:45:59+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T14:45:59+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T14:45:59+08:00 ] ::1 /yjc/lby/index.php/Lead/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T14:45:59+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T14:47:59+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/funnel.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:47:59+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/line.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:47:59+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:47:59+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/pie.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:47:59+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T14:47:59+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/bar.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:48:00+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T14:48:00+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T14:48:00+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/funnel.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:48:00+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/bar.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:48:00+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/line.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:48:00+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/pie.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T14:48:00+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:01:03+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/line.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:01:03+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/funnel.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:01:03+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/bar.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:01:03+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:01:03+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/sale_data/pie.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:01:03+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:01:03+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:01:03+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:01:03+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/line.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:01:03+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/bar.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:01:03+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/funnel.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:01:03+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/sale_data/pie.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:01:03+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:01:06+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:01:06+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/sale_data/pie.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:01:06+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/funnel.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:01:06+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/bar.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:01:06+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:01:06+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/line.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:01:07+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:01:07+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:01:07+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/line.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:01:07+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/bar.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:01:07+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/sale_data/pie.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:01:07+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:01:07+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/funnel.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:03:54+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:03:54+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/funnel.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:03:54+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/line.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:03:54+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:03:54+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/sale_data/pie.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:03:54+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/bar.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:03:54+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:03:54+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:03:54+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/funnel.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:03:54+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/bar.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:03:54+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/sale_data/pie.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:03:54+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/line.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:03:54+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:03:56+08:00 ] ::1 /yjc/lby/probleminformation/list.do
+ERR: 无法加载控制器:Probleminformation
+
+[ 2017-06-20T15:04:46+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:04:46+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/funnel.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:04:46+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/line.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:04:46+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:04:46+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/sale_data/pie.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:04:46+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/bar.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:04:46+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:04:46+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:04:46+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/sale_data/pie.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:04:47+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/bar.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:04:47+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/line.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:04:47+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/funnel.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:04:47+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:11:05+08:00 ] ::1 /yjc/lby/question/list.do
+ERR: 无法加载控制器:Question
+
+[ 2017-06-20T15:11:07+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/line.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:11:07+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/funnel.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:11:07+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/bar.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:11:07+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:11:07+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/sale_data/pie.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:11:07+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:11:07+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:11:07+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:11:07+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/bar.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:11:07+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/funnel.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:11:07+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/sale_data/pie.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:11:07+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/line.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:11:07+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:11:07+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/sale_data/pie.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:11:07+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:11:07+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/funnel.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:11:07+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/line.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:11:07+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:11:07+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/bar.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:11:08+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:11:08+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:11:08+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/bar.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:11:08+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/funnel.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:11:08+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/sale_data/pie.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:11:08+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/line.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:11:08+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:27:21+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/lang/zh-cn.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:27:21+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/calendar.js?
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:27:21+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/twoer/datepicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:27:21+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/twoer/datepicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:27:22+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/calendar.js?
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:39:26+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:39:26+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:39:26+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/funnel.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:39:26+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/sale_data/pie.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:39:26+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/bar.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:39:26+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/line.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:39:27+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:39:27+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:39:27+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/bar.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:39:27+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/sale_data/pie.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:39:27+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/funnel.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:39:27+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/line.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:39:27+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:44:25+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:44:25+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/funnel.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:44:25+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:44:25+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/line.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:44:25+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/bar.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:44:25+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/sale_data/pie.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:44:25+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:44:25+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:44:25+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/bar.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:44:25+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/sale_data/pie.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:44:25+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/funnel.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:44:25+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:44:25+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/line.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:49:47+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:49:47+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/sale_data/pie.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:49:47+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/line.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:49:47+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:49:47+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/funnel.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:49:47+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/bar.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:49:47+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:49:47+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:49:47+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/bar.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:49:47+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:49:47+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/funnel.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:49:47+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/line.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:49:47+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/sale_data/pie.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:51:14+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:51:14+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/sale_data/pie.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:51:14+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/funnel.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:51:14+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/line.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:51:14+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:51:14+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/bar.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:51:14+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:51:14+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:51:14+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/line.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:51:14+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/sale_data/pie.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:51:14+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:51:14+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/funnel.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:51:14+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/bar.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:51:15+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/bar.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:51:15+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/funnel.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:51:15+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:51:15+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:51:15+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/line.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:51:15+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/sale_data/pie.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:51:15+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:51:15+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:51:16+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/bar.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:51:16+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/line.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:51:16+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/sale_data/pie.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:51:16+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:51:16+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/funnel.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:52:27+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:52:27+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:52:28+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:52:28+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:52:28+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:53:32+08:00 ] ::1 /yjc/lby/probleminformation/list.do
+ERR: 无法加载控制器:Probleminformation
+
+[ 2017-06-20T15:53:33+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:53:33+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:53:33+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:53:33+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:53:34+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:53:34+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:53:34+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:53:34+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:53:34+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:53:35+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:53:42+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:53:42+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:53:43+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:53:43+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:53:43+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:55:33+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:55:33+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:55:34+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:55:34+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:55:34+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:58:18+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:58:18+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:58:18+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:58:18+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:58:19+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:58:23+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:58:23+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:58:23+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:58:23+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:58:24+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:58:27+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:58:27+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T15:58:28+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T15:58:28+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T15:58:28+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T16:04:04+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T16:04:04+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T16:04:04+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T16:04:04+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T16:04:05+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T16:55:43+08:00 ] ::1 /yjc/lby/question/list.do
+ERR: 无法加载控制器:Question
+
+[ 2017-06-20T16:55:44+08:00 ] ::1 /yjc/lby/probleminformation/list.do
+ERR: 无法加载控制器:Probleminformation
+
+[ 2017-06-20T16:55:45+08:00 ] ::1 /yjc/lby/probleminformation/list.do
+ERR: 无法加载控制器:Probleminformation
+
+[ 2017-06-20T16:56:55+08:00 ] ::1 /yjc/lby/probleminformation/list.do
+ERR: 无法加载控制器:Probleminformation
+
+[ 2017-06-20T16:56:56+08:00 ] ::1 /yjc/lby/probleminformation/list.do
+ERR: 无法加载控制器:Probleminformation
+
+[ 2017-06-20T16:56:57+08:00 ] ::1 /yjc/lby/probleminformation/list.do
+ERR: 无法加载控制器:Probleminformation
+
+[ 2017-06-20T16:56:57+08:00 ] ::1 /yjc/lby/probleminformation/list.do
+ERR: 无法加载控制器:Probleminformation
+
+[ 2017-06-20T16:56:58+08:00 ] ::1 /yjc/lby/question/list.do
+ERR: 无法加载控制器:Question
+
+[ 2017-06-20T16:57:00+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T16:57:00+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T16:57:00+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T16:57:00+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T16:57:01+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T16:57:34+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T16:57:34+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T16:57:34+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T16:57:34+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T16:57:34+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T16:57:40+08:00 ] ::1 /yjc/lby/question/list.do
+ERR: 无法加载控制器:Question
+
+[ 2017-06-20T16:57:42+08:00 ] ::1 /yjc/lby/question/list.do
+ERR: 无法加载控制器:Question
+
+[ 2017-06-20T17:14:27+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T17:14:27+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T17:14:27+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T17:14:27+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T17:14:27+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T17:41:55+08:00 ] ::1 /yjc/lby/question/list.do
+ERR: 无法加载控制器:Question
+
+[ 2017-06-20T17:41:56+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T17:41:56+08:00 ] ::1 /yjc/lby/index.php/Info/style.css
+ERR: 非法操作:style.css
+
+[ 2017-06-20T17:41:56+08:00 ] ::1 /yjc/lby/index.php/amcharts/amcharts.js
+ERR: 无法加载控制器:Amcharts
+
+[ 2017-06-20T17:41:56+08:00 ] ::1 /yjc/lby/index.php/amcharts/pie.js
+ERR: 无法加载控制器:Amcharts
+
+[ 2017-06-20T17:41:56+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+
+[ 2017-06-20T17:41:56+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-06-20T17:41:56+08:00 ] ::1 /yjc/lby/index.php/Info/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-06-20T17:41:56+08:00 ] ::1 /yjc/lby/index.php/Info/style.css
+ERR: 非法操作:style.css
+
+[ 2017-06-20T17:41:56+08:00 ] ::1 /yjc/lby/index.php/amcharts/amcharts.js
+ERR: 无法加载控制器:Amcharts
+
+[ 2017-06-20T17:41:57+08:00 ] ::1 /yjc/lby/index.php/amcharts/pie.js
+ERR: 无法加载控制器:Amcharts
+
+[ 2017-06-20T17:41:57+08:00 ] ::1 /yjc/lby/index.php/Info/sale_data/echarts.js
+ERR: 非法操作:sale_data
+

@@ -1,0 +1,225 @@
+*{ font-family:"微软雅黑"; margin:0; padding:0;}
+h1,h2,h3,h4{ margin:0; font-weight:normal;}
+ul{ margin:0; padding:0;}
+li{ list-style:none;}
+a{ text-decoration:none;color:#000;}
+.clearfix{ clear:both;}
+/*导航*/
+.nav{ width:1180px; margin:0 auto;}
+.logo{ float:left; margin-top:14px;}
+.nav_center{ float:left; margin-left:300px;}
+.nav_center li{ float:left; margin-right:45px;}
+.nav_center a{ line-height:60px; font-size:14px; color:#000;}
+.nav_right{ float:right;}
+.nav_right li{ float:left;margin-left:45px;}
+.nav_right a{ line-height:60px; font-size:14px; color:#000;}
+.nav li a:hover{ color:#09F;}
+body{
+	background:#f0f0f0;
+}
+/*企业注册*/
+.nav-01{
+	border-bottom:1px solid #d9d9d9;
+}
+
+.zhuce{
+	width:1180px;
+	margin:0 auto;
+}
+.zhuce h3{
+	margin:0 auto;
+	text-align: center;
+	margin-top:20px;
+	margin-bottom:10px;
+	font-size:18px;
+	font-weight:bold;
+}
+.zhuce .kehuzhuce{
+	background:url(../images/bg_10.png) repeat-x 0 100%;
+}
+.zhuce td span{
+	color:red;
+}
+.zhuce td{
+	font-size:14px;
+	color:#7f7f7f;
+	line-height:32px;
+	padding-bottom:20px;
+}
+.zhuce td input{
+	margin-left:10px;
+	width:260px;
+	height:32px;
+}
+.zhuce .jieshi{
+	display:inline-block;
+	line-height:16px;
+	color:#b3b3b3;
+	margin-left:10px;
+	margin-top:0;
+	width:300px;
+	font-size:12px;
+}
+
+}
+.zhuce .jieshi_01{
+	padding-top:0px;
+}
+.zhuce .input-01{
+	width:400px;
+}
+.zhuce select{
+	margin-left:10px;
+}
+.zhuceren .huoqu{
+	background-color:#2a7bbf;
+	color:#f2f2f2;
+	line-height:20px;
+	font-size:14px;
+	border-radius:10px;
+	float:right;
+	width:100px;
+	border:none;
+
+}
+#shangchuan:hover{
+	background:#00C1DE;
+	cursor:pointer;
+}
+#uploadImg{ 
+	font-size:22px;
+	overflow:hidden;
+	position:absolute;
+}
+#file{ 
+	position:absolute; 
+	z-index:100;
+	margin-left:-180px;
+	font-size:60px;
+	opacity:0;
+	filter:alpha(opacity=0); 
+	margin-top:-5px;
+}
+.fanhui input{
+	width:120px;
+	background:#2a7bbf;
+	font-size:14px;
+	border-radius: 5px;
+	color:#f0f0f0;
+	border:none;
+	line-height:30px;
+}
+.fanhui input:hover{
+	text-decoration:none;
+	background:#448ecd;
+}
+/*登录*/
+.denglu{
+	width:1180px;
+	margin:0 auto;
+}
+.denglu .left_01{
+	float:left;
+}
+.denglu .banner{
+	width:400px;
+	height:300px;
+	border-radius:20px;
+	background:#d5d9dc;
+	margin-left:120px;
+	margin-top:120px;
+}
+.denglu .yuandian{
+	margin-left:310px;	
+}
+.denglu .yuandian li{
+	width:12px;
+	height:12px;
+	border-radius:6px;
+	border:1px solid #ccc;
+	float:left;
+	margin:30px 0 0 10px; 
+}
+.denglu .yuandian .yanse{
+	background:#2a7bbf;
+	border:none;
+	width:14px;
+	height:14px;
+	border-radius:7px;
+}
+.denglu table{
+	border-top:1px solid #D9D9D9;
+	border-bottom:1px solid #D9D9D9;
+	float:right;
+	margin-top:80px;
+	margin-right:160px;
+	padding-bottom:50px;
+}
+.denglu table td{
+	border:none;
+	padding-bottom:10px;
+	font-size:12px;
+	padding-left:20px;
+	padding-right:20px;
+}
+.denglu table .text_w{
+	font-weight: bold;
+}
+.denglu table .td_01{
+	padding-top:50px;
+}
+.denglu table .weight_input{
+	width:100%;
+	line-height:28px;
+}
+.denglu table .height_input{
+	font-size:18px;
+	padding-top:8px;
+	padding-bottom:8px;
+	color:#f0f0f0;
+	border:none;
+	background:#2a7bbf;
+	border-radius:5px;
+}
+.denglu table .height_input:hover{
+	cursor:pointer;
+	background:#448ecd;
+}
+.denglu a{
+	color:#2a7bbf;
+}
+.denglu table .checkbox_01{
+	vertical-align: middle;
+}
+.denglu table span{
+	vertical-align: middle;
+}
+/*注册成功*/
+.zhucechenggong ul{
+	margin:50px auto;
+	width:1180px;
+	padding:50px 0;
+}
+.zhucechenggong li{
+	text-align: center;
+	font-size:24px;
+	color:#333;
+	line-height:50px;
+}
+.zhucechenggong li:nth-of-type(2){
+	color:#dc6403;
+}
+.zhucechenggong li:nth-of-type(4){
+	color:#f0f0f0;
+	background:#3d8acb;
+	width:40%;
+	margin: 0 auto;
+}
+.zhucechenggong li a{
+	color:#333;
+}
+.zhucechenggong li a:hover{
+	color:#3d8acb;
+}
+
+

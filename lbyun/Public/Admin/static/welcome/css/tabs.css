@@ -1,0 +1,63 @@
+/* Default tab style */
+*{ margin:0 0; padding:
+0 0;}
+.tabs {
+	width:700px;;
+}
+
+/* Nav */
+.tabs nav {
+	text-align:left;
+}
+
+.tabs nav ul {
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: flex;
+	margin:0 0;
+	padding:0 0;
+	max-width:700px;
+	text-align:left;
+
+}
+
+.tabs nav ul li {
+	width:30px;
+	z-index: 1;
+	display: block;
+	text-align: center;
+}
+
+.tabs nav a {
+	display: block;
+	white-space: nowrap;
+	line-height:30px;
+}
+.tabs nav p{ font-size:14px;}
+.tabs nav a span {
+	vertical-align: middle;
+	font-size:14px;
+}
+
+.tabs nav li.tab-current a {
+	color: #74777b;
+}
+
+.tabs nav a:focus {
+	outline: none;
+}
+
+
+@media screen and (max-width: 58em) {
+	.tabs nav a.icon span {
+		display: none;
+	}
+	.tabs nav a:before {
+		margin-right: 0;
+	}
+}
+.tabs nav dl{ text-align:center; width:700px;}
+.tabs nav dd{ float:left; line-height:30px;width:120px; margin-right:20px;}
+.tabs nav dd a{ display:block; text-decoration:underline; color:#F93; text-align:center;}

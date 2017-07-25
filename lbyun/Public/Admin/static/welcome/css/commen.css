@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{ font-family:"微软雅黑"; margin:0; padding:0;}
+h1,h2,h3,h4{ margin:0; font-weight:normal;}
+ul{ margin:0; padding:0;}
+li{ list-style:none;}
+a{ text-decoration:none;color:#000;}
+.clearfix{ clear:both;}
+/*导航*/
+.nav{ width:1180px; margin:0 auto;}
+.logo{ float:left; margin-top:22px;}
+.nav_center{ float:left; padding-left:150px;}
+.nav_center li{ float:left; margin-right:45px;}
+.nav_center a{ line-height:80px; font-size:14px; color:#000;}
+.nav_right{ float:right;}
+.nav_right li{ float:left;margin-left:45px;}
+.nav_right a{ line-height:80px; font-size:14px; color:#000;}
+.nav li a:hover{ color:#09F;}
+.nav p{float:left;margin:22px 0 0 10px;padding:0 2px; background:#34b74d;color:#fff;font-size:8px;font-family: "宋体"; opacity:0.6;}
+/*banner*/
+.banner_box{ width:100%; position:relative;overflow:hidden;}
+.banner{ width:5700px; position:relative; left:50%; margin-left:-950px;}
+.banner_box img{ float:left; }
+.banner_box .yuandian{display:block; position:absolute; left:50%; margin-left:-30px; bottom:10px;}
+.yuandian span{ background-color:#C2C2C2; width:10px; height:10px; border-radius:50%; margin:5px; float:left;}
+.yuandian .current{ background-color:#418dcd;}
+.fconee{ width:1900px;position:relative;left: 50%;margin-left:-950px;}
+/*footer*/
+.footer{ width:100%;background-color:#373d41;}
+.footer_t{ width:1180px;margin:0 auto; border-bottom:#4c5255 1px solid; box-sizing:border-box;}
+.footer_t ul{ float:left; margin:30px 0 30px 40px;}
+.footer_t li{ float:left;}
+.footer_t p{ display:block; color:#fff; font-size:16px; line-height:52px; margin-left:10px;} 
+.footer_c{ width:1180px; margin:0 auto; border-bottom:#4c5255 1px solid; box-sizing:border-box;}
+.footer_c ul{ float:left; margin:30px 0 30px 40px;}
+.footer_c li{ float:left;}
+.footer_c p{ display:block; color:#fff; font-size:16px; margin-left:10px;}
+.footer_c a{display:block; color:#fff; font-size:16px; line-height:40px;}
+.link{ width:1180px; margin:0 auto; border-bottom:#4c5255 1px solid; box-sizing:border-box;}
+.link p{ color:#fff; font-size:16px; line-height:60px;}
+.footer_b{ width:1180px; margin:0 auto;}
+.footer_b ul{ width:495px; margin:0 auto; margin-top:30px;}
+.footer_b li{ float:left; margin-left:10px; margin-right:10px;}
+.footer_b span{ display:block;color:#fff; font-size:18px; line-height:100px; margin:0 auto;text-align: center;}
+.footer_b span a{color:#fff;}
+.footer_b span a:hover{color:#488ecd;}
+
+/**/
+@media screen and (max-width: 1180px) { /*当屏幕尺寸小于1180px时，应用下面的CSS样式*/
+	.footer{width:1180px;}
+  .footer_t{ width:100%;margin:0;}
+  .footer_c{ width:100%;margin:0;}
+  .footer_b{ width:100%;margin:0;} 
+  .fconee{ width:1180px;height:auto;margin-left:-590px;}
+}
+
+
+
+

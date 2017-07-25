@@ -1,0 +1,426 @@
+[ 2017-05-25T13:50:13+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/index1.html
+ERR: 非法操作:index1
+
+[ 2017-05-25T13:50:20+08:00 ] ::1 /yjc/lby/index.php/Admin/Company/Company_Info_List.html
+ERR: SQLSTATE[HY000] [1049] Unknown database 'lby'
+
+[ 2017-05-25T13:50:31+08:00 ] ::1 /yjc/lby/index.php/Admin/Company/Company_Info_List.html
+ERR: SQLSTATE[HY000] [1049] Unknown database 'lby'
+
+[ 2017-05-25T13:50:31+08:00 ] ::1 /yjc/lby/index.php/Admin/Company/Company_Info_List.html
+ERR: SQLSTATE[HY000] [1049] Unknown database 'lby'
+
+[ 2017-05-25T13:50:32+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/userinfo/goEdit.do
+ERR: 非法操作:userinfo
+
+[ 2017-05-25T13:50:33+08:00 ] ::1 /yjc/lby/index.php/Admin/Company/Company_Info_List.html
+ERR: SQLSTATE[HY000] [1049] Unknown database 'lby'
+
+[ 2017-05-25T13:52:46+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/extendedwarranty/list.do
+ERR: 非法操作:extendedwarranty
+
+[ 2017-05-25T13:52:47+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/extendedwarranty/list.do
+ERR: 非法操作:extendedwarranty
+
+[ 2017-05-25T13:52:48+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/extendedwarranty/list.do
+ERR: 非法操作:extendedwarranty
+
+[ 2017-05-25T13:52:54+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/extendedwarranty/list.do
+ERR: 非法操作:extendedwarranty
+
+[ 2017-05-25T13:52:57+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/extendedwarranty/list.do
+ERR: 非法操作:extendedwarranty
+
+[ 2017-05-25T13:53:15+08:00 ] ::1 /yjc/lby/index.php/Admin/Company/Company_Info_List.html
+ERR: SQLSTATE[HY000] [1049] Unknown database 'lby'
+
+[ 2017-05-25T13:53:16+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/userinfo/goEdit.do
+ERR: 非法操作:userinfo
+
+[ 2017-05-25T13:53:18+08:00 ] ::1 /yjc/lby/index.php/Admin/Company/Company_Info_List.html
+ERR: SQLSTATE[HY000] [1049] Unknown database 'lby'
+
+[ 2017-05-25T13:53:32+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/logout
+ERR: 非法操作:logout
+
+[ 2017-05-25T13:53:35+08:00 ] ::1 /yjc/lby/index.php/Admin/Company/Company_Info_List.html
+ERR: SQLSTATE[HY000] [1049] Unknown database 'lby'
+
+[ 2017-05-25T13:53:41+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/logout
+ERR: 非法操作:logout
+
+[ 2017-05-25T13:53:43+08:00 ] ::1 /yjc/lby/index.php/Admin/Company/Company_Info_List.html
+ERR: SQLSTATE[HY000] [1049] Unknown database 'lby'
+
+[ 2017-05-25T13:54:00+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/logout
+ERR: 非法操作:logout
+
+[ 2017-05-25T14:03:55+08:00 ] ::1 /yjc/lby/index.php/Admin/login/undefined?1495692235104
+ERR: 非法操作:undefined
+
+[ 2017-05-25T14:21:59+08:00 ] ::1 /yjc/lby/index.php/Admin/index/device/list.do
+ERR: 非法操作:device
+
+[ 2017-05-25T14:22:01+08:00 ] ::1 /yjc/lby/index.php/Admin/Company/Company_Info_List.html
+ERR: SQLSTATE[HY000] [1049] Unknown database 'lby'
+
+[ 2017-05-25T14:22:02+08:00 ] ::1 /yjc/lby/index.php/Admin/index/userinfo/goEdit.do
+ERR: 非法操作:userinfo
+
+[ 2017-05-25T14:22:11+08:00 ] ::1 /yjc/lby/index.php/Admin/index/extendedwarranty/list.do
+ERR: 非法操作:extendedwarranty
+
+[ 2017-05-25T14:22:12+08:00 ] ::1 /yjc/lby/index.php/Admin/index/extendedwarranty/list.do
+ERR: 非法操作:extendedwarranty
+
+[ 2017-05-25T14:22:13+08:00 ] ::1 /yjc/lby/index.php/Admin/index/extendedwarranty/list.do
+ERR: 非法操作:extendedwarranty
+
+[ 2017-05-25T14:22:14+08:00 ] ::1 /yjc/lby/index.php/Admin/index/extendedwarranty/list.do
+ERR: 非法操作:extendedwarranty
+
+[ 2017-05-25T14:22:16+08:00 ] ::1 /yjc/lby/index.php/Admin/index/extendedwarranty/list.do
+ERR: 非法操作:extendedwarranty
+
+[ 2017-05-25T14:22:17+08:00 ] ::1 /yjc/lby/index.php/Admin/index/extendedwarranty/list.do
+ERR: 非法操作:extendedwarranty
+
+[ 2017-05-25T14:22:19+08:00 ] ::1 /yjc/lby/index.php/Admin/index/extendedwarranty/list.do
+ERR: 非法操作:extendedwarranty
+
+[ 2017-05-25T14:22:19+08:00 ] ::1 /yjc/lby/index.php/Admin/index/extendedwarranty/list.do
+ERR: 非法操作:extendedwarranty
+
+[ 2017-05-25T14:22:22+08:00 ] ::1 /yjc/lby/index.php/Admin/index/module/list.do
+ERR: 非法操作:module
+
+[ 2017-05-25T14:22:23+08:00 ] ::1 /yjc/lby/index.php/Admin/index/module/list.do
+ERR: 非法操作:module
+
+[ 2017-05-25T14:22:29+08:00 ] ::1 /yjc/lby/index.php/Admin/index/module/list.do
+ERR: 非法操作:module
+
+[ 2017-05-25T14:22:31+08:00 ] ::1 /yjc/lby/index.php/Admin/index/productsshow/list.do
+ERR: 非法操作:productsshow
+
+[ 2017-05-25T14:22:32+08:00 ] ::1 /yjc/lby/index.php/Admin/index/module/list.do
+ERR: 非法操作:module
+
+[ 2017-05-25T14:22:33+08:00 ] ::1 /yjc/lby/index.php/Admin/index/productsshow/list.do
+ERR: 非法操作:productsshow
+
+[ 2017-05-25T14:22:39+08:00 ] ::1 /yjc/lby/index.php/Admin/index/module/list.do
+ERR: 非法操作:module
+
+[ 2017-05-25T14:22:40+08:00 ] ::1 /yjc/lby/index.php/Admin/index/productsshow/list.do
+ERR: 非法操作:productsshow
+
+[ 2017-05-25T14:22:42+08:00 ] ::1 /yjc/lby/index.php/Admin/index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T14:22:44+08:00 ] ::1 /yjc/lby/index.php/Admin/index/proconlist/list.do
+ERR: 非法操作:proconlist
+
+[ 2017-05-25T14:22:46+08:00 ] ::1 /yjc/lby/index.php/Admin/index/warranty_card/list.do
+ERR: 非法操作:warranty_card
+
+[ 2017-05-25T14:23:22+08:00 ] ::1 /yjc/lby/index.php/Admin/index/module/list.do
+ERR: 非法操作:module
+
+[ 2017-05-25T14:23:23+08:00 ] ::1 /yjc/lby/index.php/Admin/index/productsshow/list.do
+ERR: 非法操作:productsshow
+
+[ 2017-05-25T14:23:25+08:00 ] ::1 /yjc/lby/index.php/Admin/index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T14:25:22+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/compar/list.do
+ERR: 非法操作:compar
+
+[ 2017-05-25T14:25:24+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/signup/list.do
+ERR: 非法操作:signup
+
+[ 2017-05-25T14:25:27+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/callcenter/goAdd.do
+ERR: 非法操作:callcenter
+
+[ 2017-05-25T14:25:33+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/extendedwarranty/list.do
+ERR: 非法操作:extendedwarranty
+
+[ 2017-05-25T14:25:45+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/callcenter/goAdd.do
+ERR: 非法操作:callcenter
+
+[ 2017-05-25T14:25:46+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/callcenter/goAdd.do
+ERR: 非法操作:callcenter
+
+[ 2017-05-25T14:25:51+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/callcenter/goAdd.do
+ERR: 非法操作:callcenter
+
+[ 2017-05-25T14:28:29+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/hardwarenews/list.do
+ERR: 非法操作:hardwarenews
+
+[ 2017-05-25T14:28:31+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/advisory/list.do
+ERR: 非法操作:advisory
+
+[ 2017-05-25T14:28:33+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/warranty_card/list.do
+ERR: 非法操作:warranty_card
+
+[ 2017-05-25T14:28:37+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T14:28:43+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/hardwarenews/list.do
+ERR: 非法操作:hardwarenews
+
+[ 2017-05-25T14:39:16+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T14:39:17+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T14:39:18+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T14:39:22+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T14:39:22+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T14:41:02+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T14:41:03+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T14:41:11+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T14:41:11+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T14:41:11+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T14:42:22+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/warranty_card/list.do
+ERR: 非法操作:warranty_card
+
+[ 2017-05-25T14:43:01+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T14:44:23+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/warranty_card/list.do
+ERR: 非法操作:warranty_card
+
+[ 2017-05-25T14:44:28+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/question/list.do
+ERR: 非法操作:question
+
+[ 2017-05-25T14:53:58+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/probleminformation/list.do
+ERR: 非法操作:probleminformation
+
+[ 2017-05-25T14:53:59+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/probleminformation/list.do
+ERR: 非法操作:probleminformation
+
+[ 2017-05-25T14:54:00+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/probleminformation/list.do
+ERR: 非法操作:probleminformation
+
+[ 2017-05-25T14:54:01+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/probleminformation/list.do
+ERR: 非法操作:probleminformation
+
+[ 2017-05-25T14:54:01+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/probleminformation/list.do
+ERR: 非法操作:probleminformation
+
+[ 2017-05-25T14:54:01+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/question/list.do
+ERR: 非法操作:question
+
+[ 2017-05-25T14:54:06+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/question/list.do
+ERR: 非法操作:question
+
+[ 2017-05-25T14:54:07+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/probleminformation/list.do
+ERR: 非法操作:probleminformation
+
+[ 2017-05-25T14:54:07+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/probleminformation/list.do
+ERR: 非法操作:probleminformation
+
+[ 2017-05-25T14:54:08+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/probleminformation/list.do
+ERR: 非法操作:probleminformation
+
+[ 2017-05-25T14:54:08+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/probleminformation/list.do
+ERR: 非法操作:probleminformation
+
+[ 2017-05-25T14:54:16+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/module/list.do
+ERR: 非法操作:module
+
+[ 2017-05-25T14:54:17+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/productsshow/list.do
+ERR: 非法操作:productsshow
+
+[ 2017-05-25T14:56:17+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/module/list.do
+ERR: 非法操作:module
+
+[ 2017-05-25T14:56:18+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/module/list.do
+ERR: 非法操作:module
+
+[ 2017-05-25T14:56:19+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/productsshow/list.do
+ERR: 非法操作:productsshow
+
+[ 2017-05-25T14:57:58+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T14:57:59+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T14:57:59+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T15:01:04+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T15:01:04+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T15:01:08+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T15:01:11+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T15:01:12+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T15:01:13+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T15:01:14+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T15:01:15+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T15:01:16+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T15:01:17+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T15:01:18+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T15:01:42+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/proconlist/list.do
+ERR: 非法操作:proconlist
+
+[ 2017-05-25T15:11:24+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T15:11:24+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T15:26:57+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/probleminformation/list.do
+ERR: 非法操作:probleminformation
+
+[ 2017-05-25T15:27:01+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/question/list.do
+ERR: 非法操作:question
+
+[ 2017-05-25T15:27:02+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/probleminformation/list.do
+ERR: 非法操作:probleminformation
+
+[ 2017-05-25T15:27:04+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/probleminformation/list.do
+ERR: 非法操作:probleminformation
+
+[ 2017-05-25T15:27:05+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/probleminformation/list.do
+ERR: 非法操作:probleminformation
+
+[ 2017-05-25T15:27:07+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/probleminformation/list.do
+ERR: 非法操作:probleminformation
+
+[ 2017-05-25T15:27:11+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/question/list.do
+ERR: 非法操作:question
+
+[ 2017-05-25T15:27:14+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/question/list.do
+ERR: 非法操作:question
+
+[ 2017-05-25T15:27:14+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/probleminformation/list.do
+ERR: 非法操作:probleminformation
+
+[ 2017-05-25T15:27:15+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/probleminformation/list.do
+ERR: 非法操作:probleminformation
+
+[ 2017-05-25T15:27:17+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T15:27:18+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T15:27:20+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T15:27:21+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T15:27:21+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T15:27:22+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T15:27:22+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T15:27:23+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T15:27:23+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T15:27:24+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T15:27:24+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T15:27:29+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/warranty_card/list.do
+ERR: 非法操作:warranty_card
+
+[ 2017-05-25T15:34:41+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/logout
+ERR: 非法操作:logout
+
+[ 2017-05-25T15:46:59+08:00 ] ::1 /yjc/lby/index.php/Admin/index/admin
+ERR: 非法操作:admin
+
+[ 2017-05-25T15:47:24+08:00 ] ::1 /yjc/lby/index.php/Admin/index/question/list.do
+ERR: 非法操作:question
+
+[ 2017-05-25T15:47:25+08:00 ] ::1 /yjc/lby/index.php/Admin/index/probleminformation/list.do
+ERR: 非法操作:probleminformation
+
+[ 2017-05-25T15:47:26+08:00 ] ::1 /yjc/lby/index.php/Admin/index/question/list.do
+ERR: 非法操作:question
+
+[ 2017-05-25T15:47:26+08:00 ] ::1 /yjc/lby/index.php/Admin/index/probleminformation/list.do
+ERR: 非法操作:probleminformation
+
+[ 2017-05-25T15:47:27+08:00 ] ::1 /yjc/lby/index.php/Admin/index/question/list.do
+ERR: 非法操作:question
+
+[ 2017-05-25T15:51:27+08:00 ] ::1 /yjc/lby/index.php/Admin/index/question/list.do
+ERR: 非法操作:question
+
+[ 2017-05-25T15:51:27+08:00 ] ::1 /yjc/lby/index.php/Admin/index/question/list.do
+ERR: 非法操作:question
+
+[ 2017-05-25T16:00:50+08:00 ] ::1 /yjc/lby/index.php/Admin/index/probleminformation/list.do
+ERR: 非法操作:probleminformation
+
+[ 2017-05-25T16:08:10+08:00 ] ::1 /yjc/lby/index.php/Admin/index/probleminformation/list.do
+ERR: 非法操作:probleminformation
+
+[ 2017-05-25T16:08:11+08:00 ] ::1 /yjc/lby/index.php/Admin/index/probleminformation/list.do
+ERR: 非法操作:probleminformation
+
+[ 2017-05-25T16:08:11+08:00 ] ::1 /yjc/lby/index.php/Admin/index/probleminformation/list.do
+ERR: 非法操作:probleminformation
+
+[ 2017-05-25T16:19:05+08:00 ] ::1 /yjc/lby/index.php/Admin/index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-05-25T16:24:12+08:00 ] ::1 /yjc/lby/index.php/Admin/index/question/list.do
+ERR: 非法操作:question
+
+[ 2017-05-25T17:53:46+08:00 ] ::1 /yjc/lby/index.php/Admin/index/user
+ERR: SQLSTATE[HY000] [1130] Host '192.168.10.227' is not allowed to connect to this MySQL server
+

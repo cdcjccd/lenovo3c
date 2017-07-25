@@ -1,0 +1,241 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html style="overflow-x:hidden;overflow-y:auto;"><head>
+		<title>
+		区域管理 - Powered By Enjoy3C</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Cache-Control" content="no-store"><meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<meta name="author" content="http://ljz0721cx.iteye.com/">
+<meta http-equiv="X-UA-Compatible" content="IE=7,IE=9,IE=10">
+<script src="/lenovo3C/Public/Admin/static/userlist/jquery-1.js" type="text/javascript"></script>
+<script src="/lenovo3C/Public/Admin/static/userlist/jquery.js" type="text/javascript"></script>
+<script src="/lenovo3C/Public/Admin/static/userlist/jquery-ui-1.js" type="text/javascript"></script>
+<script src="/lenovo3C/Public/Admin/static/userlist/jquery-migrate-1.js" type="text/javascript"></script>
+<link href="/lenovo3C/Public/Admin/static/userlist/jquery.css" type="text/css" rel="stylesheet">
+<script src="/lenovo3C/Public/Admin/static/userlist/jquery_002.js" type="text/javascript"></script>
+<script src="/lenovo3C/Public/Admin/static/userlist/jquery_004.js" type="text/javascript"></script>
+<link href="/lenovo3C/Public/Admin/static/userlist/bootstrap.css" type="text/css" rel="stylesheet">
+<script src="/lenovo3C/Public/Admin/static/userlist/bootstrap.js" type="text/javascript"></script>
+<!--&lt;!&ndash;[if lte IE 6]><link href="/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css" type="text/css" rel="stylesheet" />-->
+<!--<script src="/lenovo3C/Public/Admin/static/userlist/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js" type="text/javascript"></script>-->
+<!--<script src="/lenovo3C/Public/Admin/static/userlist/WdatePicker.js" type="text/javascript"></script><link href="WdatePicker.css" rel="stylesheet" type="text/css">-->
+<script src="/lenovo3C/Public/Admin/static/userlist/jquery_003.js"></script>
+<script src="/lenovo3C/Public/Admin/static/userlist/mustache.js" type="text/javascript"></script>
+<link href="/lenovo3C/Public/Admin/static/userlist/lenjoy.css" type="text/css" rel="stylesheet">
+<script src="/lenovo3C/Public/Admin/static/userlist/lenjoy.js" type="text/javascript"></script>
+
+
+		<!--  需要添加百度统计分析-->
+
+
+	<meta name="decorator" content="default">
+	<link href="/lenovo3C/Public/Admin/static/userlist/a_data/treeTable.css" rel="stylesheet" type="text/css">
+<script src="/lenovo3C/Public/Admin/static/userlist/a_data/jquery.js" type="text/javascript"></script>
+
+	<style>
+		a:hover{
+			text-decoration: none;
+		}
+	</style>
+	</head>
+	<body>
+
+	<ul class="nav nav-tabs">
+		<li class="active"><a href="#">区域列表</a></li>
+
+	</ul>
+
+<script type="text/javascript">top.$.jBox.closeTip();</script>
+
+
+
+	<table id="treeTable" class="table table-striped table-bordered table-condensed tree_table">
+
+
+
+
+		<tbody><tr><th>区域名称</th><th>区域编码</th><th>区域类型</th><th>备注</th></tr>
+
+
+			<!--<tr id="3" pid="0" class="0" haschild="true" previd="" depth="1">-->
+				<!--<td><span class="prev_sp"></span><span arrow="true" class="default_active_node default_shut"></span>-->
+					<!--<a href="?id=3">-->
+						<!--北京市-->
+					<!--</a>-->
+				<!--</td>-->
+				<!--<td>11</td>-->
+				<!--<td>省份、直辖市</td>-->
+				<!--<td></td>-->
+
+			<!--</tr>-->
+
+		<!--<tr id="3" pid="0" class="0" haschild="true" previd="" depth="1">-->
+			<!--<td><span class="prev_sp"></span><span arrow="true" class="default_active_node default_shut"></span>-->
+				<!--<a href="?id=3">-->
+					<!--北京市-->
+				<!--</a>-->
+			<!--</td>-->
+			<!--<td>11</td>-->
+			<!--<td>省份、直辖市</td>-->
+			<!--<td></td>-->
+
+		<!--</tr>-->
+
+			<!--<tr id="36" pid="3" class="3" isfirstone="true" depth="2" style="">-->
+				<!--<td><span class="prev_sp"><span class="default_node default_vertline"></span></span><span arrow="true" class="default_node default_leaf"></span>-->
+					<!--<a href="#">海淀区</a>-->
+				<!--</td>-->
+				<!--<td>1101</td>-->
+				<!--<td>地市</td>-->
+				<!--<td></td>-->
+			<!--</tr>-->
+
+
+		<?php if(is_array($data)): foreach($data as $key=>$v): ?><tr id="<?php echo ($v['id']); ?>" pid="<?php echo ($v['parent_id']); ?>" class="<?php echo ($v['parent_id']); ?>" previd="" depth="<?php echo ($v['type']); ?>" style="">
+				<td ><span class="prev_sp"><span class="default_node default_vertline"></span></span><span arrow="true" class="default_node default_leaf">
+
+				</span><a href="<?php echo U('Admin/Area/areaView');?>?id=<?php echo ($v['id']); ?>"><?php $str = "&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp"; if(strlen($v['parent_ids']) != 4){echo $str;} echo ($v['name']); ?></a></td>
+				<td><?php echo ($v['code']); ?></td>
+				<td><?php if($v['type'] == 1){echo '国家';}elseif($v['type'] == 2){echo '省份、直辖市';}elseif($v['type'] == 3){echo '地市';}elseif($v['type'] == 4){echo '县市';}?></td>
+				<td></td>
+
+			</tr><?php endforeach; endif; ?>
+
+		<script>
+
+		</script>
+		<!--
+			<tr id="210" pid="3" class="3" previd="124" depth="2" style="display: none;">
+				<td><span class="prev_sp"><span class="default_node default_vertline"></span></span><span arrow="true" class="default_node default_leaf"></span><a href="?id=210">崇文区</a></td>
+				<td>1103</td>
+				<td>地市</td>
+				<td></td>
+
+			</tr>
+
+			<tr id="288" pid="3" class="3" previd="210" depth="2" style="display: none;">
+				<td><span class="prev_sp"><span class="default_node default_vertline"></span></span><span arrow="true" class="default_node default_leaf"></span><a href="?id=288">宣武区</a></td>
+				<td>1104</td>
+				<td>地市</td>
+				<td></td>
+
+			</tr>
+
+			<tr id="358" pid="3" class="3" previd="288" depth="2" style="display: none;">
+				<td><span class="prev_sp"><span class="default_node default_vertline"></span></span><span arrow="true" class="default_node default_leaf"></span><a href="?id=358">朝阳区</a></td>
+				<td>1105</td>
+				<td>地市</td>
+				<td></td>
+
+			</tr>
+
+			<tr id="420" pid="3" class="3" previd="358" depth="2" style="display: none;">
+				<td><span class="prev_sp"><span class="default_node default_vertline"></span></span><span arrow="true" class="default_node default_leaf"></span><a href="?id=420">丰台区</a></td>
+				<td>1106</td>
+				<td>地市</td>
+				<td></td>
+
+			</tr>
+
+			<tr id="37" pid="3" class="3" previd="420" depth="2" style="display: none;">
+				<td><span class="prev_sp"><span class="default_node default_vertline"></span></span><span arrow="true" class="default_node default_leaf"></span><a href="?id=37">石景山区</a></td>
+				<td>1107</td>
+				<td>地市</td>
+				<td></td>
+
+			</tr>
+
+			<tr id="125" pid="3" class="3" previd="37" depth="2" style="display: none;">
+				<td><span class="prev_sp"><span class="default_node default_vertline"></span></span><span arrow="true" class="default_node default_leaf"></span><a href="?id=125">海淀区</a></td>
+				<td>1108</td>
+				<td>地市</td>
+				<td></td>
+
+			</tr>
+
+			<tr id="211" pid="3" class="3" previd="125" depth="2" style="display: none;">
+				<td><span class="prev_sp"><span class="default_node default_vertline"></span></span><span arrow="true" class="default_node default_leaf"></span><a href="?id=211">门头沟区</a></td>
+				<td>1109</td>
+				<td>地市</td>
+				<td></td>
+
+			</tr>
+
+			<tr id="289" pid="3" class="3" previd="211" depth="2" style="display: none;">
+				<td><span class="prev_sp"><span class="default_node default_vertline"></span></span><span arrow="true" class="default_node default_leaf"></span><a href="?id=289">房山区</a></td>
+				<td>1111</td>
+				<td>地市</td>
+				<td></td>
+
+			</tr>
+
+			<tr id="359" pid="3" class="3" previd="289" depth="2" style="display: none;">
+				<td><span class="prev_sp"><span class="default_node default_vertline"></span></span><span arrow="true" class="default_node default_leaf"></span><a href="?id=359">通州区</a></td>
+				<td>1112</td>
+				<td>地市</td>
+				<td></td>
+
+			</tr>
+
+			<tr id="421" pid="3" class="3" previd="359" depth="2" style="display: none;">
+				<td><span class="prev_sp"><span class="default_node default_vertline"></span></span><span arrow="true" class="default_node default_leaf"></span><a href="?id=421">顺义区</a></td>
+				<td>1113</td>
+				<td>地市</td>
+				<td></td>
+
+			</tr>
+
+			<tr id="38" pid="3" class="3" previd="421" depth="2" style="display: none;">
+				<td><span class="prev_sp"><span class="default_node default_vertline"></span></span><span arrow="true" class="default_node default_leaf"></span><a href="?id=38">昌平区</a></td>
+				<td>1114</td>
+				<td>地市</td>
+				<td></td>
+
+			</tr>
+
+			<tr id="126" pid="3" class="3" previd="38" depth="2" style="display: none;">
+				<td><span class="prev_sp"><span class="default_node default_vertline"></span></span><span arrow="true" class="default_node default_leaf"></span><a href="?id=126">大兴区</a></td>
+				<td>1115</td>
+				<td>地市</td>
+				<td></td>
+
+			</tr>
+
+			<tr id="212" pid="3" class="3" previd="126" depth="2" style="display: none;">
+				<td><span class="prev_sp"><span class="default_node default_vertline"></span></span><span arrow="true" class="default_node default_leaf"></span><a href="?id=212">怀柔区</a></td>
+				<td>1116</td>
+				<td>地市</td>
+				<td></td>
+
+			</tr>
+
+			<tr id="290" pid="3" class="3" previd="212" depth="2" style="display: none;">
+				<td><span class="prev_sp"><span class="default_node default_vertline"></span></span><span arrow="true" class="default_node default_leaf"></span><a href="?id=290">平谷区</a></td>
+				<td>1117</td>
+				<td>地市</td>
+				<td></td>
+
+			</tr>
+
+			<tr id="360" pid="3" class="3" previd="290" depth="2" style="display: none;">
+				<td><span class="prev_sp"><span class="default_node default_vertline"></span></span><span arrow="true" class="default_node default_leaf"></span><a href="?id=360">密云县</a></td>
+				<td>1128</td>
+				<td>地市</td>
+				<td></td>
+
+			</tr>
+
+			<tr id="422" pid="3" class="3" previd="360" islastone="true" depth="2" style="display: none;">
+				<td><span class="prev_sp"><span class="default_node default_vertline"></span></span><span arrow="true" class="default_node default_last_leaf"></span><a href="?id=422">延庆县</a></td>
+				<td>1129</td>
+				<td>地市</td>
+				<td></td>
+
+			</tr> -->
+
+			
+			
+	</tbody></table>
+
+
+</body></html>

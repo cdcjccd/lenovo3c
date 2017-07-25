@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="php25" />
+    <orderEntry type="module" module-name="amcharts-141226235856" />
+    <orderEntry type="module" module-name="WdatePicker" />
+    <orderEntry type="module" module-name="pd-224592ea-6bab-11e4-a945-00163e001348" />
+    <orderEntry type="module" module-name="demo#thinkphp3.2整合PHPExcel" />
+    <orderEntry type="module" module-name="qc" />
+  </component>
+</module>

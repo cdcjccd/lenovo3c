@@ -1,0 +1,126 @@
+html, body {
+	color:#222; 
+	font-family:"微软雅黑"; 
+	margin:0; 
+	padding: 0; 
+	text-decoration: none; 
+}
+.clearfix{
+	clear:both;
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
+	margin:0; 
+	padding:0; 
+}
+img { 
+	border:0; 
+}
+ol, ul {
+	list-style: none outside none; 
+	margin:0; padding: 0; 
+}
+a {
+	color:#000000; 
+	text-decoration: none; 
+}
+.clr {
+	display:block;
+	clear:both; 
+	height:0; 
+	overflow:hidden; 
+}
+.copyright {
+	padding:10px 20px 0 20px; 
+	text-align:center;
+	font-size:14px;
+	color:#666;
+	line-height:25px;
+}
+.copyright a {
+	color:#666;
+}
+body {
+	background-color:#eee; 
+}
+body .logo h2{
+	font-size:20px;
+	margin:0px auto;
+	text-align: center;
+}
+body .mainmenu{
+	margin-top:20px;
+}
+body .mainmenu:after { 
+	clear: both; 
+	content: " "; 
+	display: block; 
+}
+
+body .mainmenu li{ 
+	float:left;
+	margin-left: 4%;
+	padding-bottom:16px;
+	width: 20%;
+	border-radius:3px; 
+	overflow:hidden;
+	box-sizing:border-box;
+	/*border:1px solid red;*/
+}
+body .mainmenu li b{ 
+	width:50px;;
+	display:block;
+	height:50px;
+	margin:0 auto;
+	border-radius:50%;
+	overflow:hidden;
+	margin-bottom:10px;
+}
+body .mainmenu li img{
+	width:100%;
+	display:block;
+	margin:auto auto;
+}
+body .mainmenu li span{
+	text-align:center;
+	display:block; 
+	line-height:30px;
+	color: #1a1a1a;
+	font-size:16px;
+	height:30px;
+	overflow:hidden;
+}
+
+/*增加删除按钮*/
+.add_button{
+	margin-left:4%;
+	margin-top:20px;
+}
+.add_button span{
+	display:block;
+	width:50px;
+	height:50px;
+	padding:0;
+	text-align: center;
+	background:#488ecd;
+	border-radius:50%;
+	color:#fff;
+	line-height:40px;
+	font-size:50px;
+	float:left;
+	margin-right:20px;
+}
+.add_button span:nth-of-type(1){
+	background:#488ecd;
+}
+.add_button span:nth-of-type(2){
+	background:#8b1732;
+}
+.add_button span:nth-of-type(1):hover{
+	background:#2a7bbf;
+}
+.add_button span:nth-of-type(2):hover{
+	background:#610f22;
+}
+
+
+

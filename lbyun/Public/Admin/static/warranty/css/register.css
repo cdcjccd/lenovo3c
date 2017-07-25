@@ -1,0 +1,59 @@
+*{
+	margin:0;
+	padding:0;
+	font-family: "微软雅黑";
+}
+.head img{
+	display:block;
+	width:60px;
+	margin:0 auto;
+}
+.head span{
+	text-align: center;
+	display: block;
+	font-size:18px;
+	margin:10px 0 30px 0;
+}
+.register_cast{
+	font-size:18px;
+	width:1000px;
+	border:1px solid #d9d9d9;
+	margin:0 auto;
+	margin-bottom:50px;
+}
+
+.register_cast table{
+	margin:10px 100px;
+}
+.register_cast table td{
+	
+}
+.register_cast tr td:nth-of-type(1){
+	padding-right:18px;
+}
+.register_cast tr .span_number{
+	font-size:36px;
+}
+.register_cast tr .huise{
+	font-size:14px;
+	color:#aaa;
+	line-height:18px;
+	padding-bottom:20px;
+}
+.height_tr td{
+	padding-bottom:20px;
+}
+.cuccess{
+	background:#488ecd;
+	color:#fff;
+	display:block;
+	width:180px;
+	margin:0 auto;
+	padding:10px 0;
+	border-radius:4px;
+	text-align: center;
+}
+
+
+
+

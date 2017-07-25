@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html style="overflow-x:hidden;overflow-y:auto;"><head>
+    <title>
+        联保云管理 - Beijing - Lbyun</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="Cache-Control" content="no-store"><meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <meta name="author" content="http://ljz0721cx.iteye.com/">
+    <meta http-equiv="X-UA-Compatible" content="IE=7,IE=9,IE=10">
+    <script src="__PUBLIC__/Admin/static/userlist/jquery-1.js" type="text/javascript"></script>
+    <script src="__PUBLIC__/Admin/static/userlist/jquery.js" type="text/javascript"></script>
+    <script src="__PUBLIC__/Admin/static/userlist/jquery-ui-1.js" type="text/javascript"></script>
+    <script src="__PUBLIC__/Admin/static/userlist/jquery-migrate-1.js" type="text/javascript"></script>
+    <link href="__PUBLIC__/Admin/static/userlist/jquery.css" type="text/css" rel="stylesheet">
+    <script src="__PUBLIC__/Admin/static/userlist/jquery_002.js" type="text/javascript"></script>
+    <script src="__PUBLIC__/Admin/static/userlist/j__PUBLIC__/Admin/static/userlist/query_006.js" type="text/javascript"></script>
+    <link href="__PUBLIC__/Admin/static/userlist/bootstrap.css" type="text/css" rel="stylesheet">
+    <script src="__PUBLIC__/Admin/static/userlist/bootstrap.js" type="text/javascript"></script>
+    <script src="__PUBLIC__/Admin/static/userlist/WdatePicker.js" type="text/javascript"></script><link href="WdatePicker.css" rel="stylesheet" type="text/css">
+    <script src="__PUBLIC__/Admin/static/userlist/jquery_003.js"></script>
+    <script src="__PUBLIC__/Admin/static/userlist/mustache.js" type="text/javascript"></script>
+    <link href="__PUBLIC__/Admin/static/userlist/lenjoy.css" type="text/css" rel="stylesheet">
+    <script src="__PUBLIC__/Admin/static/userlist/lenjoy.js" type="text/javascript"></script>
+    <meta name="decorator" content="default">
+</head>
+<body>
+<ul class="nav nav-tabs">
+    <li class="active"><a href="http://114.247.140.53:8080/lenjoy/admin/business/account/form?id=">天猫合同单
+    </a></li>
+</ul><br>
+
+<form id="inputForm" class="form-horizontal" action="{:U('Tian/tian_add')}" method="post" novalidate="novalidate">
+    <input id="id" name="id" value="" type="hidden">
+    <script type="text/javascript">top.$.jBox.closeTip();</script>
+    
+    <div class="control-group">
+        <label class="control-label">商家名称:</label>
+        <div class="controls">
+            <select id="province" name="tian_busname" >
+                <option value="0">==请选择==</option>
+                <foreach name="hing" item="lop">
+                    <option value="{$lop['id']}"><?php echo str_repeat("&nbsp;",6); ?>{$lop['busname']}</option>
+                </foreach>
+            </select>
+        </div>
+    </div>
+
+    <div class="control-group">
+        <label class="control-label">品牌类型:</label>
+        <div class="controls">
+            <select id="province" name="brand_name" onchange="findCity(this)">
+                <option value="0">==请选择==</option>
+                <foreach name="brand" item="vl">
+                    <option value="{$vl['brand_name']}"><?php echo str_repeat("&nbsp;",2); ?>{$vl['brand_name']}</option>
+                    <foreach name="vl['child']" item="val">
+                        <option value="{$val['brand_name']}"><?php echo str_repeat("&nbsp;",6); ?>{$val['brand_name']}</option>
+                    </foreach>
+                </foreach>
+            </select>
+        </div>
+    </div>
+
+    <div class="control-group">
+        <label class="control-label">型号名称:</label>
+        <div class="controls">
+            <select id="province" name="model_name" onchange="findCity(this)">
+                <option value="0">==请选择==</option>
+                <foreach name="good" item="ki">
+                    <option value="{$ki['model_name']}"><?php echo str_repeat("&nbsp;",6); ?>{$ki['model_name']}</option>
+                </foreach>
+            </select>
+        </div>
+    </div>
+    <!-- 分类循坏 -->
+    <div class="control-group">
+        <label class="control-label">产品类型:</label>
+        <div class="controls">
+            <select id="province" name="product_types" onchange="findCity(this)">
+                <option value="0">==请选择==</option>
+                <foreach name="nip" item="vo">
+                    <option value="{$vo['product_id']}"><?php echo str_repeat("&nbsp;",6); ?>{$vo['product_type']}</option>
+                </foreach>
+            </select>
+        </div>
+    </div>
+    
+    <div class="control-group">
+        <label class="control-label">产品名称:</label>
+        <div class="controls">
+            <select id="province" name="product_names" onchange="findCity(this)">
+                <option value="0">==请选择==</option>
+                <foreach name="vip" item="val">
+                    <option value="{$val['product_id']}">{$val['product_name']}</option>
+                </foreach>
+            </select>
+        </div>
+    </div>
+
+    <div class="control-group">
+        <label class="control-label">履约方式:</label>
+        <div class="controls">
+            <input type="radio" name="tian_way" value="0">未履约
+            <input type="radio" name="tian_way" value="1">已履约
+        </div>
+    </div>
+
+    <div class="form-actions">
+        <input id="btnSubmit" class="btn btn-primary" value="提交" onclick="return search();" type="submit">
+        <a href="{:U('Tian/tian_list')}"><input id="btnSubmit" class="btn btn-primary" value="返回" onclick="return search();" type="button"></a>
+    </div>
+</form>
+</body>
+</html>

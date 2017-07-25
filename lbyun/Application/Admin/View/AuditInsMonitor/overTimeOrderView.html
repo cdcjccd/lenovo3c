@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html style="overflow-x:hidden;overflow-y:auto;"><head>
+		<title>
+		即将审核的订单 - Powered By Enjoy3C</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Cache-Control" content="no-store"><meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<meta name="author" content="http://ljz0721cx.iteye.com/">
+<meta http-equiv="X-UA-Compatible" content="IE=7,IE=9,IE=10">
+	<script src="__PUBLIC__/Admin/static/userlist/jquery-1.js" type="text/javascript"></script>
+
+	<link href="__PUBLIC__/Admin/static/userlist/bootstrap.css" type="text/css" rel="stylesheet" />
+	<!--<script src="__PUBLIC__/Admin/static/userlist/bootstrap.js" type="text/javascript"></script>-->
+	<!--[if lte IE 6]><!--<link href="/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css" type="text/css" rel="stylesheet" />-->
+	<script src="/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js" type="text/javascript"></script><![endif]-->
+
+	<!--<link href="__PUBLIC__/Admin/static/userlist/lenjoy.css" type="text/css" rel="stylesheet" />-->
+	<script src="__PUBLIC__/Admin/static/userlist/lenjoy.js" type="text/javascript"></script>
+
+	<script src="__PUBLIC__/Admin/static/userlist/My97DatePicker/WdatePicker.js"></script>
+
+
+		<!--  需要添加百度统计分析-->
+	<style>
+		th{
+			color: #ffffff;
+			background: rgb(68,142,205);
+		}
+	</style>
+
+<meta name="decorator" content="default">
+<script src="showAuditOrder_data/jquery.js" type="text/javascript"></script>
+<script type="text/javascript">
+	$(function() {
+		var mobile = '13625234265';
+		var idCard = '';
+		if(!$.isEmptyObject(mobile)||!$.isEmptyObject(idCard)){
+			$.ajax({
+	    		type: "POST",
+	    	    url: "/lenjoy/admin/sys/blockList/checkMobileAndIdCard",
+	    	    data: "mobile="+mobile+"&idCard="+idCard,
+	    	    success: function(msg){
+	    	    	if(msg==1){
+	    	    		$("#proName").text("该用户已被添加到黑名单，请谨慎审核！");
+	    	    		$("#modal-demo").modal("show");
+	    	    	}
+	    	   }
+	    	})
+		}
+    	
+    	
+		$("input[name='userActivateOrderAudit.auditResult']").click(function() {
+			var ischecked = $(
+					"input[name='userActivateOrderAudit.auditResult']:checked").val();
+			if (ischecked == "1"||ischecked == "2") {
+				$("#edit_info .edit").removeClass("required");
+				$("#audit_message").show();
+			} else {
+				$("#edit_info .edit").addClass("required");
+				$("#audit_message").hide();
+			}
+		});
+		$("#brand").change(function(){
+			var brandId=$("#brand").find("option:selected").val();
+			$.getJSON("/lenjoy/admin/business/model/getModes?brandId="+brandId, function(models){
+				$("#model").empty().append("<option value=''>----请选择----</option>");
+				$.each(models, function(i,item){
+					$("#model").append("<option value='"+item.id+"'>"+item.name+"</option>");
+				 });
+			});
+		});
+		$("#auditForm").validate({
+			rules:{'idCard':{
+				card:true
+			}},
+			submitHandler : function(form) {
+				loading('正在提交，请稍等...');
+				form.submit();
+			},
+			errorContainer : "#messageBox",
+			errorPlacement : function(error, element) {
+				$("#messageBox").text("输入有误，请先更正。");
+				if (element.is(":checkbox") || element.is(":radio")
+						|| element.parent().is(".input-append")) {
+					error.appendTo(element.parent().parent());
+				} else {
+					error.insertAfter(element);
+				}
+			}
+		});
+	})
+	function modelChange(model){
+		$("#model_id").val(model.value);
+	}
+</script>
+
+	</head>
+	<body>
+		
+
+	<div id="modal-demo" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content radius">
+				<div class="modal-header">
+					<a class="close" data-dismiss="modal" aria-hidden="true" href="javascript:void();">×</a>
+					<h3 class="modal-title" style="color:red;">注意</h3>
+				</div>
+				<div class="modal-body">
+					<span id="proName"></span>
+				</div>
+				<div class="modal-footer">
+					<button class="btn" data-dismiss="modal" aria-hidden="true">确定</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div>
+		<table class="table table-bordered  zdy">
+			<tbody><tr>
+ 				<th colspan="4" style="color:#0088cc">订单信息</th>
+			</tr>
+			<tr>
+				<th> 商户ID:</th>
+				<td>8015</td>
+				<th>商户名称:</th>
+				<td>南京三宝数码科技有限公司</td>
+			</tr>
+			<tr>
+				<th> 订单号:</th>
+				<td>201707087110180651977246270</td>
+				<th>订单类型:</th>
+				<td>批量订单</td>
+			</tr>
+			<tr>
+				<th>购买产品:</th>
+				<td>屏碎保2.0（12个月）白金版</td>
+				<th>购买时间:</th>
+				<td>2017-07-08 15:26:08.0</td>
+			</tr>
+			<tr>
+				<th>手机号:</th>
+				<td>13625234265</td>
+				<th> 购买类目:</th>
+				<td></td>
+			</tr>
+			<tr>
+ 				<th colspan="4" style="color:#0088cc">设备信息</th>
+			</tr>
+			<tr>
+				<th>购买品牌:</th>
+				<td>金立</td>
+				<th>购买型号:</th>
+				<td>金立s10L</td>
+			</tr>
+			<tr>
+				<th>S/N号:</th>
+				<td colspan="3">864728030115498</td>
+			</tr>
+			<tr>
+ 				<th colspan="4" style="color:#0088cc">激活门店</th>
+			</tr>
+			<tr>
+				<th>激活人:</th>
+				<td>石总</td>
+				<th>激活门店:</th>
+				<td>如皋亿通</td>
+			</tr>
+			<tr>
+				<th>激活人电话:</th>
+				<td>15190886789</td>
+				<th>激活人所在通路:</th>
+				<td>m5</td>
+			</tr>
+		</tbody></table>
+		<table id="contentTable" class="table table-striped table-bordered table-condensed">
+			<thead>
+				<tr>
+					<th>提交时间</th>
+					<th>审核时间</th>
+					<th>审核结果</th>
+					<th>审核描述</th>
+					<th>审核图片</th>
+				</tr>
+			</thead>
+			<tbody>
+				 
+				<tr>
+					<td>2017-07-08 15:26:08</td>
+					<td></td><td>等待审核</td><td></td>
+			        <td>
+						
+							<a data-url="http://114.247.140.53:8080/lenjoy/activeOrder/201707/100/2141218_201707085771706963772092225.jpg" class="green_monster btn btn-mini">图片1</a>
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<div><img id="mlen_image" alt=""></div>
+		<script type="text/javascript">
+			$(function(){
+            	 $(".green_monster").toggle(function(){
+            		 var me=$(this);
+            		 $("#mlen_image").parent().show();
+            		 $("#mlen_image").attr("src",me.data('url'));
+            		 /* $("#mlen_image").mlens({
+     					imgSrc: me.data('url'),	    
+     					lensShape: "circle",			
+     					lensSize: 180,				
+     					borderSize: 0,					
+     					borderColor: "#fff",
+     					zoomLevel:2             
+     				});  */ 
+            	 },function(){
+            		 $("#mlen_image").removeAttr("src").parent().hide();
+            	 });
+             });
+         </script>
+	</div>
+	  
+	<form id="auditForm" class="form-horizontal" action="/lenjoy#tOrder/save" method="post" novalidate="novalidate">
+		<input id="userActivateOrderAudit.userActivateOrder.id" name="userActivateOrderAudit.userActivateOrder.id" value="2141218" type="hidden">
+		<input id="userActivateOrderAudit.operateType" name="userActivateOrderAudit.operateType" value="1" type="hidden">
+		<input id="model_id" name="model.id" value="7269" type="hidden">
+		
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+<script type="text/javascript">top.$.jBox.closeTip();</script>
+
+
+
+		<div id="edit_info">
+			<div class="control-group">
+				<label class="control-label">购买人姓名:</label>
+				<div class="controls">
+					<input id="buyName" name="buyName" value="丁海兵" class="required edit" aria-required="true" type="text">
+				</div>
+			</div>
+			<div class="control-group">
+				<label class="control-label">唯一识别码:</label>
+				<div class="controls">
+					<input id="singleCode" name="singleCode" value="864728030115498" class="required uppercase edit" aria-required="true" type="text">
+					<small>手机设备填写IMEI号码，电脑pad设备填写SN</small>
+				</div>
+			</div>
+			<div class="control-group">
+				<label class="control-label">证件类型:</label>
+				<div class="controls">
+				<select id="paperType" name="paperType" class="input-medium required" aria-required="true">
+					<option value="" selected="selected">----请选择----</option>
+					<option value="0">身份证</option><option value="1">驾驶证</option><option value="3">护照</option><option value="2">军官证</option>
+					<option value="0">身份证</option>
+				</select>
+				<input id="idCard" name="idCard" onkeyup="value=value.replace(/[^\w]/ig,'')" placeholder="请填写相应的证件号码" value="320682199702026436" class="required edit" aria-required="true" type="text">
+				</div>
+			</div> 
+			<div class="control-group">
+				<label class="control-label">购买品牌:</label>
+				<div class="controls">
+					<select id="brand" name="brand.id" class="input-medium">
+						<option value="" selected="selected">----请选择----</option>
+						<option value="17">苹果</option><option value="1">三星</option><option value="14">OPPO</option><option value="13">VIVO</option><option value="5">华为</option><option value="11">金立</option><option value="3">小米</option><option value="39">ZUK</option><option value="10">酷派</option><option value="9">魅族</option><option value="30">美图</option><option value="8">努比亚</option><option value="26">MOTO</option><option value="18">一加手机</option><option value="4">中兴</option><option value="24">海信</option><option value="28">华硕</option><option value="25">朵唯</option><option value="82">康佳</option><option value="83">蓝魔</option><option value="61">ivvi</option><option value="76">神舟</option><option value="80">唯米</option><option value="29">乐视</option><option value="40">飞利浦</option><option value="222">优它</option><option value="38">小辣椒</option><option value="37">TCL</option><option value="2">联想</option><option value="12">天语</option><option value="15">LG</option><option value="42">奇酷</option><option value="36">青橙</option><option value="43">酷比</option><option value="64">果米</option>
+					</select>
+				</div>
+			</div>
+			<div class="control-group">
+				<label class="control-label">购买型号:</label>
+				<div class="controls">
+					<select id="model" onchange="modelChange(this)" class="input-medium">
+						<option value="" selected="selected">----请选择----</option>
+					</select>
+				</div>
+			</div>
+			<div class="control-group">
+				<label class="control-label">是否特赦通过:</label>
+				<div class="controls">
+					<input id="oremarks" name="oremarks" placeholder="如果为‘特赦通过’请说明" class="uppercase" type="text">
+				</div>
+			</div>
+		</div>
+		<div class="control-group">
+			<label class="control-label">核保内部记录:</label>
+				<div class="controls">
+					<textarea id="userActivateOrderAudit.innerVerifyDesc" name="userActivateOrderAudit.innerVerifyDesc" maxlength="250" placeholder="请填写核保内部记录！" class="span8"></textarea>
+				</div>
+		</div>
+		<div class="control-group">
+			<label class="control-label">是否通过审核:</label>
+			<div class="controls">
+				<input id="userActivateOrderAudit.auditResult1" name="userActivateOrderAudit.auditResult" class="required" checked="checked" value="0" aria-required="true" type="radio">是
+				<input id="userActivateOrderAudit.auditResult2" name="userActivateOrderAudit.auditResult" class="required" value="1" aria-required="true" type="radio">否
+					
+				<a href="javascript:void(0)" class="btn" id="waitAudit">审核待定</a>
+				<script type="text/javascript">
+					$("#waitAudit").click(function(){
+						$.ajax({
+						   type: "POST",
+						   url: "/lenjoy#tOrder/waitAudit",
+						   data: "oid=2141218&waitAudit=审核待定",
+						   success: function(msg){
+						     alert( "修改为审核待定" + msg );
+						   }
+						})
+					});
+				</script>
+				<input id="userActivateOrderAudit.auditResult3" name="userActivateOrderAudit.auditResult" class="required" value="2" aria-required="true" type="radio">拒保
+			</div>
+		</div>
+		<div style="display: none" id="audit_message">
+			<div class="control-group">
+				<label class="control-label">短信内容:</label>
+				<div class="controls" id="price_div">
+					<select class="form-control" id="phone_message">
+	                     <option value="" selected="selected">-----------请选择-----------</option>
+	                     <option>照片需完整显示手机屏幕以及整体外观</option>
+	                     <option>提交照片是手机截屏</option>
+	                     <option>照片会在屏幕上贴如标签，进网许可证，IMEI号标签等等</option>
+	                     <option>图片显示IMEI号与订单IMEI号不符</option>
+	                     <option>照片中没有显示IMEI号</option>
+	                     <option>图片显示机型与订单机型不符</option>
+	                     <option>购买时屏幕已碎裂手机不得购买</option>
+	                     <option>不符合销售政策</option>
+	                     <option value="">其他</option>
+	                 </select>
+					<input id="phoneMessage" name="phoneMessage" class="required" aria-required="true" type="text">
+					<script type="text/javascript">
+						$("#phone_message").change(function(){
+							$("#phoneMessage").val($(this).val());
+							$("#remarks").val($(this).val());
+						})
+					</script>
+				</div>
+			</div>
+			<div class="control-group">
+				<label class="control-label">系统备注:</label>
+				<div class="controls" id="price_div">
+					<textarea id="remarks" name="remarks" maxlength="200" placeholder="您填写详细的审核信息！请填写额描述在200字以内" class="required span8" aria-required="true"></textarea>
+				</div>
+			</div>
+		</div>
+		<p class="offset2 text-error"><strong>注意:</strong>如果没有通过审核原信息将不会变更</p>
+		<div class="form-actions">
+			<input id="btnCancel" class="btn" value="返回该订单列表" onclick="history.go(-1);return false;" type="button">
+			
+				<input id="btnSubmit" class="btn btn-primary" value="提交" type="submit">&nbsp;
+			</div>
+	</form>
+
+	
+</body></html>

@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html style="overflow-x:hidden;overflow-y:auto;"><head>
+		<title>
+		型号--满期出险率 - Powered By Enjoy3C</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Cache-Control" content="no-store"><meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<meta name="author" content="http://ljz0721cx.iteye.com/">
+<meta http-equiv="X-UA-Compatible" content="IE=7,IE=9,IE=10">
+	<script src="__PUBLIC__/Admin/static/userlist/jquery-1.js" type="text/javascript"></script>
+
+	<link href="__PUBLIC__/Admin/static/userlist/bootstrap.css" type="text/css" rel="stylesheet" />
+	<!--<script src="__PUBLIC__/Admin/static/userlist/bootstrap.js" type="text/javascript"></script>-->
+	<!--[if lte IE 6]><!--<link href="/lenjoy/static/bootstrap/bsie/css/bootstrap-ie6.min.css" type="text/css" rel="stylesheet" />-->
+	<script src="/lenjoy/static/bootstrap/bsie/js/bootstrap-ie.min.js" type="text/javascript"></script><![endif]-->
+
+	<!--<link href="__PUBLIC__/Admin/static/userlist/lenjoy.css" type="text/css" rel="stylesheet" />-->
+	<script src="__PUBLIC__/Admin/static/userlist/lenjoy.js" type="text/javascript"></script>
+
+	<script src="__PUBLIC__/Admin/static/userlist/My97DatePicker/WdatePicker.js"></script>
+
+
+		<!--  需要添加百度统计分析-->
+		
+	
+	<meta name="decorator" content="default">
+	<link href="modelList_data/treeTable.css" rel="stylesheet" type="text/css">
+<script src="modelList_data/jquery.js" type="text/javascript"></script>
+	
+	<style type="text/css">
+		th{
+			color: #ffffff;
+			background: rgb(68,142,205);
+		}
+		.loading{  
+		    width:160px;  
+		    height:56px;  
+		    position: absolute;  
+		    top:50%;  
+		    left:50%;  
+		    line-height:56px;  
+		    color:#fff;  
+		    padding-left:60px;  
+		    font-size:15px;  
+		    background: #000 url(/lenjoy/static/images/loader.gif) no-repeat 10px 50%;  
+		    opacity: 0.7;  
+		    z-index:9999;  
+		    -moz-border-radius:20px;  
+		    -webkit-border-radius:20px;  
+		    border-radius:20px;  
+		    filter:progid:DXImageTransform.Microsoft.Alpha(opacity=70);  
+		}  
+</style>
+
+<script type="text/javascript">
+
+function find_Brand(){
+	//根据品牌类型查看对应的产品信息
+	$.getJSON("/#/business/brand/getBrands_",{"type":$("#type").val()}, function(activateCodeLibs){
+		$("#brand").empty().append("<option value=''>----请选择----</option>");
+		$.each(activateCodeLibs, function(i,item){
+			if(item.id==$("#brandId").val()){
+				$("#brand").append("<option value='"+item.id+"' selected=selected>"+item.name+"</option>");
+			}else{
+				$("#brand").append("<option value='"+item.id+"'>"+item.name+"</option>");
+			}
+		 });
+	});
+}
+
+function exportOrder(){
+	$("#searchForm").attr("action",'/#/stats/outInsurance/modelExport');
+	$(".submitbutton").button('loading').submit();	
+}
+
+function auto_Paixu() {
+	var orderBy = $("#orderBy").val();
+	 if(orderBy=='1'){
+		$("#paixu").empty().append("<option value=''>----请选择----</option>");
+	 	$("#paixu").append("<option value='1' selected=selected>出险率</option>");
+	 	$("#paixu").append("<option value='0' >注册量</option>");
+	 }else if(orderBy=='0'){
+			$("#paixu").empty().append("<option value=''>----请选择----</option>");
+	 		$("#paixu").append("<option value='0' selected=selected>注册量</option>");
+	 		$("#paixu").append("<option value='1' >出险率</option>");
+	 } 
+}
+
+function pai_xu(obj) {
+	if(obj!=null&&obj!=''){
+		$("#orderBy").val(obj);
+		$("#searchForm").attr("action",'/#/stats/outInsurance/modelList').submit();
+	} 
+}
+
+function page(n,s){
+	$("#pageNo").val(n);
+	$("#pageSize").val(s);
+	$("#searchForm").attr("action",'/#/stats/outInsurance/modelList').submit();
+	return false;
+}
+ window.onload=function(){
+	 auto_Paixu();
+	 var type=$("#type").val();
+	 if(type!=''){
+		 find_Brand();
+	 }
+	 
+}
+</script>
+
+	</head>
+	<body>
+		
+     <div id="loading" class="loading" style="display: none"></div> 
+	<ul class="nav nav-tabs">
+		<li class="active"><a href="http://114.247.140.53:8080/#/stats/outInsurance/modelList">型号--满期出险率</a></li>
+	</ul>
+	<input id="brandId" name="brandId" hidden="hidden">
+	<form id="searchForm" class="breadcrumb form-search" action="/#/stats/outInsurance/modelList" method="post">
+		<div style="margin-top: 8px;">
+			<input id="pageNo" name="pageNo" value="1" type="hidden">
+		    <input id="pageSize" name="pageSize" value="20" type="hidden">
+			<label>分&nbsp;&nbsp;类：</label>
+			<select id="type" name="type" class="input-medium required" onchange="find_Brand();">
+				<option value="">----请选择----</option>
+				<option class="span2" value="0" selected="selected">手机</option><option class="span2" value="6">洗衣机</option><option class="span2" value="7">油烟机</option><option class="span2" value="11">热水器</option><option class="span2" value="13">插座</option><option class="span2" value="14">净水器</option><option class="span2" value="15">台灯</option><option class="span2" value="16">浴霸/换气扇</option><option class="span2" value="17">网络仪表仪器</option><option class="span2" value="19">耳机</option><option class="span2" value="20">音箱/音响</option><option class="span2" value="21">存储卡</option><option class="span2" value="22">读卡器</option><option class="span2" value="23">麦克风</option><option class="span2" value="24">手表</option><option class="span2" value="25">智能机器人</option><option class="span2" value="26">投影配件</option><option class="span2" value="27">游戏机</option><option class="span2" value="29">鼠标</option><option class="span2" value="30">键盘</option><option class="span2" value="31">U盘</option><option class="span2" value="32">移动硬盘</option><option class="span2" value="33">摄像头</option><option class="span2" value="34">榨汁机</option><option class="span2" value="35">无人机</option><option class="span2" value="36">CPU</option><option class="span2" value="37">主板</option><option class="span2" value="38">显卡</option><option class="span2" value="39">SSD固态硬盘</option><option class="span2" value="40">内存卡</option><option class="span2" value="41">机箱</option><option class="span2" value="42">显示器</option><option class="span2" value="43">刻录机/光驱</option><option class="span2" value="44">声卡/扩展声卡</option><option class="span2" value="45">散热器</option><option class="span2" value="46">相机</option><option class="span2" value="47">摄像机</option><option class="span2" value="48">音响</option><option class="span2" value="49">游戏主机</option><option class="span2" value="50">游戏机配件</option><option class="span2" value="77">电脑配件</option><option class="span2" value="78">DIY配件</option><option class="span2" value="51">一体机</option><option class="span2" value="52">电源</option><option class="span2" value="1">笔记本电脑</option><option class="span2" value="2">pad</option><option class="span2" value="3">电视</option><option class="span2" value="18">五金电动工具</option><option class="span2" value="5">挂机空调</option><option class="span2" value="4">冰箱</option><option class="span2" value="8">燃气灶</option><option class="span2" value="9">小家电</option><option class="span2" value="10">柜机空调</option><option class="span2" value="12">台式机</option>
+			</select>
+			<label>品&nbsp;&nbsp;牌：</label>
+			<select id="brand" name="brand.id" class="required input-medium"><option value="" selected="selected">----请选择----</option><option value="17">苹果</option><option value="1">三星</option><option value="387">宏牛</option><option value="386">卡美欧</option><option value="14">OPPO</option><option value="13">VIVO</option><option value="5">华为</option><option value="11">金立</option><option value="3">小米</option><option value="39">ZUK</option><option value="10">酷派</option><option value="9">魅族</option><option value="30">美图</option><option value="8">努比亚</option><option value="7">诺基亚</option><option value="26">MOTO</option><option value="18">一加手机</option><option value="75">红辣椒</option><option value="4">中兴</option><option value="24">海信</option><option value="25">朵唯</option><option value="28">华硕</option><option value="82">康佳</option><option value="83">蓝魔</option><option value="61">ivvi</option><option value="58">锤子</option><option value="76">神舟</option><option value="44">中国移动</option><option value="80">唯米</option><option value="46">hmi黑米</option><option value="48">长虹(changhong)</option><option value="59">IUNI</option><option value="320">imoo</option><option value="227">360手机</option><option value="350">欧沃</option><option value="29">乐视</option><option value="40">飞利浦</option><option value="50">宏达</option><option value="63">Gigaset</option><option value="65">GigasetME</option><option value="78">誉品</option><option value="62">朗界</option><option value="345">8848钛金手机</option><option value="77">白米</option><option value="81">至尊宝</option><option value="79">米图</option><option value="74">VOTO</option><option value="73">百立丰</option><option value="362">欧加</option><option value="222">优它</option><option value="380">魅兴</option><option value="381">天科讯</option><option value="388">青葱</option><option value="375">金利达/gionld</option><option value="376">晨信/CENXN</option><option value="372">莱诺</option><option value="368">米莱</option><option value="379">谷歌</option><option value="382">百加（100+）</option><option value="374">科健</option><option value="366">传奇</option><option value="38">小辣椒</option><option value="364">索爱</option><option value="37">TCL</option><option value="230">斐讯</option><option value="2">联想</option><option value="339">贝儿丰</option><option value="338">汇威</option><option value="6">索尼</option><option value="12">天语</option><option value="383">格莱特/GREAT</option><option value="343">聆韵</option><option value="342">瓦戈</option><option value="15">LG</option><option value="377">木糖醇/MuTuCu</option><option value="378">新路虎时代</option><option value="370">欧奇</option><option value="369">恒宇丰</option><option value="359">万利达</option><option value="42">奇酷</option><option value="220">E派</option><option value="367">米蓝</option><option value="36">青橙</option><option value="357">乐目</option><option value="43">酷比</option><option value="337">糖果</option><option value="225">inni大疆</option><option value="341">宇飞来</option><option value="64">果米</option><option value="365">糯米</option><option value="340">优酷</option><option value="358">读书郎</option><option value="16">HTC</option></select><br>
+		</div>
+		<div style="margin-top:8px;">
+			<label>统计开始日期：</label>
+			<input name="startDate_" maxlength="50" onclick="WdatePicker()" readonly="readonly" placeholder="开始时间" class="input-medium Wdate" value="2014-07-01" type="text">
+			<label>统计结束日期：</label>
+			<input name="endDate_" maxlength="50" onclick="WdatePicker()" readonly="readonly" placeholder="结束时间" class="input-medium Wdate" value="2017-07-08" type="text">
+			&nbsp;<input id="btnSubmit" class="btn btn-primary" value="查询" onclick="return page();" type="submit">
+				
+					
+				
+					<input id="btnSubmit" class="btn btn-info submitbutton" value="导出数据" data-loading-text="休息一下..." onclick="return exportOrder();" type="submit">
+				
+				
+				<input id="orderBy" name="orderBy" value="" type="hidden">
+				
+				&nbsp;&nbsp;&nbsp;&nbsp;<label>排&nbsp;&nbsp;序：</label>
+				<select id="paixu" onchange="return pai_xu(this.value);">
+					<option selected="selected">----请选择----</option>
+					<option value="1">出险率</option>
+					<option value="0">注册量</option>
+				</select>
+		</div>
+	</form>
+	
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+<script type="text/javascript">top.$.jBox.closeTip();</script>
+
+
+
+	<table id="contentTable" class="table table-striped table-bordered table-condensed">
+		<thead>
+			<tr>
+			    <th>型号名称</th>
+			    <th>出险量</th>
+			    <th>注册量</th>
+				<th>出险率</th>
+			</tr>
+		</thead>
+		<tbody>
+		
+		
+		</tbody>
+	</table>
+	
+	<div class="pagination"><ul>
+<li class="disabled"><a href="javascript:">« 上一页</a></li>
+<li class="active"><a href="javascript:">1</a></li>
+<li class="disabled"><a href="javascript:">下一页 »</a></li>
+<li class="disabled controls"><a href="javascript:">当前 <input value="1" onkeypress="var e=window.event||this;var c=e.keyCode||e.which;if(c==13)page(this.value,20);" onclick="this.select();" type="text"> / <input value="20" onkeypress="var e=window.event||this;var c=e.keyCode||e.which;if(c==13)page(1,this.value);" onclick="this.select();" type="text"> 条，共 0 条</a></li><li>
+</li></ul>
+<div style="clear:both;"></div></div> 
+	
+
+	
+</body></html>

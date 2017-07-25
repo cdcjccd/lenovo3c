@@ -1,0 +1,1283 @@
+[ 2017-07-24T09:22:39+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/index1.html
+ERR: 非法操作:index1
+
+[ 2017-07-24T09:22:46+08:00 ] ::1 /yjc/lby/index.php/Login/undefined?1500859366475
+ERR: 非法操作:undefined
+
+[ 2017-07-24T09:22:54+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/index1.html
+ERR: 非法操作:index1
+
+[ 2017-07-24T09:24:22+08:00 ] ::1 /yjc/lby/index.php/Index/question/list.do
+ERR: 非法操作:question
+
+[ 2017-07-24T09:24:23+08:00 ] ::1 /yjc/lby/index.php/Info/style.css
+ERR: 非法操作:style.css
+
+[ 2017-07-24T09:24:23+08:00 ] ::1 /yjc/lby/index.php/Info/style.css
+ERR: 非法操作:style.css
+
+[ 2017-07-24T09:24:24+08:00 ] ::1 /yjc/lby/index.php/Index/probleminformation/list.do
+ERR: 非法操作:probleminformation
+
+[ 2017-07-24T09:24:25+08:00 ] ::1 /yjc/lby/index.php/Info/style.css
+ERR: 非法操作:style.css
+
+[ 2017-07-24T09:24:25+08:00 ] ::1 /yjc/lby/index.php/Info/style.css
+ERR: 非法操作:style.css
+
+[ 2017-07-24T09:24:43+08:00 ] ::1 /yjc/lby/index.php/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-07-24T09:26:42+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:34:47+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:34:47+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:34:47+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:34:47+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:34:47+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:34:47+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:34:47+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:34:48+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:34:48+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:34:48+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:34:48+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:34:48+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:34:49+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:34:49+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:34:49+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:34:59+08:00 ] ::1 /yjc/lby/index.php/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-07-24T09:38:40+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:38:40+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:38:40+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:38:40+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:38:40+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:40:47+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:40:47+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:40:47+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:40:47+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:40:47+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:40:48+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:40:48+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:40:49+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:40:49+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:40:49+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:40:52+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:40:52+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:40:52+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:40:52+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:40:52+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:41:30+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:41:30+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:41:30+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:41:30+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:41:30+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:41:36+08:00 ] ::1 /yjc/lby/index.php/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-07-24T09:42:48+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:42:49+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:42:49+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:42:49+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:42:49+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:42:57+08:00 ] ::1 /yjc/lby/index.php/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-07-24T09:42:59+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:42:59+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:42:59+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:42:59+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:42:59+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:45:20+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:45:20+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:45:20+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:45:20+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:45:20+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:45:22+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:45:22+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:45:22+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:45:22+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:45:22+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:45:25+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:45:25+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:45:25+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:45:25+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:45:25+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:45:51+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:45:51+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:45:51+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:45:51+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:45:51+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:45:59+08:00 ] ::1 /yjc/lby/index.php/Index/instructions/list
+ERR: 非法操作:instructions
+
+[ 2017-07-24T09:46:19+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:46:19+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:46:19+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:46:19+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:46:19+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:46:20+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:46:20+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:46:20+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:46:20+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:46:20+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:46:26+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:46:26+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:46:26+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:46:26+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:46:26+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:46:27+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:46:27+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:46:27+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:46:27+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:46:27+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:46:28+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:46:28+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:46:29+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:46:29+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:46:29+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:50:25+08:00 ] ::1 /yjc/lby/index.php/Activated/activated_acl.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':00:00 ) LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( pid=1 and audit_time= 00:00:00 ) LIMIT 1  
+
+[ 2017-07-24T09:51:41+08:00 ] ::1 /yjc/lby/index.php/Activated/activated_acl.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':00:00 ) LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( pid=1 and audit_time=00:00:00 ) LIMIT 1  
+
+[ 2017-07-24T09:55:57+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:55:58+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:59:01+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:59:01+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:59:01+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:59:01+08:00 ] ::1 /yjc/lby/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:59:01+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:59:02+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:59:02+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:59:03+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:59:03+08:00 ] ::1 /yjc/lby/index.php/Batch/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T09:59:03+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:59:27+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T09:59:27+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T10:00:32+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T10:00:32+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/j/yjc/lby/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T10:00:50+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/index1.html
+ERR: 非法操作:index1
+
+[ 2017-07-24T10:01:15+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T10:01:41+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T10:02:27+08:00 ] ::1 /yjc/lby/index.php/Admin/Index/index1.html
+ERR: 非法操作:index1
+
+[ 2017-07-24T10:02:34+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T10:02:41+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T10:02:48+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T10:02:53+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T10:02:59+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T10:03:06+08:00 ] ::1 /yjc/lby/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T11:26:10+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/Index/index1.html
+ERR: 非法操作:index1
+
+[ 2017-07-24T11:26:17+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/merchant/access.html
+ERR: 无法加载控制器:Merchant
+
+[ 2017-07-24T11:26:21+08:00 ] 127.0.0.1 /lbyun/lbyun/probleminformation/list.do
+ERR: 无法加载控制器:Probleminformation
+
+[ 2017-07-24T11:26:23+08:00 ] 127.0.0.1 /lbyun/lbyun/probleminformation/list.do
+ERR: 无法加载控制器:Probleminformation
+
+[ 2017-07-24T11:26:24+08:00 ] 127.0.0.1 /lbyun/lbyun/probleminformation/list.do
+ERR: 无法加载控制器:Probleminformation
+
+[ 2017-07-24T11:26:25+08:00 ] 127.0.0.1 /lbyun/lbyun/probleminformation/list.do
+ERR: 无法加载控制器:Probleminformation
+
+[ 2017-07-24T11:26:29+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Product/index.html
+ERR: SQLSTATE[HY000] [1049] Unknown database 'good'
+
+[ 2017-07-24T11:40:40+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Background/brand_show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-07-24T11:40:42+08:00 ] 127.0.0.1 /lbyun/lbyun/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: user_name D:\phpstudy\WWW\lbyun\lbyun\Application\Runtime\Cache\Admin\b0f0b709690a72033d17719e8059053c.php 第 39 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-24T11:40:43+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/Index/index1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:index1
+
+[ 2017-07-24T11:40:47+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Background/brand_show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-07-24T11:43:05+08:00 ] 127.0.0.1 /lbyun/lbyun/question/list.do
+ERR: 无法加载控制器:Question
+
+[ 2017-07-24T11:43:08+08:00 ] 127.0.0.1 /lbyun/lbyun/question/list.do
+ERR: 无法加载控制器:Question
+
+[ 2017-07-24T11:44:42+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/Index/index1.html
+ERR: 非法操作:index1
+
+[ 2017-07-24T11:44:48+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/columnarRouteList.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0090s ]
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name` FROM `sys_route` 
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name` FROM `sys_route` 
+
+[ 2017-07-24T11:44:48+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/columnar.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0100s ]
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT MAX(id) AS tp_max FROM `sys_route` LIMIT 1  
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT MAX(id) AS tp_max FROM `sys_route` LIMIT 1  
+
+[ 2017-07-24T11:44:48+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/route.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0110s ]
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT MAX(id) AS tp_max FROM `sys_route` LIMIT 1  
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT MAX(id) AS tp_max FROM `sys_route` LIMIT 1  
+
+[ 2017-07-24T11:44:58+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/route.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0050s ]
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT MAX(id) AS tp_max FROM `sys_route` LIMIT 1  
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT MAX(id) AS tp_max FROM `sys_route` LIMIT 1  
+
+[ 2017-07-24T11:44:58+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/columnarRouteList.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0110s ]
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name` FROM `sys_route` 
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name` FROM `sys_route` 
+
+[ 2017-07-24T11:44:58+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/columnar.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0100s ]
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT MAX(id) AS tp_max FROM `sys_route` LIMIT 1  
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT MAX(id) AS tp_max FROM `sys_route` LIMIT 1  
+
+[ 2017-07-24T11:45:42+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/route.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0130s ]
+SQL: SELECT MAX(t_id) AS tp_max FROM `sys_route` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `checking_audit` [ RunTime:0.0110s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 1 ) AND `audit_time` > '2017-07-17 11:45:42' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 2 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 2 ) AND `audit_time` > '2017-07-17 11:45:42' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 3 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 3 ) AND `audit_time` > '2017-07-17 11:45:42' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 4 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 4 ) AND `audit_time` > '2017-07-17 11:45:42' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-07-24T11:45:42+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/columnarRouteList.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0120s ]
+SQL: SELECT `t_id`,`name` FROM `sys_route`  [ RunTime:0.0010s ]
+
+[ 2017-07-24T11:45:42+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/columnar.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0050s ]
+SQL: SELECT MAX(t_id) AS tp_max FROM `sys_route` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `checking_audit` [ RunTime:0.0130s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-24  00:00:00' AND '2017-07-24 23:59:59' AND `audit_tong` = 1 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-23  00:00:00' AND '2017-07-23 23:59:59' AND `audit_tong` = 1 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-22  00:00:00' AND '2017-07-22 23:59:59' AND `audit_tong` = 1 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-21  00:00:00' AND '2017-07-21 23:59:59' AND `audit_tong` = 1 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-20  00:00:00' AND '2017-07-20 23:59:59' AND `audit_tong` = 1 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-19  00:00:00' AND '2017-07-19 23:59:59' AND `audit_tong` = 1 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-18  00:00:00' AND '2017-07-18 23:59:59' AND `audit_tong` = 1 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-24  00:00:00' AND '2017-07-24 23:59:59' AND `audit_tong` = 2 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-23  00:00:00' AND '2017-07-23 23:59:59' AND `audit_tong` = 2 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-22  00:00:00' AND '2017-07-22 23:59:59' AND `audit_tong` = 2 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-21  00:00:00' AND '2017-07-21 23:59:59' AND `audit_tong` = 2 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-20  00:00:00' AND '2017-07-20 23:59:59' AND `audit_tong` = 2 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-19  00:00:00' AND '2017-07-19 23:59:59' AND `audit_tong` = 2 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-18  00:00:00' AND '2017-07-18 23:59:59' AND `audit_tong` = 2 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 2 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-24  00:00:00' AND '2017-07-24 23:59:59' AND `audit_tong` = 3 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-23  00:00:00' AND '2017-07-23 23:59:59' AND `audit_tong` = 3 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-22  00:00:00' AND '2017-07-22 23:59:59' AND `audit_tong` = 3 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-21  00:00:00' AND '2017-07-21 23:59:59' AND `audit_tong` = 3 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-20  00:00:00' AND '2017-07-20 23:59:59' AND `audit_tong` = 3 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-19  00:00:00' AND '2017-07-19 23:59:59' AND `audit_tong` = 3 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-18  00:00:00' AND '2017-07-18 23:59:59' AND `audit_tong` = 3 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 3 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-24  00:00:00' AND '2017-07-24 23:59:59' AND `audit_tong` = 4 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-23  00:00:00' AND '2017-07-23 23:59:59' AND `audit_tong` = 4 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-22  00:00:00' AND '2017-07-22 23:59:59' AND `audit_tong` = 4 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-21  00:00:00' AND '2017-07-21 23:59:59' AND `audit_tong` = 4 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-20  00:00:00' AND '2017-07-20 23:59:59' AND `audit_tong` = 4 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-19  00:00:00' AND '2017-07-19 23:59:59' AND `audit_tong` = 4 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-18  00:00:00' AND '2017-07-18 23:59:59' AND `audit_tong` = 4 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 4 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-07-24T11:45:55+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/merchant/access.html
+ERR: 无法加载控制器:Merchant
+
+[ 2017-07-24T11:45:57+08:00 ] 127.0.0.1 /lbyun/lbyun/probleminformation/list.do
+ERR: 无法加载控制器:Probleminformation
+
+[ 2017-07-24T11:45:58+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/merchant/access.html
+ERR: 无法加载控制器:Merchant
+
+[ 2017-07-24T11:45:58+08:00 ] 127.0.0.1 /lbyun/lbyun/probleminformation/list.do
+ERR: 无法加载控制器:Probleminformation
+
+[ 2017-07-24T11:45:59+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/merchant/access.html
+ERR: 无法加载控制器:Merchant
+
+[ 2017-07-24T11:45:59+08:00 ] 127.0.0.1 /lbyun/lbyun/probleminformation/list.do
+ERR: 无法加载控制器:Probleminformation
+
+[ 2017-07-24T11:46:00+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/merchant/access.html
+ERR: 无法加载控制器:Merchant
+
+[ 2017-07-24T11:46:00+08:00 ] 127.0.0.1 /lbyun/lbyun/probleminformation/list.do
+ERR: 无法加载控制器:Probleminformation
+
+[ 2017-07-24T11:46:09+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/columnar.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0120s ]
+SQL: SELECT MAX(t_id) AS tp_max FROM `sys_route` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `checking_audit` [ RunTime:0.0120s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-24  00:00:00' AND '2017-07-24 23:59:59' AND `audit_tong` = 1 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-23  00:00:00' AND '2017-07-23 23:59:59' AND `audit_tong` = 1 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-22  00:00:00' AND '2017-07-22 23:59:59' AND `audit_tong` = 1 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-21  00:00:00' AND '2017-07-21 23:59:59' AND `audit_tong` = 1 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-20  00:00:00' AND '2017-07-20 23:59:59' AND `audit_tong` = 1 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-19  00:00:00' AND '2017-07-19 23:59:59' AND `audit_tong` = 1 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-18  00:00:00' AND '2017-07-18 23:59:59' AND `audit_tong` = 1 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-24  00:00:00' AND '2017-07-24 23:59:59' AND `audit_tong` = 2 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-23  00:00:00' AND '2017-07-23 23:59:59' AND `audit_tong` = 2 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-22  00:00:00' AND '2017-07-22 23:59:59' AND `audit_tong` = 2 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-21  00:00:00' AND '2017-07-21 23:59:59' AND `audit_tong` = 2 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-20  00:00:00' AND '2017-07-20 23:59:59' AND `audit_tong` = 2 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-19  00:00:00' AND '2017-07-19 23:59:59' AND `audit_tong` = 2 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-18  00:00:00' AND '2017-07-18 23:59:59' AND `audit_tong` = 2 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 2 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-24  00:00:00' AND '2017-07-24 23:59:59' AND `audit_tong` = 3 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-23  00:00:00' AND '2017-07-23 23:59:59' AND `audit_tong` = 3 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-22  00:00:00' AND '2017-07-22 23:59:59' AND `audit_tong` = 3 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-21  00:00:00' AND '2017-07-21 23:59:59' AND `audit_tong` = 3 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-20  00:00:00' AND '2017-07-20 23:59:59' AND `audit_tong` = 3 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-19  00:00:00' AND '2017-07-19 23:59:59' AND `audit_tong` = 3 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-18  00:00:00' AND '2017-07-18 23:59:59' AND `audit_tong` = 3 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 3 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-24  00:00:00' AND '2017-07-24 23:59:59' AND `audit_tong` = 4 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-23  00:00:00' AND '2017-07-23 23:59:59' AND `audit_tong` = 4 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-22  00:00:00' AND '2017-07-22 23:59:59' AND `audit_tong` = 4 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-21  00:00:00' AND '2017-07-21 23:59:59' AND `audit_tong` = 4 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-20  00:00:00' AND '2017-07-20 23:59:59' AND `audit_tong` = 4 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-19  00:00:00' AND '2017-07-19 23:59:59' AND `audit_tong` = 4 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-18  00:00:00' AND '2017-07-18 23:59:59' AND `audit_tong` = 4 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 4 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-07-24T11:46:09+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/route.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0160s ]
+SQL: SELECT MAX(t_id) AS tp_max FROM `sys_route` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `checking_audit` [ RunTime:0.0140s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 1 ) AND `audit_time` > '2017-07-17 11:46:09' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 2 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 2 ) AND `audit_time` > '2017-07-17 11:46:09' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 3 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 3 ) AND `audit_time` > '2017-07-17 11:46:09' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 4 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 4 ) AND `audit_time` > '2017-07-17 11:46:09' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-07-24T11:46:09+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/columnarRouteList.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0130s ]
+SQL: SELECT `t_id`,`name` FROM `sys_route`  [ RunTime:0.0000s ]
+
+[ 2017-07-24T11:46:18+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/Company/edit.html?companyinfo_id=
+ERR: 1146:Table 'lenovo3c.a_sys_user_attr_company_info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `a_sys_user_attr_company_info`
+
+[ 2017-07-24T11:46:26+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Nva/jquery_003.js
+ERR: 非法操作:jquery_003.js
+
+[ 2017-07-24T11:46:26+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Nva/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T11:46:26+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Nva/jquery_003.js
+ERR: 非法操作:jquery_003.js
+
+[ 2017-07-24T11:46:26+08:00 ] 127.0.0.1 /lbyun/lbyun/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T11:46:26+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Nva/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T11:46:29+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Extension/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T11:46:29+08:00 ] 127.0.0.1 /lbyun/lbyun/Public/Admin/static/userlist/j/lbyun/lbyun/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T11:46:30+08:00 ] 127.0.0.1 /lbyun/lbyun/Public/Admin/static/userlist/j/lbyun/lbyun/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T11:46:30+08:00 ] 127.0.0.1 /lbyun/lbyun/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T11:46:30+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Extension/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T11:49:53+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/Index/index1.html
+ERR: 非法操作:index1
+
+[ 2017-07-24T11:50:05+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/route.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0110s ]
+SQL: SELECT MAX(t_id) AS tp_max FROM `sys_route` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `checking_audit` [ RunTime:0.0110s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 1 ) AND `audit_time` > '2017-07-17 11:50:05' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 2 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 2 ) AND `audit_time` > '2017-07-17 11:50:05' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 3 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 3 ) AND `audit_time` > '2017-07-17 11:50:05' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 4 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 4 ) AND `audit_time` > '2017-07-17 11:50:05' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-07-24T11:50:05+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/columnar.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0150s ]
+SQL: SELECT MAX(t_id) AS tp_max FROM `sys_route` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `checking_audit` [ RunTime:0.0190s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-24  00:00:00' AND '2017-07-24 23:59:59' AND `audit_tong` = 1 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-23  00:00:00' AND '2017-07-23 23:59:59' AND `audit_tong` = 1 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-22  00:00:00' AND '2017-07-22 23:59:59' AND `audit_tong` = 1 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-21  00:00:00' AND '2017-07-21 23:59:59' AND `audit_tong` = 1 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-20  00:00:00' AND '2017-07-20 23:59:59' AND `audit_tong` = 1 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-19  00:00:00' AND '2017-07-19 23:59:59' AND `audit_tong` = 1 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-18  00:00:00' AND '2017-07-18 23:59:59' AND `audit_tong` = 1 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-24  00:00:00' AND '2017-07-24 23:59:59' AND `audit_tong` = 2 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-23  00:00:00' AND '2017-07-23 23:59:59' AND `audit_tong` = 2 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-22  00:00:00' AND '2017-07-22 23:59:59' AND `audit_tong` = 2 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-21  00:00:00' AND '2017-07-21 23:59:59' AND `audit_tong` = 2 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-20  00:00:00' AND '2017-07-20 23:59:59' AND `audit_tong` = 2 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-19  00:00:00' AND '2017-07-19 23:59:59' AND `audit_tong` = 2 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-18  00:00:00' AND '2017-07-18 23:59:59' AND `audit_tong` = 2 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 2 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-24  00:00:00' AND '2017-07-24 23:59:59' AND `audit_tong` = 3 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-23  00:00:00' AND '2017-07-23 23:59:59' AND `audit_tong` = 3 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-22  00:00:00' AND '2017-07-22 23:59:59' AND `audit_tong` = 3 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-21  00:00:00' AND '2017-07-21 23:59:59' AND `audit_tong` = 3 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-20  00:00:00' AND '2017-07-20 23:59:59' AND `audit_tong` = 3 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-19  00:00:00' AND '2017-07-19 23:59:59' AND `audit_tong` = 3 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-18  00:00:00' AND '2017-07-18 23:59:59' AND `audit_tong` = 3 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 3 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-24  00:00:00' AND '2017-07-24 23:59:59' AND `audit_tong` = 4 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-23  00:00:00' AND '2017-07-23 23:59:59' AND `audit_tong` = 4 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-22  00:00:00' AND '2017-07-22 23:59:59' AND `audit_tong` = 4 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-21  00:00:00' AND '2017-07-21 23:59:59' AND `audit_tong` = 4 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-20  00:00:00' AND '2017-07-20 23:59:59' AND `audit_tong` = 4 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-19  00:00:00' AND '2017-07-19 23:59:59' AND `audit_tong` = 4 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-18  00:00:00' AND '2017-07-18 23:59:59' AND `audit_tong` = 4 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 4 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-07-24T11:50:05+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/columnarRouteList.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0130s ]
+SQL: SELECT `t_id`,`name` FROM `sys_route`  [ RunTime:0.0000s ]
+
+[ 2017-07-24T11:50:06+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/product.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-24T11:50:06+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/columnar.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-24T11:50:08+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/area.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-24T11:51:04+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/route.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0080s ]
+SQL: SELECT MAX(t_id) AS tp_max FROM `sys_route` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `checking_audit` [ RunTime:0.0110s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 1 ) AND `audit_time` > '2017-07-17 11:51:04' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 2 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 2 ) AND `audit_time` > '2017-07-17 11:51:04' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 3 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 3 ) AND `audit_time` > '2017-07-17 11:51:04' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 4 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 4 ) AND `audit_time` > '2017-07-17 11:51:04' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-07-24T11:51:12+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/route.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0080s ]
+SQL: SELECT MAX(t_id) AS tp_max FROM `sys_route` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `checking_audit` [ RunTime:0.0150s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 1 ) AND `audit_time` > '2017-07-17 11:51:12' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 2 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 2 ) AND `audit_time` > '2017-07-17 11:51:12' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 3 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 3 ) AND `audit_time` > '2017-07-17 11:51:12' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 4 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 4 ) AND `audit_time` > '2017-07-17 11:51:12' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-07-24T11:51:12+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/product.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-07-24T11:51:12+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/columnar.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-24T11:51:14+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/area.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-24T11:51:15+08:00 ] 127.0.0.1 /lbyun/lbyun/probleminformation/list.do
+ERR: 无法加载控制器:Probleminformation
+
+[ 2017-07-24T11:51:18+08:00 ] 127.0.0.1 /lbyun/lbyun/probleminformation/list.do
+ERR: 无法加载控制器:Probleminformation
+
+[ 2017-07-24T11:51:21+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/route.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0140s ]
+SQL: SELECT MAX(t_id) AS tp_max FROM `sys_route` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `checking_audit` [ RunTime:0.0090s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 1 ) AND `audit_time` > '2017-07-17 11:51:21' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 2 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 2 ) AND `audit_time` > '2017-07-17 11:51:21' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 3 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 3 ) AND `audit_time` > '2017-07-17 11:51:21' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 4 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 4 ) AND `audit_time` > '2017-07-17 11:51:21' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-07-24T11:51:21+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/columnar.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-24T11:51:22+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/columnar.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-24T11:51:22+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/route.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0100s ]
+SQL: SELECT MAX(t_id) AS tp_max FROM `sys_route` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `checking_audit` [ RunTime:0.0110s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 1 ) AND `audit_time` > '2017-07-17 11:51:22' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 2 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 2 ) AND `audit_time` > '2017-07-17 11:51:22' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 3 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 3 ) AND `audit_time` > '2017-07-17 11:51:22' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 4 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 4 ) AND `audit_time` > '2017-07-17 11:51:22' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-07-24T11:51:23+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/columnar.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-24T11:51:23+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/route.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0110s ]
+SQL: SELECT MAX(t_id) AS tp_max FROM `sys_route` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `checking_audit` [ RunTime:0.0110s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 1 ) AND `audit_time` > '2017-07-17 11:51:23' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 2 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 2 ) AND `audit_time` > '2017-07-17 11:51:23' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 3 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 3 ) AND `audit_time` > '2017-07-17 11:51:23' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 4 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 4 ) AND `audit_time` > '2017-07-17 11:51:23' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-07-24T11:51:23+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/InsuranceOutAnalyze/sellerpinganList_data/jquery.js
+ERR: 非法操作:sellerpinganList_data
+
+[ 2017-07-24T11:51:23+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/InsuranceOutAnalyze/sellerpinganList_data/treeTable.css
+ERR: 非法操作:sellerpinganList_data
+
+[ 2017-07-24T11:51:23+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/InsuranceOutAnalyze/sellerpinganList_data/jquery.js
+ERR: 非法操作:sellerpinganList_data
+
+[ 2017-07-24T11:51:23+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/InsuranceOutAnalyze/sellerpinganList_data/treeTable.css
+ERR: 非法操作:sellerpinganList_data
+
+[ 2017-07-24T11:51:24+08:00 ] 127.0.0.1 /lbyun/lbyun/probleminformation/list.do
+ERR: 无法加载控制器:Probleminformation
+
+[ 2017-07-24T11:51:24+08:00 ] 127.0.0.1 /lbyun/lbyun/probleminformation/list.do
+ERR: 无法加载控制器:Probleminformation
+
+[ 2017-07-24T12:55:37+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/Index/index1.html
+ERR: 非法操作:index1
+
+[ 2017-07-24T12:59:29+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/route.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0160s ]
+SQL: SELECT MAX(t_id) AS tp_max FROM `sys_route` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `checking_audit` [ RunTime:0.0140s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 1 ) AND `audit_time` > '2017-07-17 12:59:29' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 2 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 2 ) AND `audit_time` > '2017-07-17 12:59:29' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 3 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 3 ) AND `audit_time` > '2017-07-17 12:59:29' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 4 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 4 ) AND `audit_time` > '2017-07-17 12:59:29' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-07-24T12:59:29+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/columnar.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0160s ]
+SQL: SELECT MAX(t_id) AS tp_max FROM `sys_route` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `checking_audit` [ RunTime:0.0170s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-24  00:00:00' AND '2017-07-24 23:59:59' AND `audit_tong` = 1 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-23  00:00:00' AND '2017-07-23 23:59:59' AND `audit_tong` = 1 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-22  00:00:00' AND '2017-07-22 23:59:59' AND `audit_tong` = 1 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-21  00:00:00' AND '2017-07-21 23:59:59' AND `audit_tong` = 1 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-20  00:00:00' AND '2017-07-20 23:59:59' AND `audit_tong` = 1 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-19  00:00:00' AND '2017-07-19 23:59:59' AND `audit_tong` = 1 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-18  00:00:00' AND '2017-07-18 23:59:59' AND `audit_tong` = 1 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-24  00:00:00' AND '2017-07-24 23:59:59' AND `audit_tong` = 2 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-23  00:00:00' AND '2017-07-23 23:59:59' AND `audit_tong` = 2 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-22  00:00:00' AND '2017-07-22 23:59:59' AND `audit_tong` = 2 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-21  00:00:00' AND '2017-07-21 23:59:59' AND `audit_tong` = 2 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-20  00:00:00' AND '2017-07-20 23:59:59' AND `audit_tong` = 2 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-19  00:00:00' AND '2017-07-19 23:59:59' AND `audit_tong` = 2 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-18  00:00:00' AND '2017-07-18 23:59:59' AND `audit_tong` = 2 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 2 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-24  00:00:00' AND '2017-07-24 23:59:59' AND `audit_tong` = 3 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-23  00:00:00' AND '2017-07-23 23:59:59' AND `audit_tong` = 3 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-22  00:00:00' AND '2017-07-22 23:59:59' AND `audit_tong` = 3 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-21  00:00:00' AND '2017-07-21 23:59:59' AND `audit_tong` = 3 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-20  00:00:00' AND '2017-07-20 23:59:59' AND `audit_tong` = 3 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-19  00:00:00' AND '2017-07-19 23:59:59' AND `audit_tong` = 3 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-18  00:00:00' AND '2017-07-18 23:59:59' AND `audit_tong` = 3 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 3 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-24  00:00:00' AND '2017-07-24 23:59:59' AND `audit_tong` = 4 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-23  00:00:00' AND '2017-07-23 23:59:59' AND `audit_tong` = 4 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-22  00:00:00' AND '2017-07-22 23:59:59' AND `audit_tong` = 4 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-21  00:00:00' AND '2017-07-21 23:59:59' AND `audit_tong` = 4 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-20  00:00:00' AND '2017-07-20 23:59:59' AND `audit_tong` = 4 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-19  00:00:00' AND '2017-07-19 23:59:59' AND `audit_tong` = 4 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE `audit_time` BETWEEN '2017-07-18  00:00:00' AND '2017-07-18 23:59:59' AND `audit_tong` = 4 AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 4 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-07-24T12:59:29+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/columnarRouteList.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0130s ]
+SQL: SELECT `t_id`,`name` FROM `sys_route`  [ RunTime:0.0000s ]
+
+[ 2017-07-24T12:59:30+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/columnar.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-24T12:59:30+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/product.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-24T12:59:44+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Login/undefined?1500872384325
+ERR: 非法操作:undefined
+
+[ 2017-07-24T13:01:35+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Login/undefined?1500872495030
+ERR: 非法操作:undefined
+
+[ 2017-07-24T13:01:58+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Login/undefined?1500872518220
+ERR: 非法操作:undefined
+
+[ 2017-07-24T13:02:47+08:00 ] 127.0.0.1 /lbyun/lbyun/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T13:02:52+08:00 ] 127.0.0.1 /lbyun/lbyun/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T13:04:49+08:00 ] 127.0.0.1 /lbyun/lbyun/Public/Admin/static/userlist/j/lbyun/lbyun/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T13:04:49+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Product/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T13:04:49+08:00 ] 127.0.0.1 /lbyun/lbyun/Public/Admin/static/userlist/j/lbyun/lbyun/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T13:04:49+08:00 ] 127.0.0.1 /lbyun/lbyun/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T13:04:49+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Product/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T13:28:02+08:00 ] 127.0.0.1 /lbyun/lbyun/Public/Admin/static/userlist/j/lbyun/lbyun/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T13:28:02+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T13:28:02+08:00 ] 127.0.0.1 /lbyun/lbyun/Public/Admin/static/userlist/j/lbyun/lbyun/Public/Admin/static/userlist/query_006.js
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T13:28:03+08:00 ] 127.0.0.1 /lbyun/lbyun/Public/Admin/static/userlist/skin/WdatePicker.css
+ERR: 无法加载控制器:Public
+
+[ 2017-07-24T13:28:03+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Lnstru/WdatePicker.css
+ERR: 非法操作:WdatePicker.css
+
+[ 2017-07-24T13:29:50+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/columnar.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-24T13:29:50+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/route.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0100s ]
+SQL: SELECT MAX(t_id) AS tp_max FROM `sys_route` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `checking_audit` [ RunTime:0.0120s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 1 ) AND `audit_time` > '2017-07-17 13:29:50' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 2 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 2 ) AND `audit_time` > '2017-07-17 13:29:50' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 3 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 3 ) AND `audit_time` > '2017-07-17 13:29:50' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 4 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 4 ) AND `audit_time` > '2017-07-17 13:29:50' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-07-24T13:30:12+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Index/Admin/InsuranceOutAnalyze/route
+ERR: 非法操作:Admin
+
+[ 2017-07-24T13:30:14+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/route.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0130s ]
+SQL: SELECT MAX(t_id) AS tp_max FROM `sys_route` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `checking_audit` [ RunTime:0.0110s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 1 ) AND `audit_time` > '2017-07-17 13:30:14' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 2 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 2 ) AND `audit_time` > '2017-07-17 13:30:14' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 3 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 3 ) AND `audit_time` > '2017-07-17 13:30:14' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 4 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 4 ) AND `audit_time` > '2017-07-17 13:30:14' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-07-24T13:30:14+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/columnar.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-24T13:30:15+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Index/Admin/InsuranceOutAnalyze/route
+ERR: 非法操作:Admin
+
+[ 2017-07-24T13:30:19+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/route.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0100s ]
+SQL: SELECT MAX(t_id) AS tp_max FROM `sys_route` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `checking_audit` [ RunTime:0.0120s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 1 ) AND `audit_time` > '2017-07-17 13:30:19' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 2 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 2 ) AND `audit_time` > '2017-07-17 13:30:19' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 3 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 3 ) AND `audit_time` > '2017-07-17 13:30:19' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 4 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 4 ) AND `audit_time` > '2017-07-17 13:30:19' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-07-24T13:30:19+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/columnar.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-24T13:30:20+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/route.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0110s ]
+SQL: SELECT MAX(t_id) AS tp_max FROM `sys_route` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `checking_audit` [ RunTime:0.0090s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 1 ) AND `audit_time` > '2017-07-17 13:30:20' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 2 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 2 ) AND `audit_time` > '2017-07-17 13:30:20' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 3 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 3 ) AND `audit_time` > '2017-07-17 13:30:20' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 4 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 4 ) AND `audit_time` > '2017-07-17 13:30:20' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-07-24T13:30:20+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/columnar.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-24T13:30:23+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/columnar.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-24T13:30:23+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/area.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-24T13:30:26+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/InsuranceOutAnalyze/sellerpinganList_data/treeTable.css
+ERR: 非法操作:sellerpinganList_data
+
+[ 2017-07-24T13:30:26+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/InsuranceOutAnalyze/sellerpinganList_data/jquery.js
+ERR: 非法操作:sellerpinganList_data
+
+[ 2017-07-24T13:30:26+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/InsuranceOutAnalyze/sellerpinganList_data/jquery.js
+ERR: 非法操作:sellerpinganList_data
+
+[ 2017-07-24T13:30:26+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/InsuranceOutAnalyze/sellerpinganList_data/treeTable.css
+ERR: 非法操作:sellerpinganList_data
+
+[ 2017-07-24T13:30:29+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Index/probleminformation/list.do
+ERR: 非法操作:probleminformation
+
+[ 2017-07-24T16:40:53+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/route.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0060s ]
+SQL: SELECT MAX(t_id) AS tp_max FROM `sys_route` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `checking_audit` [ RunTime:0.0100s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 1 ) AND `audit_time` > '2017-07-17 16:40:53' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 2 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 2 ) AND `audit_time` > '2017-07-17 16:40:53' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 3 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 3 ) AND `audit_time` > '2017-07-17 16:40:53' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 4 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 4 ) AND `audit_time` > '2017-07-17 16:40:53' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-07-24T16:40:53+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/columnar.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009001s ]
+
+[ 2017-07-24T16:40:54+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/columnar.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-24T16:40:54+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/route.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `sys_route` [ RunTime:0.0060s ]
+SQL: SELECT MAX(t_id) AS tp_max FROM `sys_route` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `checking_audit` [ RunTime:0.0060s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 1 ) AND `audit_time` > '2017-07-17 16:40:54' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 2 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 2 ) AND `audit_time` > '2017-07-17 16:40:54' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 3 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 3 ) AND `audit_time` > '2017-07-17 16:40:54' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `sys_route` WHERE ( t_id = 4 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `checking_audit` WHERE ( audit_tong = 4 ) AND `audit_time` > '2017-07-17 16:40:54' AND `audit_decision` = 1 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-07-24T16:40:55+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/area.html?day=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-24T16:40:55+08:00 ] 127.0.0.1 /lbyun/lbyun/index.php/Admin/SaleAnalyze/columnar.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

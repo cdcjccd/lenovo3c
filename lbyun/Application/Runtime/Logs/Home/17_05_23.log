@@ -1,0 +1,1746 @@
+[ 2017-05-23T09:03:30+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-05-23T09:03:30+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jQuery.md5.js
+ERR: 非法操作:js
+
+[ 2017-05-23T09:03:30+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jquery-1.7.2.js
+ERR: 非法操作:js
+
+[ 2017-05-23T09:03:30+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jquery.tips.js
+ERR: 非法操作:js
+
+[ 2017-05-23T09:03:30+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jquery-1.7.2.js
+ERR: 非法操作:js
+
+[ 2017-05-23T09:03:30+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jQuery.md5.js
+ERR: 非法操作:js
+
+[ 2017-05-23T09:03:30+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jquery.tips.js
+ERR: 非法操作:js
+
+[ 2017-05-23T09:03:30+08:00 ] 127.0.0.1 /index.php/Home/Index/js/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-05-23T09:03:30+08:00 ] 127.0.0.1 /index.php/Home/Index/code.do?t=1495501410775
+ERR: 非法操作:code.do
+
+[ 2017-05-23T09:07:53+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495501673845
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T09:09:47+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495501787665
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T09:09:53+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495501793821
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T09:21:13+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495502473112
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T09:21:14+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495502474149
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T09:21:29+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495502489286
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T09:21:42+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495502502465
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T09:31:54+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495503114792
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T09:32:01+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495503121912
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T09:33:56+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495503236867
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T09:34:01+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495503241597
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T09:34:15+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495503255118
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T09:35:14+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495503314299
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T09:35:34+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495503334334
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T09:35:35+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T09:35:36+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T09:37:46+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495503466116
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T09:37:47+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T09:37:47+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T09:38:06+08:00 ] 127.0.0.1 /lby/Admin/Company/edit?COMPANYINFO_ID=36dc82c17b964c0593dbfa6a942c29a5
+ERR: 无法加载控制器:Lby
+
+[ 2017-05-23T09:39:43+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495503583851
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T09:39:45+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T09:39:45+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T09:39:46+08:00 ] 127.0.0.1 /lby/Admin/Company/edit?COMPANYINFO_ID=36dc82c17b964c0593dbfa6a942c29a5
+ERR: 无法加载控制器:Lby
+
+[ 2017-05-23T09:40:44+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495503644322
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T09:40:45+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T09:40:45+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T09:41:24+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495503683908
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T09:41:25+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T09:41:25+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T09:41:58+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495503718143
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T09:42:00+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T09:42:00+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T09:42:48+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495503768692
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T09:43:00+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495503780089
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T09:43:01+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T09:43:01+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T09:46:54+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495504014340
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T09:47:00+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T09:47:00+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T09:47:47+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495504067740
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T09:47:54+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T09:47:54+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T09:49:17+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495504157139
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T09:49:24+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T09:49:24+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T09:51:04+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495504264595
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T09:51:07+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T09:51:07+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T09:52:44+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T09:52:44+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495504364474
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T09:52:44+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T09:53:02+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495504382719
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T09:53:06+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T09:53:06+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:03:27+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495505007708
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T10:07:36+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495505256495
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T10:07:43+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495505263700
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T10:08:11+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495505290991
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T10:08:34+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495505314447
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T10:09:43+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495505383162
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T10:09:58+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495505398776
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T10:10:48+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495505448627
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T10:11:09+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495505469422
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T10:12:53+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495505573176
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T10:13:09+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495505589075
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T10:13:28+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495505608372
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T10:14:19+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495505659723
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T10:14:50+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495505690601
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T10:15:12+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495505712842
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T10:34:12+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495506852467
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T10:34:16+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:34:16+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:35:37+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495506937516
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T10:35:45+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:35:45+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:35:46+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495506946340
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T10:38:45+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495507125073
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T10:38:47+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:38:47+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:16+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495507816089
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T10:50:21+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:21+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:25+08:00 ] 127.0.0.1 /Public/plugins/webuploader/webuploader.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:25+08:00 ] 127.0.0.1 /Public/static/ace/css/bootstrap.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:25+08:00 ] 127.0.0.1 /Public/static/ace/js/ace-extra.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:25+08:00 ] 127.0.0.1 /Public/static/ace/css/font-awesome.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:25+08:00 ] 127.0.0.1 /Public/plugins/webuploader/style.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:25+08:00 ] 127.0.0.1 /Public/static/ace/css/ace-fonts.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:25+08:00 ] 127.0.0.1 /Public/static/ace/js/ace/ace.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:25+08:00 ] 127.0.0.1 /Public/static/ace/js/bootstrap.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:25+08:00 ] 127.0.0.1 /Public/static/ace/css/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:25+08:00 ] 127.0.0.1 /Public/plugins/webuploader/upload.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:25+08:00 ] 127.0.0.1 /Public/plugins/webuploader/webuploader.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:26+08:00 ] 127.0.0.1 /Public/plugins/webuploader/webuploader.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:26+08:00 ] 127.0.0.1 /Public/plugins/webuploader/style.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:26+08:00 ] 127.0.0.1 /Public/static/ace/js/jquery.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:26+08:00 ] 127.0.0.1 /Public/static/ace/js/bootstrap.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:26+08:00 ] 127.0.0.1 /Public/static/ace/js/ace/ace.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:26+08:00 ] 127.0.0.1 /Public/plugins/webuploader/webuploader.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:26+08:00 ] 127.0.0.1 /Public/plugins/webuploader/upload.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:32+08:00 ] 127.0.0.1 /Public/static/ace/css/font-awesome.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:32+08:00 ] 127.0.0.1 /Public/static/ace/css/bootstrap.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:32+08:00 ] 127.0.0.1 /Public/plugins/webuploader/style.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:32+08:00 ] 127.0.0.1 /Public/static/ace/css/ace-fonts.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:32+08:00 ] 127.0.0.1 /Public/static/ace/js/bootstrap.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:32+08:00 ] 127.0.0.1 /Public/static/ace/js/ace-extra.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:32+08:00 ] 127.0.0.1 /Public/static/ace/js/ace/ace.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:32+08:00 ] 127.0.0.1 /Public/plugins/webuploader/webuploader.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:32+08:00 ] 127.0.0.1 /Public/plugins/webuploader/webuploader.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:32+08:00 ] 127.0.0.1 /Public/static/ace/css/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:32+08:00 ] 127.0.0.1 /Public/plugins/webuploader/upload.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:32+08:00 ] 127.0.0.1 /Public/plugins/webuploader/webuploader.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:32+08:00 ] 127.0.0.1 /Public/plugins/webuploader/style.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:32+08:00 ] 127.0.0.1 /Public/static/ace/js/jquery.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:32+08:00 ] 127.0.0.1 /Public/static/ace/js/bootstrap.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:32+08:00 ] 127.0.0.1 /Public/static/ace/js/ace/ace.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:32+08:00 ] 127.0.0.1 /Public/plugins/webuploader/webuploader.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:32+08:00 ] 127.0.0.1 /Public/plugins/webuploader/upload.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:58+08:00 ] 127.0.0.1 /Public/static/ace/css/bootstrap.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:58+08:00 ] 127.0.0.1 /Public/static/ace/css/font-awesome.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:58+08:00 ] 127.0.0.1 /Public/static/ace/js/ace-extra.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:58+08:00 ] 127.0.0.1 /Public/static/ace/css/ace-fonts.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:58+08:00 ] 127.0.0.1 /Public/plugins/webuploader/webuploader.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:58+08:00 ] 127.0.0.1 /Public/static/ace/css/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:58+08:00 ] 127.0.0.1 /Public/plugins/webuploader/style.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:58+08:00 ] 127.0.0.1 /Public/static/ace/js/bootstrap.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:58+08:00 ] 127.0.0.1 /Public/static/ace/js/ace/ace.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:58+08:00 ] 127.0.0.1 /Public/plugins/webuploader/webuploader.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:58+08:00 ] 127.0.0.1 /Public/plugins/webuploader/upload.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:58+08:00 ] 127.0.0.1 /Public/plugins/webuploader/style.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:58+08:00 ] 127.0.0.1 /Public/plugins/webuploader/webuploader.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:58+08:00 ] 127.0.0.1 /Public/static/ace/js/jquery.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:58+08:00 ] 127.0.0.1 /Public/static/ace/js/bootstrap.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:58+08:00 ] 127.0.0.1 /Public/static/ace/js/ace/ace.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:58+08:00 ] 127.0.0.1 /Public/plugins/webuploader/webuploader.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:50:58+08:00 ] 127.0.0.1 /Public/plugins/webuploader/upload.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:02+08:00 ] 127.0.0.1 /Public/static/ace/css/bootstrap.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:02+08:00 ] 127.0.0.1 /Public/static/ace/css/ace-fonts.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:02+08:00 ] 127.0.0.1 /Public/plugins/webuploader/style.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:02+08:00 ] 127.0.0.1 /Public/static/ace/js/ace-extra.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:02+08:00 ] 127.0.0.1 /Public/static/ace/css/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:02+08:00 ] 127.0.0.1 /Public/plugins/webuploader/webuploader.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:02+08:00 ] 127.0.0.1 /Public/static/ace/css/font-awesome.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:02+08:00 ] 127.0.0.1 /Public/static/ace/js/ace/ace.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:02+08:00 ] 127.0.0.1 /Public/static/ace/js/bootstrap.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:02+08:00 ] 127.0.0.1 /Public/plugins/webuploader/upload.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:02+08:00 ] 127.0.0.1 /Public/plugins/webuploader/webuploader.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:02+08:00 ] 127.0.0.1 /Public/plugins/webuploader/style.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:02+08:00 ] 127.0.0.1 /Public/plugins/webuploader/webuploader.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:02+08:00 ] 127.0.0.1 /Public/static/ace/js/jquery.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:02+08:00 ] 127.0.0.1 /Public/static/ace/js/bootstrap.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:02+08:00 ] 127.0.0.1 /Public/static/ace/js/ace/ace.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:02+08:00 ] 127.0.0.1 /Public/plugins/webuploader/webuploader.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:03+08:00 ] 127.0.0.1 /Public/plugins/webuploader/upload.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:17+08:00 ] 127.0.0.1 /Public/static/ace/css/bootstrap.min.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:17+08:00 ] 127.0.0.1 /Public/plugins/webuploader/style.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:17+08:00 ] 127.0.0.1 /Public/static/ace/css/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:17+08:00 ] 127.0.0.1 /Public/static/ace/css/font-awesome.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:17+08:00 ] 127.0.0.1 /Public/plugins/webuploader/webuploader.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:17+08:00 ] 127.0.0.1 /Public/static/ace/js/bootstrap.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:17+08:00 ] 127.0.0.1 /Public/plugins/webuploader/webuploader.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:17+08:00 ] 127.0.0.1 /Public/plugins/webuploader/upload.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:17+08:00 ] 127.0.0.1 /Public/static/ace/js/ace/ace.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:17+08:00 ] 127.0.0.1 /Public/static/ace/css/ace-fonts.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:17+08:00 ] 127.0.0.1 /Public/static/ace/js/ace-extra.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:17+08:00 ] 127.0.0.1 /Public/plugins/webuploader/webuploader.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:17+08:00 ] 127.0.0.1 /Public/plugins/webuploader/style.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:18+08:00 ] 127.0.0.1 /Public/static/ace/js/jquery.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:18+08:00 ] 127.0.0.1 /Public/static/ace/js/bootstrap.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:18+08:00 ] 127.0.0.1 /Public/static/ace/js/ace/ace.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:18+08:00 ] 127.0.0.1 /Public/plugins/webuploader/webuploader.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:51:18+08:00 ] 127.0.0.1 /Public/plugins/webuploader/upload.js
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:52:52+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495507972532
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T10:52:54+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:52:54+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:54:01+08:00 ] 127.0.0.1 /index.php/pictures/save.do
+ERR: 无法加载控制器:Pictures
+
+[ 2017-05-23T10:54:12+08:00 ] 127.0.0.1 /index.php/pictures/save.do
+ERR: 无法加载控制器:Pictures
+
+[ 2017-05-23T10:57:17+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495508237295
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T10:57:56+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:57:56+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T10:58:06+08:00 ] 127.0.0.1 /index.php/pictures/save.do
+ERR: 无法加载控制器:Pictures
+
+[ 2017-05-23T10:58:11+08:00 ] 127.0.0.1 /index.php/pictures/save.do
+ERR: 无法加载控制器:Pictures
+
+[ 2017-05-23T10:58:12+08:00 ] 127.0.0.1 /index.php/pictures/save.do
+ERR: 无法加载控制器:Pictures
+
+[ 2017-05-23T10:58:12+08:00 ] 127.0.0.1 /index.php/pictures/save.do
+ERR: 无法加载控制器:Pictures
+
+[ 2017-05-23T10:58:13+08:00 ] 127.0.0.1 /index.php/pictures/save.do
+ERR: 无法加载控制器:Pictures
+
+[ 2017-05-23T10:58:13+08:00 ] 127.0.0.1 /index.php/pictures/save.do
+ERR: 无法加载控制器:Pictures
+
+[ 2017-05-23T10:58:14+08:00 ] 127.0.0.1 /index.php/pictures/save.do
+ERR: 无法加载控制器:Pictures
+
+[ 2017-05-23T11:08:56+08:00 ] 127.0.0.1 /index.php/pictures/save.do
+ERR: 无法加载控制器:Pictures
+
+[ 2017-05-23T11:09:16+08:00 ] 127.0.0.1 /index.php/pictures/save.do
+ERR: 无法加载控制器:Pictures
+
+[ 2017-05-23T11:09:38+08:00 ] 127.0.0.1 /index.php/pictures/save.do
+ERR: 无法加载控制器:Pictures
+
+[ 2017-05-23T11:09:45+08:00 ] 127.0.0.1 /index.php/pictures/save.do
+ERR: 无法加载控制器:Pictures
+
+[ 2017-05-23T11:09:45+08:00 ] 127.0.0.1 /index.php/pictures/save.do
+ERR: 无法加载控制器:Pictures
+
+[ 2017-05-23T11:09:47+08:00 ] 127.0.0.1 /index.php/pictures/save.do
+ERR: 无法加载控制器:Pictures
+
+[ 2017-05-23T11:09:47+08:00 ] 127.0.0.1 /index.php/pictures/save.do
+ERR: 无法加载控制器:Pictures
+
+[ 2017-05-23T11:09:48+08:00 ] 127.0.0.1 /index.php/pictures/save.do
+ERR: 无法加载控制器:Pictures
+
+[ 2017-05-23T11:09:48+08:00 ] 127.0.0.1 /index.php/pictures/save.do
+ERR: 无法加载控制器:Pictures
+
+[ 2017-05-23T11:16:11+08:00 ] 127.0.0.1 /index.php/pictures/save.do
+ERR: 无法加载控制器:Pictures
+
+[ 2017-05-23T11:18:54+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495509534599
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T11:18:56+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T11:18:57+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T11:19:11+08:00 ] 127.0.0.1 /index.php/pictures/save.do
+ERR: 无法加载控制器:Pictures
+
+[ 2017-05-23T11:19:11+08:00 ] 127.0.0.1 /index.php/pictures/save.do
+ERR: 无法加载控制器:Pictures
+
+[ 2017-05-23T11:39:28+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495510768828
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T11:39:30+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T11:39:31+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T11:43:50+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495511030225
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T11:47:14+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495511234058
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T11:47:15+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T11:47:15+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T11:49:06+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495511346425
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T11:51:07+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495511467028
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T11:51:08+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T11:51:08+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T11:51:31+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495511491495
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T11:51:33+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T11:51:33+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T11:51:59+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495511519795
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T11:52:02+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T11:52:02+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T11:52:21+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495511541094
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T11:52:23+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T11:52:23+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T11:53:10+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495511590343
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T11:53:13+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T11:53:13+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:20:23+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495524023423
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T15:20:26+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:20:26+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:22:08+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495524128296
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T15:22:09+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:22:09+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:22:11+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:22:11+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:23:55+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495524235686
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T15:23:58+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:23:58+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:24:16+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495524256115
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T15:24:18+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:24:18+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:35:29+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495524929780
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T15:35:30+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:35:30+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:38:20+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495525100158
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T15:38:21+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:38:21+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:39:32+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495525172686
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T15:39:34+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:39:34+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:40:21+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495525221024
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T15:40:42+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495525242210
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T15:40:43+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:40:43+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:41:30+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495525290423
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T15:41:38+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495525298076
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T15:41:39+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:41:39+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:44:34+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495525473962
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T15:44:35+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:44:35+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:45:56+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495525556901
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T15:45:58+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:45:58+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:48:15+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495525695346
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T15:48:16+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:48:16+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:49:14+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495525754242
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T15:49:16+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:49:16+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:49:41+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495525781421
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T15:50:49+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495525849522
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T15:50:51+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:50:51+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:52:19+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495525939622
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T15:52:21+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:52:21+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:53:03+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495525983610
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T15:53:04+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T15:53:05+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:04:28+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495526668054
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T16:04:57+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495526697167
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T16:04:58+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:04:58+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:06:08+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495526768816
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T16:06:10+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:06:10+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:07:57+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495526877147
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T16:14:06+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495527246532
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T16:14:08+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:14:08+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:14:50+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495527290592
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T16:14:52+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:14:52+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:26:05+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495527965871
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T16:26:22+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495527981922
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T16:26:23+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:26:23+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:27:33+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495528053663
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T16:27:35+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:27:35+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:28:56+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495528136366
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T16:28:57+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:28:57+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:29:22+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:29:22+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:31:17+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:31:17+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:31:17+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:31:17+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:31:29+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:31:29+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:31:30+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:31:30+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:31:34+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495528294750
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T16:31:38+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:31:38+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:33:41+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495528421590
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T16:33:42+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:33:43+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:41:50+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:41:50+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:43:58+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495529038768
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T16:44:01+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495529041093
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T16:44:02+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:44:02+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:44:18+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:44:18+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:45:05+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:45:05+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495529105097
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T16:45:05+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:45:21+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:45:21+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:46:44+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495529204654
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T16:49:49+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495529389120
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T16:49:52+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:49:52+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:51:09+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495529469785
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T16:51:12+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:51:12+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:53:40+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495529620220
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T16:53:44+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:53:44+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:55:13+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495529712965
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T16:55:14+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:55:15+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:57:51+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495529871378
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T16:57:53+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:57:53+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:58:19+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495529899896
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T16:58:22+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T16:58:22+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:07:00+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495530420522
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T17:07:01+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:07:01+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:07:03+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:07:03+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:07:07+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:07:07+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:07:09+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:07:10+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:07:10+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:07:23+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495530443715
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T17:07:24+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:07:25+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:08:15+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:08:15+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:08:19+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495530499745
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T17:08:20+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:08:20+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:08:21+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:08:21+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:08:51+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495530531477
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T17:08:52+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:08:52+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:09:09+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:09:10+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:09:29+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:09:29+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:18:19+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:18:19+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:21:04+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495531264220
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T17:21:06+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:21:06+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:21:45+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495531305117
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T17:21:47+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:21:47+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:33:56+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495532036634
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T17:33:59+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:33:59+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:34:19+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:34:19+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:44:46+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495532686782
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T17:44:48+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:44:48+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:46:03+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495532763125
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T17:46:05+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:46:05+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:46:08+08:00 ] 127.0.0.1 /history(-1)
+ERR: 无法加载控制器:History(-1)
+
+[ 2017-05-23T17:47:24+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495532844539
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T17:47:26+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:47:26+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:47:29+08:00 ] 127.0.0.1 /hiatory(-1)
+ERR: 无法加载控制器:Hiatory(-1)
+
+[ 2017-05-23T17:47:43+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495532863657
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T17:47:45+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:47:45+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:47:48+08:00 ] 127.0.0.1 /history(-1)
+ERR: 无法加载控制器:History(-1)
+
+[ 2017-05-23T17:48:29+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495532909407
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T17:48:31+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:48:32+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:48:34+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:48:34+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:48:43+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:48:43+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:48:55+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495532935289
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T17:49:00+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:49:00+08:00 ] 127.0.0.1 /Public/Admin/static/ace/css/less/ace.css
+ERR: 无法加载控制器:Public
+
+[ 2017-05-23T17:53:41+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495533221499
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T17:54:16+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495533256173
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T17:54:39+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495533278973
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T18:00:38+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495533638632
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T18:04:00+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495533840549
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T18:22:52+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495534972595
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T18:23:34+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495535014092
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T18:23:50+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495535029951
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T18:24:02+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495535042722
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T18:24:20+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495535060229
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T18:24:41+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495535081293
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T18:24:47+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495535087554
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T18:25:13+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495535113768
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T18:25:27+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495535127781
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T18:25:44+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495535144119
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T18:26:01+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495535161165
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T18:26:33+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495535193856
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T18:26:54+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495535213898
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T18:27:08+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495535227972
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T18:27:31+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495535251139
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T18:28:10+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495535290601
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+
+[ 2017-05-23T18:28:44+08:00 ] 127.0.0.1 /index.php/head/getList.do?tm=1495535323889
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Head
+

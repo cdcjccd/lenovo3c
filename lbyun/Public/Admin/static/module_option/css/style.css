@@ -1,0 +1,124 @@
+html, body {
+	color:#222; 
+	font-family:"微软雅黑"; 
+	margin:0; 
+	padding: 0; 
+	text-decoration: none; 
+}
+.clearfix{
+	clear:both;
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
+	margin:0; 
+	padding:0; 
+}
+img { 
+	border:0; 
+}
+ol, ul {
+	list-style: none outside none; 
+	margin:0; padding: 0; 
+}
+a {
+	color:#000000; 
+	text-decoration: none; 
+}
+.clr {
+	display:block;
+	clear:both; 
+	height:0; 
+	overflow:hidden; 
+}
+.copyright {
+	padding:30px 20px 0 20px; 
+	text-align:center;
+	font-size:14px;
+	color:#666;
+	line-height:25px;
+}
+.copyright a {
+	color:#666;
+}
+/* h2 {
+	font-size:16px;
+	border:1px solid red;
+} */
+body {
+	background-color:#eee; 
+}
+body .logo h2{
+	font-size:20px;
+	margin:0px auto;
+	text-align: center;
+}
+/*icon*/
+.icon-editor{
+	margin:0 10px;
+	margin-top:20px;
+	display: block;
+	clear:both;
+}
+.icon-editor li{
+	float:left;
+	width:50%;
+	border:1px solid #d9d9d9;
+	box-sizing:border-box;
+	border-bottom:none;
+}
+.icon-editor li span{
+	float:left;
+	line-height:80px;
+	margin-left:10px;
+}
+.icon-editor li div{
+	float:right;
+	width:60px;
+	height:60px;
+	border-radius:50%;
+	overflow:hidden;
+	margin-top:10px;
+	margin-right:10px;
+}
+.icon-editor li div img{
+	width:100%;
+}
+
+
+/*增加删除按钮*/
+.add_button{
+	margin-left:2%;
+	padding-top:20px;
+	clear:both;
+}
+.add_button span{
+	cursor:pointer;
+	display:block;
+	width:50px;
+	height:50px;
+	padding:0;
+	text-align: center;
+	background:#488ecd;
+	border-radius:50%;
+	color:#fff;
+	line-height:40px;
+	font-size:50px;
+	float:left;
+	margin-right:20px;
+}
+.add_button span:nth-of-type(1){
+	background:#488ecd;
+}
+.add_button span:nth-of-type(2){
+	background:#8b1732;
+}
+.add_button span:nth-of-type(1):hover{
+	background:#2a7bbf;
+}
+.add_button span:nth-of-type(2):hover{
+	background:#610f22;
+}
+
+
+
+
+

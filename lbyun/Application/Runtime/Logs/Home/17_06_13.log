@@ -1,0 +1,15 @@
+[ 2017-06-13T16:53:33+08:00 ] 127.0.0.1 /lby/home/login.login
+ERR: 无法加载控制器:Login.login
+
+[ 2017-06-13T16:54:13+08:00 ] 127.0.0.1 /lby/home/login/undefined?1497344053012
+ERR: 非法操作:undefined
+
+[ 2017-06-13T16:55:02+08:00 ] 127.0.0.1 /lby/home/login/login_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+ERR: 非法操作:login_login
+
+[ 2017-06-13T17:04:33+08:00 ] 127.0.0.1 /lby/index.php/Home/Index/login.html
+ERR: 非法操作:login
+

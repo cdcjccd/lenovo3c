@@ -1,0 +1,17 @@
+/*可以在这里添加你自己的css*/
+img{
+/* 	width:100%;
+	display:block;
+	margin:0;
+	padding:0; */
+	/* height: auto; 
+	width: auto\9; 
+	width:100%; */
+	/*max-width:750px;*/
+	display:block;
+	margin:0 auto;
+}
+p{
+	margin:0;
+	padding:0;
+}

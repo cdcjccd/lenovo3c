@@ -1,0 +1,350 @@
+<?php if (!defined('THINK_PATH')) exit();?><html>
+	<head>
+		<meta charset="UTF-8">
+		<title>联系我们</title>
+		<base href="<%=basePath%>">
+		<link rel="stylesheet" href="/yjc/lby/Public/Home/public/css/commen.css">
+		<link rel="stylesheet" href="/yjc/lby/Public/Home/public/css/shoufei.css">
+		<link href="/yjc/lby/Public/Home/public/css/datouwang.css" rel="stylesheet" type="text/css" />
+		<style type="text/css">
+		    .iw_poi_title {color:#CC5522;font-size:14px;font-weight:bold;overflow:hidden;padding-right:13px;white-space:nowrap}
+		    .iw_poi_content {font:12px arial,sans-serif;overflow:visible;padding-top:4px;white-space:-moz-pre-wrap;word-wrap:break-word}
+		    /*雪碧图*/
+.Sprite {
+    position: fixed;
+    bottom: 290px;
+    right: 0px;
+
+}
+.Sprite ul{
+    width: 34px;
+    height: 38px;
+}
+.Sprite ul li{
+    background: url("/yjc/lby/Public/Home/public/images/images/CSS_Satyr.png") no-repeat;
+    width: 34px;
+    height: 38px;
+    margin-bottom: 8px;
+}
+.Sprite ul li:nth-of-type(1):hover{
+    background-position:0  -200px;
+}
+.Sprite ul li:nth-of-type(2){
+    background-position:0  -50px;
+}
+.Sprite ul li:nth-of-type(2):hover{
+    background-position:0  -250px;
+}
+.Sprite ul li:nth-of-type(3){
+    background-position:0  -100px;
+}
+.Sprite ul li:nth-of-type(3):hover{
+    background-position:0  -300px;
+}
+.Sprite ul li:nth-of-type(4){
+    background-position:0  -150px;
+}
+.Sprite ul li:nth-of-type(4):hover{
+    background-position:0  -350px;
+}
+.MPAQCode{
+    position: fixed;
+    bottom: 200px;
+    right: 50px;
+    display: none;
+}
+
+.PreSaleTelephone{
+    width: 403px;
+    height: 212px;
+    border: 1px solid #c5d8db;
+    border-top: 5px solid #00c1de;
+    padding-top: 30px;
+    font-size: 14px;
+    background:#fff;
+    position: fixed;
+    right: 50px;
+    bottom: 100px;
+    display: none;
+
+}
+.PreSaleTelephone .top img{
+    float: left;
+    margin-right:25px;
+    margin-left: 74px;
+    margin-top:5px;
+}
+.PreSaleTelephone .top{
+    overflow: hidden;
+    height: 45px;
+    margin-bottom:55px;
+
+}
+.PreSaleTelephone .top div:first-of-type{
+    color: #5d6265;
+    height: 27px;
+}
+.PreSaleTelephone .top div:last-of-type{
+    color: #ffa63d;
+}
+.PreSaleTelephone ul li{
+    float: left;
+    width: 161px;
+    height: 30px;    
+    padding-left: 40px;
+
+}
+.PreSaleTelephone ul li a{
+    color: #acb3b7;
+}
+			
+		</style>
+		<script type="text/javascript" src="http://api.map.baidu.com/api?key=&v=1.1&services=true"></script>
+	</head>
+	<body>
+<!--导航-->
+		<div class="nav">
+	    	<a href="index.html" target="_blank">
+	    		<img class="logo" src="/yjc/lby/Public/Home/public/images/logo.png">
+	    		<img class="logo" src="/yjc/lby/Public/Home/public/images/05.gif" style="height:36px; margin-left:20px;">
+	    	</a>
+	    	<p>Beta</p>
+	        <ul class="nav_center">
+	        	<li><a href="<?php echo U('Home/Index/index');?>" target="_blank">首页</a></li>
+	            <li><a href="<?php echo U('Home/Index/aboutus');?>" >关于联保云</a></li>
+	            <li><a href="<?php echo U('Home/Index/caseshow');?>">方案展示</a></li>
+	            <li><a href="<?php echo U('Home/Index/cost');?>">产品报价</a></li>
+	            <li><a href="<?php echo U('Home/Index/contactus');?>">联系我们</a></li>
+	             
+	        </ul>
+	        <ul class="nav_right">
+	        <li><a href=" javascript:void(0);" >管理中心</a></li>            <!-- onclick="cooklogin()" -->
+            <li><a href="<?php echo U('Home/Index/login');?>">登录</a></li>
+            <li><a href="<?php echo U('Home/Index/login');?>" target="_blank">注册</a></li>
+	        </ul>
+	        <div class="clearfix"></div>
+	    </div>
+<!--banner-->
+	    <div class="conact_banner">
+           <!--  <a target="_blank"><img src="/yjc/lby/Public/Home/public/images/lianxi.jpg" style="opacity: 1; "></a> -->
+        </div>
+<!--电话-->
+		<div class="title_anli">
+			<h3>联系我们</h3>
+			<p></p>
+		</div>
+		<div class="content_lianxi">
+			
+			<div class="content_right">
+				<ul>
+					<li><h1>联系方式</h1></li>
+					<li><h2>Wlecome to CONSULT US</h2></li>
+					<li class="content_rexian">服务热线：400-882-2088</li>
+					<li class="content_rexian">微信服务号：lianbao23</li>					
+					<li class="content_rexian">服务邮箱：service@lbyun.com</li>
+					<li><h4>让天下没有难做的售后，让世上没有不满的客户</h4></li>
+				</ul>
+			</div>
+			<div class="content_left">
+				<ul>
+					<li><h1>公司地址:</h1></li>
+					<li><h3>北京市海淀区上地西路6号</h3></li>
+					<li><div style="width:480px;height:300px;border:#ccc solid 1px;" id="dituContent"></div></li>
+				</ul>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+<!--页脚-->
+		<div class="footer">
+	        <div class="footer_t">
+	        	<ul>
+	            	<li><img src="/yjc/lby/Public/Home/public/images/lxy_index_29.png"></li>
+	                <li><p>十分钟让您拥有云端售后能力</p></li>
+	            </ul>
+	            <ul>
+	            	<li><img src="/yjc/lby/Public/Home/public/images/lxy_index_31.png"></li>
+	                <li><p>7*24小时售后顾问支持</p></li>
+	            </ul>
+	            <ul>
+	            	<li><img src="/yjc/lby/Public/Home/public/images/lxy_index_33.png"></li>
+	                <li><p>极大降低服务成本</p></li>
+	            </ul>
+	            <ul>
+	            	<li><img src="/yjc/lby/Public/Home/public/images/lxy_index_35.png"></li>
+	                <li><p>助你赢取客户忠诚度</p></li>
+	            </ul>
+	            <div class="clearfix"></div>   
+	        </div>
+	        <div class="footer_c">
+	        	<ul>
+	            	<li><img src="/yjc/lby/Public/Home/public/images/lxy_index_41.png"></li>
+	                <li>
+	                	<p>服务热线</p>
+	                    <p>400-882-2088</p>
+	                </li>
+	            </ul>
+	            <ul style=" margin-left:120px;">
+	            	<li><a href="">为您的产品保驾护航&nbsp;&nbsp;&nbsp;&nbsp;|</a></li>
+	                <li><a href="">&nbsp;&nbsp;&nbsp;&nbsp;精准的方案推荐&nbsp;&nbsp;&nbsp;&nbsp;|</a></li>
+	                <li><a href="">&nbsp;&nbsp;&nbsp;&nbsp;灵活的合作方案&nbsp;&nbsp;&nbsp;&nbsp;|</a></li>
+	                <li><a href="">&nbsp;&nbsp;&nbsp;&nbsp;一对一贴心帮助服务</a></li>
+	                <div class="clearfix"></div>
+	            </ul>
+	            <div class="clearfix"></div>
+	        </div>
+	        <!--        <div class="link">
+        	<p>友情链接：</p>
+        </div>-->
+        <div class="footer_b">
+            <span>Copyright&nbsp;&nbsp;联保云&nbsp;版权所有2016&nbsp;&nbsp;<a target="_blank" href="http://www.miitbeian.gov.cn/">京ICP备16042723号-1</a>&nbsp;&nbsp;
+		 		<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802022735">
+		 			<img src="/yjc/lby/Public/Home/public/images/record.png">
+		 			京公网安备 11010802022735号
+		 		</a>
+		 	</span>
+        </div>
+<!-- 雪碧图 -->
+        <div class="PreSaleTelephone">
+        <div class="top">
+        <img src="/yjc/lby/Public/Home/public/images/PreSaleTelephoneIcon.png" alt="">
+        <div>售前咨询电话</div>
+        <div>400-882-2088</div>       
+        </div>
+         <ul>
+         <li><a href="">全方位的购买咨询</a></li>
+         <li><a href="">精确的配置推荐</a></li>
+         <li><a href="">灵活的价格方案</a></li>
+         <li><a href="">一对一的贴心服务</a></li>
+         </ul>
+        </div>
+        <div class="MPAQCode"><img src="/yjc/lby/Public/Home/public/images/MobilePhoneAppQrCode.png" alt=""></div>
+        <div class="Sprite">
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+
+            </ul>
+        </div>
+    </div>
+	</body>
+<!-- 雪碧图 -->
+	<script>
+	var PreSaleTelephone=document.querySelector(".PreSaleTelephone");
+	var MPAQCode=document.querySelector(".MPAQCode");
+	var LiSprites=document.querySelectorAll(".Sprite ul li");
+	
+	    LiSprites[1].onmouseover=function(){
+	         PreSaleTelephone.style.display="block";
+	    }
+	    LiSprites[1].onmouseout=function(){
+	         PreSaleTelephone.style.display="none";
+	    }
+	
+	    LiSprites[2].onmouseover=function(){
+	         MPAQCode.style.display="block";
+	    }
+	    LiSprites[2].onmouseout=function(){
+	         MPAQCode.style.display="none";
+	    }
+	</script>
+<!--地图-->
+	<script type="text/javascript">
+    //创建和初始化地图函数：
+    function initMap(){
+        createMap();//创建地图
+        setMapEvent();//设置地图事件
+        addMapControl();//向地图添加控件
+        addMarker();//向地图中添加marker
+    }
+    
+    //创建地图函数：
+    function createMap(){
+        var map = new BMap.Map("dituContent");//在百度地图容器中创建一个地图
+        var point = new BMap.Point(116.305192,40.059386);//定义一个中心点坐标
+        map.centerAndZoom(point,17);//设定地图的中心点和坐标并将地图显示在地图容器中
+        window.map = map;//将map变量存储在全局
+    }
+    
+    //地图事件设置函数：
+    function setMapEvent(){
+        map.enableDragging();//启用地图拖拽事件，默认启用(可不写)
+        map.enableScrollWheelZoom();//启用地图滚轮放大缩小
+        map.enableDoubleClickZoom();//启用鼠标双击放大，默认启用(可不写)
+        map.enableKeyboard();//启用键盘上下左右键移动地图
+    }
+    
+    //地图控件添加函数：
+    function addMapControl(){
+        //向地图中添加缩放控件
+	var ctrl_nav = new BMap.NavigationControl({anchor:BMAP_ANCHOR_TOP_LEFT,type:BMAP_NAVIGATION_CONTROL_LARGE});
+	map.addControl(ctrl_nav);
+        //向地图中添加缩略图控件
+	var ctrl_ove = new BMap.OverviewMapControl({anchor:BMAP_ANCHOR_BOTTOM_RIGHT,isOpen:1});
+	map.addControl(ctrl_ove);
+        //向地图中添加比例尺控件
+	var ctrl_sca = new BMap.ScaleControl({anchor:BMAP_ANCHOR_BOTTOM_LEFT});
+	map.addControl(ctrl_sca);
+    }
+    
+    //标注点数组
+    var markerArr = [{title:"联保(北京)科技有限公司",content:"北京市海淀区上地西路6号",point:"116.304851|40.059704",isOpen:0,icon:{w:21,h:21,l:0,t:0,x:6,lb:5}}
+		 ];
+    //创建marker
+    function addMarker(){
+        for(var i=0;i<markerArr.length;i++){
+            var json = markerArr[i];
+            var p0 = json.point.split("|")[0];
+            var p1 = json.point.split("|")[1];
+            var point = new BMap.Point(p0,p1);
+			var iconImg = createIcon(json.icon);
+            var marker = new BMap.Marker(point,{icon:iconImg});
+			var iw = createInfoWindow(i);
+			var label = new BMap.Label(json.title,{"offset":new BMap.Size(json.icon.lb-json.icon.x+10,-20)});
+			marker.setLabel(label);
+            map.addOverlay(marker);
+            label.setStyle({
+                        borderColor:"#808080",
+                        color:"#333",
+                        cursor:"pointer"
+            });
+			
+			(function(){
+				var index = i;
+				var _iw = createInfoWindow(i);
+				var _marker = marker;
+				_marker.addEventListener("click",function(){
+				    this.openInfoWindow(_iw);
+			    });
+			    _iw.addEventListener("open",function(){
+				    _marker.getLabel().hide();
+			    })
+			    _iw.addEventListener("close",function(){
+				    _marker.getLabel().show();
+			    })
+				label.addEventListener("click",function(){
+				    _marker.openInfoWindow(_iw);
+			    })
+				if(!!json.isOpen){
+					label.hide();
+					_marker.openInfoWindow(_iw);
+				}
+			})()
+        }
+    }
+    //创建InfoWindow
+    function createInfoWindow(i){
+        var json = markerArr[i];
+        var iw = new BMap.InfoWindow("<b class='iw_poi_title' title='" + json.title + "'>" + json.title + "</b><div class='iw_poi_content'>"+json.content+"</div>");
+        return iw;
+    }
+    //创建一个Icon
+    function createIcon(json){
+        var icon = new BMap.Icon("/yjc/lby/Public/Home/public/images/map.jpg", new BMap.Size(json.w,json.h),{imageOffset: new BMap.Size(-json.l,-json.t),infoWindowOffset:new BMap.Size(json.lb+5,1),offset:new BMap.Size(json.x,json.h)})
+        return icon;
+    }
+    
+    initMap();//创建和初始化地图
+</script>
+</html>

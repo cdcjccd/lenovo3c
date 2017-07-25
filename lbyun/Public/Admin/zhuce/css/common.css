@@ -1,0 +1,132 @@
+body{
+	margin:0;
+	padding:0;
+	height:100%;
+	width:100%;
+	overflow: hidden;
+}
+html{
+	height:100%;
+}
+*{
+	font-family:"微软雅黑"
+}
+.clearfix{
+	clear:both;
+}
+ul{
+	list-style: none;
+	padding:0;
+	margin:0;
+}
+ul li{
+	padding:0;
+	margin:0;
+}
+/*index*/
+.bodybg{
+	padding-top:80px;
+	width:100%;
+	height:100%;
+	background: url(../img/bg.jpg) no-repeat center center;
+	background-size:cover;
+}
+.bodybg img{
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3);
+	width:300px;
+	height:auto;
+	display: block;
+	margin:0px auto 20px auto;
+}
+.bodybg .category{
+	display: block;
+}
+.bodybg .category li{
+	width:360px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3);
+	border-radius: 20px;
+	margin: 50px auto;
+	text-align: center;
+	padding:10px 0;
+	color:#fff;
+}
+.bodybg .category li:hover{
+	cursor:pointer
+}
+.bodybg .category li h4{
+	font-size:30px;
+	margin:5px 0
+}
+.bodybg .category li p{
+	font-size:24px;
+	margin:5px 0;
+}
+.bodybg .category li:nth-of-type(1){
+	background-color:#ff9966;
+}
+.bodybg .category li:nth-of-type(1):hover{
+	background-color:#e3885a;
+}
+.bodybg .category li:nth-of-type(2){
+	background-color:#ff6666;
+}
+.bodybg .category li:nth-of-type(2):hover{
+	background-color:#d95858;
+}
+.bodybg .category li:nth-of-type(3){
+	background-color:#f0a3a3;
+}
+.bodybg .category li:nth-of-type(3):hover{
+	background-color:#c78686;
+}
+.bodybg .footer{
+	position:absolute;
+	bottom:20px;
+	width:100%;
+}
+.bodybg .footer .ycab{
+	margin:20px; auto;
+	text-align: center;
+}
+.bodybg .footer .ycab li{
+	font-size: 28px;
+	color:#d11d1b;
+	float: left;
+}
+.bodybg .footer .ycab li:hover{
+	cursor:pointer;
+}
+.bodybg .footer .ycab li:nth-of-type(2){
+	margin-left:60px;
+}
+.bodybg .footer .ycab li:nth-of-type(3){
+	float:right;
+}
+.bodybg .footer .fwrx{
+	text-align: center;
+	font-size:26px;
+	color:#333;
+}
+@media(max-width:800px){
+	.bodybg{
+		padding-top:50px;
+	}
+	.bodybg img{
+		margin:0 auto 50px auto;
+	}
+	.bodybg .category li{
+		margin:30px auto;
+	}
+}
+@media (min-width:800px){
+	
+	
+	.bodybg .footer .ycab{
+		width:800px;
+		margin:0 auto;
+	}
+	.bodybg .footer .ycab li:nth-of-type(2){
+	margin-left:180px;
+	}
+}
+
